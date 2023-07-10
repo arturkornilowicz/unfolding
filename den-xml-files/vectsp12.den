@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="509" col="9"/>
+  <Position name="ALGSTR_0" nr="16" line="1044" col="9"/>
+  <Position name="ALGSTR_0" nr="11" line="1046" col="10"/>
+  <Position name="RLVECT_1" nr="2" line="1160" col="7"/>
+  <Position name="RLVECT_1" nr="3" line="1176" col="7"/>
+  <Position name="RLVECT_1" nr="4" line="1198" col="7"/>
+  <Position name="ALGSTR_0" nr="16" line="1212" col="7"/>
+  <Position name="ALGSTR_0" nr="11" line="1220" col="8"/>
+  <Position name="VECTSP_1" nr="13" line="1261" col="7"/>
+  <Position name="VECTSP_1" nr="14" line="1282" col="7"/>
+  <Position name="VECTSP_1" nr="15" line="1300" col="7"/>
+  <Position name="VECTSP_1" nr="16" line="1316" col="7"/>
+</Positions>

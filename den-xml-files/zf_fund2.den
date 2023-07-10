@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="69" col="11"/>
+  <Position name="ORDINAL1" nr="2" line="105" col="8"/>
+  <Position name="TARSKI" nr="3" line="109" col="7"/>
+  <Position name="TARSKI" nr="3" line="117" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="134" col="5"/>
+  <Position name="TARSKI" nr="3" line="135" col="5"/>
+  <Position name="TARSKI" nr="3" line="224" col="9"/>
+  <Position name="TARSKI" nr="3" line="242" col="9"/>
+  <Position name="ORDINAL1" nr="2" line="261" col="7"/>
+  <Position name="TARSKI" nr="3" line="272" col="7"/>
+  <Position name="TARSKI" nr="3" line="478" col="9"/>
+  <Position name="TARSKI" nr="3" line="508" col="9"/>
+  <Position name="TARSKI" nr="3" line="551" col="9"/>
+  <Position name="TARSKI" nr="3" line="620" col="15"/>
+  <Position name="TARSKI" nr="3" line="663" col="15"/>
+  <Position name="ORDINAL1" nr="2" line="720" col="7"/>
+  <Position name="TARSKI" nr="3" line="731" col="7"/>
+  <Position name="TARSKI" nr="3" line="806" col="11"/>
+  <Position name="TARSKI" nr="3" line="821" col="11"/>
+  <Position name="ZF_FUND2" nr="2" line="870" col="5"/>
+  <Position name="TARSKI" nr="3" line="888" col="11"/>
+  <Position name="TARSKI" nr="3" line="911" col="13"/>
+  <Position name="XBOOLE_0" nr="10" line="915" col="11"/>
+  <Position name="TARSKI" nr="3" line="916" col="11"/>
+  <Position name="ORDINAL1" nr="2" line="947" col="7"/>
+  <Position name="TARSKI" nr="3" line="958" col="7"/>
+  <Position name="TARSKI" nr="3" line="1010" col="9"/>
+  <Position name="ORDINAL1" nr="5" line="1048" col="9"/>
+  <Position name="TARSKI" nr="3" line="1073" col="11"/>
+  <Position name="XBOOLE_0" nr="10" line="1084" col="9"/>
+  <Position name="TARSKI" nr="3" line="1089" col="9"/>
+</Positions>

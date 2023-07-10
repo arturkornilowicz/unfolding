@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="RELAT_1" nr="2" line="79" col="7"/>
+  <Position name="TARSKI" nr="3" line="215" col="9"/>
+  <Position name="FUNCT_1" nr="4" line="409" col="5"/>
+  <Position name="TARSKI" nr="3" line="549" col="9"/>
+  <Position name="TARSKI" nr="3" line="576" col="7"/>
+  <Position name="TARSKI" nr="3" line="601" col="7"/>
+  <Position name="TARSKI" nr="3" line="633" col="7"/>
+  <Position name="TARSKI" nr="3" line="692" col="7"/>
+  <Position name="TARSKI" nr="3" line="720" col="7"/>
+  <Position name="TARSKI" nr="3" line="897" col="7"/>
+  <Position name="PARTFUN1" nr="2" line="903" col="11"/>
+  <Position name="PARTFUN1" nr="2" line="909" col="5"/>
+  <Position name="TARSKI" nr="3" line="911" col="5"/>
+  <Position name="TARSKI" nr="3" line="929" col="7"/>
+  <Position name="PARTFUN1" nr="2" line="935" col="11"/>
+  <Position name="RELAT_1" nr="3" line="961" col="9"/>
+  <Position name="TARSKI" nr="3" line="1057" col="5"/>
+  <Position name="PARTFUN1" nr="4" line="1126" col="5"/>
+  <Position name="PARTFUN1" nr="4" line="1153" col="5"/>
+  <Position name="PARTFUN1" nr="2" line="1199" col="5"/>
+  <Position name="PARTFUN1" nr="4" line="1203" col="5"/>
+  <Position name="TARSKI" nr="3" line="1272" col="11"/>
+  <Position name="PARTFUN1" nr="4" line="1302" col="11"/>
+  <Position name="PARTFUN1" nr="4" line="1309" col="11"/>
+  <Position name="XBOOLE_0" nr="7" line="1449" col="8"/>
+  <Position name="XBOOLE_0" nr="7" line="1469" col="16"/>
+  <Position name="RELAT_2" nr="9" line="1482" col="8"/>
+  <Position name="RELAT_2" nr="11" line="1484" col="8"/>
+  <Position name="RELAT_2" nr="12" line="1486" col="8"/>
+  <Position name="RELAT_2" nr="16" line="1488" col="8"/>
+  <Position name="RELAT_2" nr="11" line="1514" col="10"/>
+  <Position name="RELAT_2" nr="16" line="1514" col="10"/>
+  <Position name="RELAT_2" nr="9" line="1517" col="7"/>
+  <Position name="RELAT_2" nr="1" line="1517" col="7"/>
+  <Position name="FUNCT_1" nr="13" line="1579" col="8"/>
+  <Position name="FUNCT_1" nr="13" line="1642" col="7"/>
+  <Position name="PARTFUN1" nr="4" line="1710" col="7"/>
+  <Position name="PARTFUN1" nr="4" line="1727" col="7"/>
+</Positions>

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="125" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="138" col="5"/>
+  <Position name="TARSKI" nr="3" line="139" col="5"/>
+  <Position name="TARSKI" nr="3" line="237" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="263" col="13"/>
+  <Position name="TARSKI" nr="3" line="263" col="13"/>
+  <Position name="TARSKI" nr="3" line="265" col="7"/>
+  <Position name="TARSKI" nr="3" line="286" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="303" col="5"/>
+  <Position name="TARSKI" nr="3" line="342" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="353" col="5"/>
+  <Position name="TARSKI" nr="3" line="354" col="5"/>
+  <Position name="BALLOT_1" nr="2" line="448" col="9"/>
+  <Position name="BALLOT_1" nr="2" line="496" col="11"/>
+  <Position name="BALLOT_1" nr="2" line="559" col="9"/>
+  <Position name="TARSKI" nr="3" line="605" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="626" col="11"/>
+  <Position name="TARSKI" nr="3" line="627" col="7"/>
+  <Position name="BALLOT_1" nr="2" line="705" col="14"/>
+  <Position name="TARSKI" nr="3" line="723" col="7"/>
+  <Position name="BALLOT_1" nr="2" line="744" col="14"/>
+  <Position name="FUNCT_1" nr="4" line="785" col="11"/>
+  <Position name="BALLOT_1" nr="2" line="861" col="9"/>
+  <Position name="TARSKI" nr="3" line="1023" col="9"/>
+  <Position name="FUNCT_1" nr="4" line="1048" col="9"/>
+  <Position name="TARSKI" nr="3" line="1112" col="11"/>
+  <Position name="FUNCT_1" nr="4" line="1137" col="11"/>
+</Positions>

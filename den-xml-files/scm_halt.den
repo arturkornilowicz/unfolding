@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="SCM_HALT" nr="1" line="91" col="5"/>
+  <Position name="EXTPRO_1" nr="8" line="100" col="6"/>
+  <Position name="SCM_HALT" nr="1" line="127" col="7"/>
+  <Position name="SCM_HALT" nr="2" line="146" col="9"/>
+  <Position name="SCM_HALT" nr="1" line="1026" col="7"/>
+  <Position name="EXTPRO_1" nr="8" line="1078" col="8"/>
+  <Position name="SCM_HALT" nr="2" line="1544" col="7"/>
+  <Position name="SCMFSA7B" nr="6" line="2392" col="9"/>
+  <Position name="SCMFSA7B" nr="6" line="2407" col="9"/>
+  <Position name="SCMFSA9A" nr="9" line="2430" col="13"/>
+</Positions>

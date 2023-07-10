@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="60" col="9"/>
+  <Position name="TARSKI" nr="3" line="74" col="11"/>
+  <Position name="XBOOLE_0" nr="10" line="81" col="9"/>
+  <Position name="TARSKI" nr="3" line="82" col="9"/>
+  <Position name="TARSKI" nr="3" line="102" col="7"/>
+  <Position name="TARSKI" nr="3" line="110" col="7"/>
+  <Position name="TARSKI" nr="3" line="204" col="5"/>
+  <Position name="TARSKI" nr="3" line="223" col="7"/>
+  <Position name="TARSKI" nr="3" line="257" col="7"/>
+  <Position name="TARSKI" nr="3" line="278" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="339" col="10"/>
+  <Position name="TARSKI" nr="3" line="340" col="5"/>
+  <Position name="VECTSP_4" nr="2" line="391" col="10"/>
+  <Position name="TARSKI" nr="3" line="572" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="582" col="5"/>
+  <Position name="TARSKI" nr="3" line="583" col="5"/>
+  <Position name="TARSKI" nr="3" line="599" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="605" col="5"/>
+  <Position name="TARSKI" nr="3" line="606" col="5"/>
+  <Position name="TARSKI" nr="3" line="626" col="5"/>
+  <Position name="TARSKI" nr="3" line="652" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="674" col="5"/>
+  <Position name="TARSKI" nr="3" line="684" col="5"/>
+  <Position name="XBOOLE_0" nr="10" line="713" col="10"/>
+  <Position name="TARSKI" nr="3" line="715" col="5"/>
+  <Position name="VECTSP_4" nr="1" line="1157" col="15"/>
+  <Position name="VECTSP_4" nr="1" line="1304" col="11"/>
+  <Position name="VECTSP_5" nr="4" line="1386" col="7"/>
+  <Position name="XBOOLE_0" nr="7" line="1460" col="8"/>
+  <Position name="VECTSP_4" nr="6" line="1471" col="8"/>
+  <Position name="TARSKI" nr="3" line="1474" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="1488" col="7"/>
+  <Position name="TARSKI" nr="3" line="1489" col="7"/>
+  <Position name="TARSKI" nr="3" line="1539" col="11"/>
+  <Position name="XBOOLE_0" nr="10" line="1553" col="9"/>
+  <Position name="TARSKI" nr="3" line="1554" col="9"/>
+  <Position name="TARSKI" nr="3" line="1572" col="7"/>
+  <Position name="VECTSP_5" nr="4" line="1596" col="11"/>
+</Positions>

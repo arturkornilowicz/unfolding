@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="COMPOS_0" nr="1" line="58" col="7"/>
+  <Position name="COMPOS_0" nr="1" line="67" col="7"/>
+  <Position name="FUNCT_1" nr="13" line="223" col="7"/>
+  <Position name="FUNCT_1" nr="13" line="239" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="280" col="15"/>
+  <Position name="TARSKI" nr="3" line="280" col="15"/>
+  <Position name="TARSKI" nr="3" line="282" col="7"/>
+  <Position name="COMPOS_0" nr="7" line="299" col="8"/>
+  <Position name="COMPOS_0" nr="5" line="308" col="6"/>
+  <Position name="CARD_3" nr="10" line="329" col="7"/>
+  <Position name="TARSKI" nr="3" line="368" col="6"/>
+  <Position name="TARSKI" nr="3" line="395" col="5"/>
+  <Position name="VALUED_0" nr="12" line="485" col="14"/>
+  <Position name="COMPOS_0" nr="8" line="598" col="5"/>
+  <Position name="XBOOLE_0" nr="10" line="628" col="13"/>
+  <Position name="TARSKI" nr="3" line="628" col="13"/>
+  <Position name="TARSKI" nr="3" line="630" col="7"/>
+  <Position name="COMPOS_0" nr="1" line="742" col="5"/>
+  <Position name="XBOOLE_0" nr="10" line="790" col="15"/>
+  <Position name="TARSKI" nr="3" line="790" col="15"/>
+  <Position name="TARSKI" nr="3" line="792" col="7"/>
+  <Position name="COMPOS_0" nr="7" line="809" col="8"/>
+  <Position name="COMPOS_0" nr="5" line="818" col="6"/>
+  <Position name="XBOOLE_0" nr="10" line="856" col="10"/>
+  <Position name="TARSKI" nr="3" line="856" col="10"/>
+  <Position name="TARSKI" nr="3" line="858" col="5"/>
+</Positions>

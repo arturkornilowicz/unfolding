@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="FUNCT_1" nr="11" line="123" col="7"/>
+  <Position name="AMISTD_5" nr="2" line="139" col="10"/>
+  <Position name="AMISTD_5" nr="1" line="139" col="10"/>
+  <Position name="EXTPRO_1" nr="10" line="471" col="8"/>
+  <Position name="AMISTD_5" nr="4" line="563" col="5"/>
+  <Position name="EXTPRO_1" nr="10" line="596" col="8"/>
+</Positions>

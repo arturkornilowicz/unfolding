@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="CANTOR_1" nr="2" line="80" col="7"/>
+  <Position name="TARSKI" nr="3" line="80" col="7"/>
+  <Position name="TARSKI" nr="3" line="110" col="5"/>
+  <Position name="TARSKI" nr="3" line="164" col="5"/>
+  <Position name="XBOOLE_0" nr="10" line="201" col="10"/>
+  <Position name="XBOOLE_0" nr="10" line="233" col="10"/>
+  <Position name="TARSKI" nr="3" line="234" col="5"/>
+  <Position name="TARSKI" nr="3" line="270" col="5"/>
+  <Position name="XBOOLE_0" nr="10" line="307" col="11"/>
+  <Position name="TARSKI" nr="3" line="307" col="11"/>
+  <Position name="TARSKI" nr="3" line="309" col="5"/>
+  <Position name="XBOOLE_0" nr="10" line="332" col="16"/>
+  <Position name="TARSKI" nr="3" line="333" col="5"/>
+  <Position name="TARSKI" nr="3" line="357" col="7"/>
+  <Position name="TARSKI" nr="3" line="377" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="406" col="11"/>
+  <Position name="TARSKI" nr="3" line="406" col="11"/>
+  <Position name="TARSKI" nr="3" line="408" col="11"/>
+  <Position name="TARSKI" nr="3" line="465" col="5"/>
+  <Position name="TARSKI" nr="3" line="487" col="5"/>
+  <Position name="PRE_TOPC" nr="1" line="519" col="11"/>
+  <Position name="XBOOLE_0" nr="10" line="541" col="15"/>
+  <Position name="TARSKI" nr="3" line="541" col="15"/>
+  <Position name="TARSKI" nr="3" line="543" col="9"/>
+  <Position name="CANTOR_1" nr="4" line="651" col="10"/>
+</Positions>

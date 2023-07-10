@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="62" col="7"/>
+  <Position name="TARSKI" nr="3" line="87" col="5"/>
+  <Position name="TOPS_2" nr="1" line="212" col="7"/>
+  <Position name="TOPS_2" nr="2" line="220" col="5"/>
+  <Position name="TOPS_2" nr="1" line="246" col="5"/>
+  <Position name="TOPS_2" nr="1" line="257" col="5"/>
+  <Position name="TOPS_2" nr="1" line="268" col="5"/>
+  <Position name="TOPS_2" nr="2" line="279" col="5"/>
+  <Position name="TOPS_2" nr="2" line="290" col="5"/>
+  <Position name="TOPS_2" nr="2" line="301" col="5"/>
+  <Position name="TARSKI" nr="3" line="314" col="7"/>
+  <Position name="TARSKI" nr="3" line="596" col="5"/>
+  <Position name="TARSKI" nr="3" line="622" col="9"/>
+  <Position name="TARSKI" nr="3" line="676" col="5"/>
+  <Position name="TOPS_2" nr="1" line="751" col="5"/>
+  <Position name="TOPS_2" nr="2" line="767" col="5"/>
+  <Position name="TOPS_2" nr="1" line="794" col="7"/>
+  <Position name="PRE_TOPC" nr="6" line="930" col="5"/>
+  <Position name="PRE_TOPC" nr="6" line="960" col="5"/>
+  <Position name="PRE_TOPC" nr="6" line="1016" col="5"/>
+  <Position name="TOPS_2" nr="1" line="1030" col="5"/>
+  <Position name="TOPS_2" nr="2" line="1054" col="5"/>
+  <Position name="TOPS_2" nr="5" line="1228" col="11"/>
+  <Position name="PRE_TOPC" nr="6" line="1276" col="7"/>
+  <Position name="PRE_TOPC" nr="6" line="1284" col="7"/>
+  <Position name="TOPS_2" nr="5" line="1323" col="10"/>
+  <Position name="TOPS_2" nr="5" line="1363" col="10"/>
+  <Position name="TARSKI" nr="3" line="1522" col="9"/>
+  <Position name="TOPS_2" nr="1" line="1531" col="7"/>
+  <Position name="TARSKI" nr="3" line="1544" col="9"/>
+  <Position name="TOPS_2" nr="2" line="1555" col="7"/>
+</Positions>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TAXONOM2" nr="1" line="67" col="8"/>
+  <Position name="TARSKI" nr="3" line="137" col="5"/>
+  <Position name="TAXONOM2" nr="1" line="220" col="8"/>
+  <Position name="TAXONOM2" nr="3" line="274" col="11"/>
+  <Position name="TAXONOM2" nr="3" line="295" col="9"/>
+  <Position name="TAXONOM2" nr="3" line="340" col="5"/>
+  <Position name="TAXONOM2" nr="5" line="406" col="5"/>
+  <Position name="TARSKI" nr="3" line="424" col="7"/>
+  <Position name="TARSKI" nr="3" line="498" col="11"/>
+  <Position name="TARSKI" nr="3" line="546" col="9"/>
+  <Position name="TAXONOM2" nr="5" line="557" col="9"/>
+  <Position name="TAXONOM2" nr="3" line="598" col="11"/>
+  <Position name="TAXONOM2" nr="6" line="610" col="11"/>
+  <Position name="TARSKI" nr="3" line="678" col="7"/>
+  <Position name="TARSKI" nr="3" line="783" col="13"/>
+  <Position name="EQREL_1" nr="4" line="815" col="12"/>
+  <Position name="TAXONOM2" nr="5" line="1140" col="13"/>
+  <Position name="TARSKI" nr="3" line="1224" col="7"/>
+  <Position name="TARSKI" nr="3" line="1332" col="7"/>
+  <Position name="SETFAM_1" nr="2" line="1339" col="5"/>
+  <Position name="TARSKI" nr="3" line="1365" col="7"/>
+  <Position name="TARSKI" nr="3" line="1446" col="7"/>
+  <Position name="TARSKI" nr="3" line="1478" col="7"/>
+  <Position name="SETFAM_1" nr="2" line="1487" col="7"/>
+  <Position name="SETFAM_1" nr="2" line="1514" col="5"/>
+  <Position name="TARSKI" nr="3" line="1553" col="7"/>
+  <Position name="TARSKI" nr="3" line="1615" col="9"/>
+  <Position name="TAXONOM1" nr="1" line="1632" col="7"/>
+  <Position name="TARSKI" nr="3" line="1640" col="7"/>
+  <Position name="TARSKI" nr="3" line="1678" col="11"/>
+  <Position name="TARSKI" nr="3" line="1892" col="15"/>
+  <Position name="TARSKI" nr="3" line="1996" col="15"/>
+  <Position name="TARSKI" nr="3" line="2022" col="7"/>
+</Positions>

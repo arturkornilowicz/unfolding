@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="HAHNBAN" nr="2" line="203" col="8"/>
+  <Position name="HAHNBAN" nr="3" line="218" col="8"/>
+  <Position name="TARSKI" nr="3" line="511" col="7"/>
+  <Position name="TARSKI" nr="3" line="519" col="7"/>
+  <Position name="HAHNBAN" nr="2" line="604" col="7"/>
+  <Position name="HAHNBAN" nr="3" line="612" col="7"/>
+  <Position name="VECTSP_1" nr="19" line="689" col="7"/>
+  <Position name="LOPBAN_1" nr="5" line="710" col="7"/>
+  <Position name="TARSKI" nr="3" line="782" col="7"/>
+  <Position name="TARSKI" nr="3" line="795" col="7"/>
+  <Position name="VECTSP_1" nr="19" line="844" col="7"/>
+  <Position name="LOPBAN_1" nr="5" line="850" col="7"/>
+  <Position name="ALGSTR_0" nr="16" line="899" col="7"/>
+  <Position name="ALGSTR_0" nr="11" line="903" col="8"/>
+  <Position name="TARSKI" nr="3" line="1373" col="7"/>
+  <Position name="HAHNBAN" nr="2" line="1573" col="9"/>
+  <Position name="HAHNBAN" nr="3" line="1583" col="9"/>
+  <Position name="VECTSP_1" nr="19" line="1607" col="8"/>
+  <Position name="LOPBAN_1" nr="5" line="1628" col="8"/>
+  <Position name="HAHNBAN" nr="2" line="1687" col="8"/>
+  <Position name="HAHNBAN" nr="3" line="1696" col="8"/>
+  <Position name="HAHNBAN" nr="2" line="2152" col="9"/>
+  <Position name="HAHNBAN" nr="3" line="2166" col="9"/>
+</Positions>

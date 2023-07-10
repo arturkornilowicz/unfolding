@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="RLVECT_1" nr="2" line="602" col="7"/>
+  <Position name="RLVECT_1" nr="3" line="617" col="7"/>
+  <Position name="RLVECT_1" nr="4" line="637" col="7"/>
+  <Position name="ALGSTR_0" nr="16" line="650" col="9"/>
+  <Position name="ALGSTR_0" nr="11" line="658" col="10"/>
+  <Position name="RLVECT_1" nr="2" line="711" col="7"/>
+  <Position name="RLVECT_1" nr="3" line="726" col="7"/>
+  <Position name="RLVECT_1" nr="4" line="746" col="7"/>
+  <Position name="ALGSTR_0" nr="16" line="759" col="9"/>
+  <Position name="ALGSTR_0" nr="11" line="767" col="10"/>
+  <Position name="RLVECT_1" nr="5" line="807" col="7"/>
+  <Position name="RLVECT_1" nr="6" line="828" col="7"/>
+  <Position name="RLVECT_1" nr="7" line="846" col="7"/>
+  <Position name="RLVECT_1" nr="8" line="862" col="7"/>
+  <Position name="PRVECT_2" nr="3" line="877" col="7"/>
+  <Position name="PRVECT_2" nr="3" line="895" col="9"/>
+  <Position name="PRVECT_2" nr="3" line="988" col="9"/>
+  <Position name="PRVECT_2" nr="10" line="1582" col="9"/>
+  <Position name="PRVECT_2" nr="10" line="1601" col="9"/>
+</Positions>

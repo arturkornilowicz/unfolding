@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="ZF_LANG" nr="15" line="58" col="10"/>
+  <Position name="ZF_LANG" nr="15" line="477" col="7"/>
+  <Position name="ZF_LANG" nr="15" line="661" col="10"/>
+  <Position name="TARSKI" nr="3" line="753" col="11"/>
+  <Position name="TARSKI" nr="3" line="766" col="11"/>
+  <Position name="TARSKI" nr="3" line="938" col="11"/>
+  <Position name="TARSKI" nr="3" line="946" col="11"/>
+  <Position name="TARSKI" nr="3" line="963" col="11"/>
+  <Position name="ZF_MODEL" nr="5" line="1356" col="10"/>
+  <Position name="ZF_MODEL" nr="5" line="1358" col="7"/>
+  <Position name="ZF_MODEL" nr="5" line="1364" col="5"/>
+</Positions>

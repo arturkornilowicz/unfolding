@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="VECTSP_1" nr="8" line="48" col="7"/>
+  <Position name="VECTSP_1" nr="7" line="62" col="7"/>
+  <Position name="VECTSP_1" nr="7" line="76" col="7"/>
+  <Position name="VECTSP_2" nr="1" line="99" col="13"/>
+  <Position name="GCD_1" nr="3" line="196" col="10"/>
+  <Position name="GCD_1" nr="1" line="288" col="6"/>
+  <Position name="XBOOLE_0" nr="7" line="620" col="8"/>
+  <Position name="GCD_1" nr="11" line="1217" col="7"/>
+  <Position name="GCD_1" nr="14" line="1873" col="9"/>
+</Positions>

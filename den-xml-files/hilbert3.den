@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="FUNCT_1" nr="4" line="50" col="7"/>
+  <Position name="FUNCT_1" nr="4" line="65" col="7"/>
+  <Position name="ABIAN" nr="3" line="94" col="8"/>
+  <Position name="FUNCT_1" nr="4" line="288" col="7"/>
+  <Position name="TARSKI" nr="3" line="401" col="5"/>
+  <Position name="FUNCT_2" nr="4" line="489" col="13"/>
+  <Position name="FUNCT_2" nr="3" line="491" col="15"/>
+  <Position name="FUNCT_1" nr="4" line="541" col="9"/>
+  <Position name="FUNCT_2" nr="4" line="562" col="7"/>
+  <Position name="FUNCT_2" nr="3" line="563" col="12"/>
+  <Position name="XBOOLE_0" nr="10" line="563" col="12"/>
+  <Position name="TARSKI" nr="3" line="564" col="7"/>
+  <Position name="FUNCT_1" nr="13" line="775" col="7"/>
+  <Position name="FUNCOP_1" nr="6" line="787" col="7"/>
+  <Position name="PBOOLE" nr="15" line="929" col="9"/>
+  <Position name="ABIAN" nr="3" line="1110" col="9"/>
+  <Position name="HILBERT3" nr="7" line="1130" col="7"/>
+  <Position name="HILBERT3" nr="7" line="1143" col="5"/>
+  <Position name="ABIAN" nr="3" line="1157" col="9"/>
+  <Position name="HILBERT3" nr="7" line="1185" col="5"/>
+  <Position name="ABIAN" nr="3" line="1191" col="9"/>
+  <Position name="HILBERT3" nr="7" line="1207" col="5"/>
+  <Position name="ABIAN" nr="3" line="1213" col="9"/>
+  <Position name="HILBERT3" nr="7" line="1229" col="5"/>
+  <Position name="ABIAN" nr="3" line="1240" col="9"/>
+  <Position name="HILBERT3" nr="7" line="1286" col="5"/>
+  <Position name="ABIAN" nr="3" line="1309" col="9"/>
+  <Position name="HILBERT3" nr="7" line="1400" col="5"/>
+  <Position name="TARSKI" nr="3" line="1424" col="7"/>
+  <Position name="HILBERT1" nr="10" line="1432" col="14"/>
+  <Position name="HILBERT3" nr="8" line="1480" col="7"/>
+  <Position name="HILBERT3" nr="8" line="1496" col="5"/>
+  <Position name="TARSKI" nr="3" line="1539" col="7"/>
+  <Position name="FUNCT_1" nr="4" line="1590" col="7"/>
+  <Position name="ABIAN" nr="3" line="1651" col="11"/>
+  <Position name="ABIAN" nr="3" line="1759" col="10"/>
+</Positions>

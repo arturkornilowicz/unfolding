@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="OSALG_1" nr="16" line="51" col="7"/>
+  <Position name="OSALG_1" nr="16" line="69" col="7"/>
+  <Position name="MSUALG_2" nr="2" line="158" col="5"/>
+  <Position name="MSUALG_2" nr="9" line="265" col="12"/>
+  <Position name="OSALG_1" nr="16" line="329" col="9"/>
+  <Position name="TARSKI" nr="3" line="332" col="9"/>
+  <Position name="PBOOLE" nr="2" line="373" col="5"/>
+  <Position name="PBOOLE" nr="2" line="436" col="9"/>
+  <Position name="OSALG_1" nr="16" line="447" col="9"/>
+  <Position name="TARSKI" nr="3" line="450" col="9"/>
+  <Position name="PBOOLE" nr="2" line="487" col="5"/>
+  <Position name="PBOOLE" nr="2" line="578" col="7"/>
+  <Position name="PBOOLE" nr="2" line="666" col="7"/>
+  <Position name="TARSKI" nr="3" line="715" col="5"/>
+  <Position name="TARSKI" nr="3" line="752" col="5"/>
+  <Position name="TARSKI" nr="3" line="918" col="5"/>
+  <Position name="PBOOLE" nr="2" line="963" col="9"/>
+  <Position name="PBOOLE" nr="2" line="1028" col="5"/>
+  <Position name="PBOOLE" nr="2" line="1086" col="7"/>
+  <Position name="TARSKI" nr="3" line="1124" col="5"/>
+  <Position name="MSUALG_2" nr="6" line="1153" col="7"/>
+  <Position name="PBOOLE" nr="2" line="1235" col="9"/>
+  <Position name="PBOOLE" nr="2" line="1287" col="9"/>
+  <Position name="PBOOLE" nr="2" line="1329" col="9"/>
+  <Position name="PBOOLE" nr="2" line="1348" col="5"/>
+  <Position name="TARSKI" nr="3" line="1653" col="5"/>
+  <Position name="LATTICES" nr="13" line="1971" col="8"/>
+  <Position name="LATTICES" nr="15" line="1978" col="5"/>
+  <Position name="LATTICES" nr="14" line="1986" col="8"/>
+</Positions>

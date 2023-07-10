@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="FINSEQ_1" nr="2" line="85" col="10"/>
+  <Position name="FINSEQ_1" nr="2" line="90" col="10"/>
+  <Position name="TARSKI" nr="3" line="161" col="7"/>
+  <Position name="TARSKI" nr="3" line="179" col="7"/>
+  <Position name="FUNCT_1" nr="11" line="222" col="12"/>
+  <Position name="NOMIN_1" nr="4" line="364" col="12"/>
+  <Position name="NOMIN_1" nr="4" line="395" col="12"/>
+  <Position name="NOMIN_1" nr="4" line="433" col="11"/>
+  <Position name="FUNCT_1" nr="11" line="484" col="13"/>
+  <Position name="PARTFUN1" nr="4" line="497" col="7"/>
+  <Position name="NOMIN_1" nr="4" line="607" col="2"/>
+  <Position name="NOMIN_1" nr="4" line="692" col="10"/>
+  <Position name="NOMIN_1" nr="5" line="739" col="8"/>
+  <Position name="TARSKI" nr="3" line="990" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="997" col="7"/>
+  <Position name="TARSKI" nr="3" line="998" col="7"/>
+  <Position name="NOMIN_1" nr="5" line="1099" col="8"/>
+  <Position name="NOMIN_1" nr="5" line="1154" col="8"/>
+  <Position name="NOMIN_1" nr="5" line="1222" col="8"/>
+  <Position name="TARSKI" nr="3" line="1282" col="9"/>
+  <Position name="TARSKI" nr="3" line="1327" col="9"/>
+  <Position name="NOMIN_1" nr="5" line="1344" col="8"/>
+  <Position name="NOMIN_1" nr="6" line="1364" col="10"/>
+  <Position name="FINSEQ_1" nr="17" line="1521" col="12"/>
+  <Position name="TARSKI" nr="3" line="1808" col="9"/>
+  <Position name="TARSKI" nr="3" line="1844" col="9"/>
+  <Position name="FUNCT_1" nr="11" line="1864" col="12"/>
+  <Position name="FUNCT_2" nr="8" line="1903" col="7"/>
+  <Position name="FUNCT_1" nr="11" line="1967" col="12"/>
+</Positions>

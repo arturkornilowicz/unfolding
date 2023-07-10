@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="65" col="7"/>
+  <Position name="POLYFORM" nr="3" line="484" col="7"/>
+  <Position name="TARSKI" nr="3" line="1488" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="1495" col="7"/>
+  <Position name="TARSKI" nr="3" line="1498" col="9"/>
+  <Position name="TARSKI" nr="3" line="1537" col="7"/>
+  <Position name="TARSKI" nr="3" line="2327" col="7"/>
+  <Position name="TARSKI" nr="3" line="2852" col="9"/>
+  <Position name="TARSKI" nr="3" line="2866" col="9"/>
+</Positions>

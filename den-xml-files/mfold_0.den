@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="MFOLD_0" nr="3" line="301" col="7"/>
+  <Position name="MFOLD_0" nr="2" line="328" col="7"/>
+  <Position name="TARSKI" nr="3" line="351" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="386" col="13"/>
+  <Position name="TARSKI" nr="3" line="386" col="13"/>
+  <Position name="TARSKI" nr="3" line="388" col="7"/>
+  <Position name="TARSKI" nr="3" line="416" col="13"/>
+  <Position name="MFOLD_0" nr="2" line="913" col="8"/>
+  <Position name="MFOLD_0" nr="6" line="993" col="11"/>
+  <Position name="XBOOLE_0" nr="10" line="993" col="11"/>
+  <Position name="TARSKI" nr="3" line="994" col="6"/>
+  <Position name="MFOLD_0" nr="3" line="1029" col="8"/>
+  <Position name="TARSKI" nr="3" line="1246" col="7"/>
+  <Position name="TARSKI" nr="3" line="1293" col="7"/>
+  <Position name="TARSKI" nr="3" line="1322" col="7"/>
+  <Position name="MFOLD_0" nr="2" line="1666" col="7"/>
+  <Position name="TARSKI" nr="3" line="1709" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="1858" col="6"/>
+  <Position name="TARSKI" nr="3" line="1859" col="6"/>
+  <Position name="TARSKI" nr="3" line="1968" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="1975" col="7"/>
+  <Position name="TARSKI" nr="3" line="1976" col="7"/>
+  <Position name="TARSKI" nr="3" line="2038" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="2045" col="7"/>
+  <Position name="TARSKI" nr="3" line="2046" col="7"/>
+  <Position name="MFOLD_0" nr="2" line="2074" col="5"/>
+  <Position name="MFOLD_0" nr="3" line="2111" col="5"/>
+  <Position name="MFOLD_0" nr="3" line="2255" col="7"/>
+  <Position name="MFOLD_0" nr="6" line="2335" col="12"/>
+  <Position name="XBOOLE_0" nr="10" line="2335" col="12"/>
+  <Position name="TARSKI" nr="3" line="2336" col="7"/>
+  <Position name="MFOLD_0" nr="3" line="2355" col="7"/>
+  <Position name="TARSKI" nr="3" line="2536" col="7"/>
+  <Position name="TARSKI" nr="3" line="2587" col="7"/>
+  <Position name="TARSKI" nr="3" line="2658" col="7"/>
+  <Position name="TARSKI" nr="3" line="2968" col="9"/>
+  <Position name="TARSKI" nr="3" line="2976" col="9"/>
+</Positions>

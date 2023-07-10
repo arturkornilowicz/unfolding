@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="FUNCT_2" nr="8" line="552" col="6"/>
+  <Position name="FUNCT_2" nr="8" line="583" col="6"/>
+  <Position name="TARSKI" nr="3" line="638" col="7"/>
+  <Position name="XXREAL_2" nr="2" line="665" col="7"/>
+  <Position name="XXREAL_2" nr="1" line="705" col="7"/>
+  <Position name="XBOOLE_0" nr="7" line="787" col="8"/>
+  <Position name="INTEGRA1" nr="18" line="1533" col="11"/>
+</Positions>

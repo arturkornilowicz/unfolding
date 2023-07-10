@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="BINOP_1" nr="21" line="334" col="9"/>
+  <Position name="VECTSP_1" nr="14" line="368" col="9"/>
+  <Position name="VECTSP_1" nr="13" line="387" col="9"/>
+  <Position name="VECTSP_1" nr="15" line="399" col="9"/>
+  <Position name="VECTSP_1" nr="16" line="418" col="9"/>
+  <Position name="RLVECT_1" nr="3" line="429" col="9"/>
+  <Position name="RLVECT_1" nr="4" line="437" col="9"/>
+  <Position name="ALGSTR_0" nr="16" line="444" col="9"/>
+  <Position name="ALGSTR_0" nr="11" line="447" col="10"/>
+  <Position name="RLVECT_1" nr="2" line="452" col="7"/>
+  <Position name="VECTSP_1" nr="13" line="504" col="9"/>
+  <Position name="VECTSP_1" nr="14" line="514" col="9"/>
+  <Position name="VECTSP_1" nr="15" line="524" col="9"/>
+  <Position name="VECTSP_1" nr="16" line="534" col="9"/>
+  <Position name="TARSKI" nr="3" line="707" col="11"/>
+  <Position name="XBOOLE_0" nr="10" line="715" col="9"/>
+  <Position name="TARSKI" nr="3" line="716" col="9"/>
+  <Position name="TARSKI" nr="3" line="801" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="805" col="7"/>
+  <Position name="TARSKI" nr="3" line="806" col="7"/>
+  <Position name="RLVECT_1" nr="2" line="940" col="9"/>
+  <Position name="RLVECT_1" nr="3" line="946" col="9"/>
+  <Position name="RLVECT_1" nr="4" line="956" col="9"/>
+  <Position name="ALGSTR_0" nr="16" line="963" col="9"/>
+  <Position name="ALGSTR_0" nr="11" line="970" col="14"/>
+  <Position name="VECTSP_1" nr="13" line="981" col="9"/>
+  <Position name="VECTSP_1" nr="14" line="993" col="9"/>
+  <Position name="VECTSP_1" nr="15" line="1004" col="9"/>
+  <Position name="VECTSP_1" nr="16" line="1013" col="7"/>
+  <Position name="TARSKI" nr="3" line="1084" col="9"/>
+  <Position name="VECTSP_4" nr="1" line="1108" col="9"/>
+  <Position name="VECTSP_7" nr="1" line="1188" col="7"/>
+  <Position name="TARSKI" nr="3" line="1268" col="11"/>
+  <Position name="VECTSP_7" nr="1" line="1298" col="7"/>
+</Positions>

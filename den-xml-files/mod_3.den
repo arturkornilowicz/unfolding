@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="VECTSP_7" nr="1" line="207" col="5"/>
+  <Position name="TARSKI" nr="3" line="255" col="9"/>
+  <Position name="VECTSP_7" nr="1" line="282" col="5"/>
+  <Position name="TARSKI" nr="3" line="409" col="9"/>
+  <Position name="VECTSP_7" nr="1" line="421" col="9"/>
+  <Position name="TARSKI" nr="3" line="480" col="11"/>
+  <Position name="VECTSP_7" nr="3" line="515" col="8"/>
+  <Position name="VECTSP_7" nr="1" line="521" col="7"/>
+  <Position name="TARSKI" nr="3" line="551" col="13"/>
+  <Position name="TARSKI" nr="3" line="580" col="13"/>
+  <Position name="VECTSP_6" nr="7" line="589" col="13"/>
+  <Position name="TARSKI" nr="3" line="620" col="13"/>
+  <Position name="TARSKI" nr="3" line="667" col="9"/>
+  <Position name="VECTSP_7" nr="1" line="679" col="9"/>
+  <Position name="TARSKI" nr="3" line="738" col="11"/>
+  <Position name="TARSKI" nr="3" line="756" col="9"/>
+  <Position name="VECTSP_7" nr="3" line="777" col="8"/>
+  <Position name="TARSKI" nr="3" line="791" col="11"/>
+  <Position name="VECTSP_7" nr="1" line="812" col="7"/>
+  <Position name="TARSKI" nr="3" line="842" col="13"/>
+  <Position name="TARSKI" nr="3" line="871" col="13"/>
+  <Position name="VECTSP_6" nr="7" line="880" col="13"/>
+  <Position name="TARSKI" nr="3" line="911" col="13"/>
+</Positions>

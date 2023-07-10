@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="ALGSTR_0" nr="16" line="112" col="7"/>
+  <Position name="ALGSTR_0" nr="11" line="116" col="8"/>
+  <Position name="XXREAL_2" nr="10" line="872" col="6"/>
+  <Position name="XXREAL_2" nr="1" line="873" col="5"/>
+  <Position name="HAHNBAN" nr="2" line="1045" col="9"/>
+  <Position name="HAHNBAN" nr="3" line="1052" col="9"/>
+  <Position name="HAHNBAN" nr="2" line="1062" col="7"/>
+  <Position name="HAHNBAN" nr="3" line="1069" col="7"/>
+  <Position name="TARSKI" nr="3" line="1270" col="5"/>
+  <Position name="TARSKI" nr="3" line="1296" col="5"/>
+  <Position name="TARSKI" nr="3" line="1814" col="7"/>
+</Positions>

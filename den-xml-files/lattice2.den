@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="LATTICES" nr="10" line="181" col="8"/>
+  <Position name="LATTICES" nr="4" line="181" col="8"/>
+  <Position name="LATTICES" nr="5" line="182" col="8"/>
+  <Position name="LATTICES" nr="8" line="188" col="5"/>
+  <Position name="LATTICES" nr="6" line="189" col="8"/>
+  <Position name="LATTICES" nr="7" line="190" col="8"/>
+  <Position name="LATTICES" nr="9" line="191" col="5"/>
+  <Position name="BINOP_1" nr="4" line="270" col="5"/>
+  <Position name="BINOP_1" nr="2" line="280" col="5"/>
+  <Position name="SETWISEO" nr="2" line="291" col="7"/>
+  <Position name="BINOP_1" nr="3" line="303" col="5"/>
+  <Position name="BINOP_1" nr="4" line="315" col="5"/>
+  <Position name="BINOP_1" nr="2" line="325" col="5"/>
+  <Position name="BINOP_1" nr="3" line="336" col="5"/>
+  <Position name="SETWISEO" nr="2" line="348" col="7"/>
+  <Position name="LATTICES" nr="11" line="392" col="5"/>
+  <Position name="LATTICE2" nr="1" line="436" col="5"/>
+  <Position name="LATTICE2" nr="1" line="444" col="5"/>
+  <Position name="LATTICES" nr="13" line="683" col="9"/>
+  <Position name="LATTICES" nr="14" line="686" col="8"/>
+  <Position name="LATTICES" nr="14" line="692" col="7"/>
+  <Position name="LATTICES" nr="13" line="695" col="6"/>
+  <Position name="LATTICES" nr="14" line="708" col="9"/>
+  <Position name="LATTICES" nr="13" line="711" col="8"/>
+  <Position name="LATTICES" nr="13" line="717" col="7"/>
+  <Position name="LATTICES" nr="14" line="720" col="6"/>
+  <Position name="LATTICE2" nr="5" line="984" col="10"/>
+  <Position name="LATTICES" nr="13" line="1030" col="8"/>
+  <Position name="LATTICES" nr="14" line="1045" col="8"/>
+  <Position name="FILTER_0" nr="6" line="1071" col="9"/>
+</Positions>

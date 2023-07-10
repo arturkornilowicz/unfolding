@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="STRUCT_0" nr="1" line="43" col="12"/>
+  <Position name="STRUCT_0" nr="1" line="67" col="12"/>
+  <Position name="BCIALG_1" nr="5" line="376" col="9"/>
+  <Position name="BCIALG_1" nr="6" line="511" col="5"/>
+  <Position name="TARSKI" nr="3" line="1236" col="7"/>
+  <Position name="BCIALG_1" nr="20" line="1314" col="5"/>
+  <Position name="TARSKI" nr="3" line="1555" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="1565" col="5"/>
+  <Position name="TARSKI" nr="3" line="1568" col="7"/>
+</Positions>

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="PBOOLE" nr="2" line="271" col="7"/>
+  <Position name="MSUALG_2" nr="6" line="291" col="5"/>
+  <Position name="MSUALG_2" nr="9" line="364" col="12"/>
+  <Position name="UNIALG_2" nr="4" line="415" col="5"/>
+  <Position name="UNIALG_2" nr="3" line="426" col="7"/>
+  <Position name="UNIALG_2" nr="7" line="640" col="11"/>
+  <Position name="UNIALG_2" nr="4" line="687" col="5"/>
+  <Position name="UNIALG_2" nr="3" line="701" col="7"/>
+  <Position name="TARSKI" nr="3" line="743" col="13"/>
+  <Position name="TARSKI" nr="3" line="796" col="13"/>
+  <Position name="MSUALG_2" nr="9" line="911" col="13"/>
+  <Position name="MSUALG_2" nr="6" line="921" col="11"/>
+  <Position name="MSUALG_2" nr="9" line="952" col="11"/>
+  <Position name="MSUALG_2" nr="6" line="959" col="7"/>
+  <Position name="PBOOLE" nr="2" line="1371" col="9"/>
+  <Position name="MSUALG_2" nr="2" line="1402" col="9"/>
+  <Position name="MSUALG_2" nr="1" line="1413" col="10"/>
+  <Position name="UNIALG_2" nr="11" line="1494" col="8"/>
+  <Position name="LATTICE4" nr="1" line="1529" col="7"/>
+  <Position name="LATTICE4" nr="2" line="1563" col="7"/>
+  <Position name="LATTICE4" nr="3" line="1599" col="6"/>
+  <Position name="FUNCT_2" nr="4" line="1615" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="1619" col="12"/>
+  <Position name="TARSKI" nr="3" line="1620" col="7"/>
+  <Position name="FUNCT_2" nr="3" line="1636" col="5"/>
+</Positions>

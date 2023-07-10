@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="BORSUK_2" nr="7" line="293" col="9"/>
+  <Position name="BORSUK_2" nr="7" line="298" col="8"/>
+  <Position name="TARSKI" nr="3" line="337" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="344" col="7"/>
+  <Position name="TARSKI" nr="3" line="345" col="7"/>
+  <Position name="BORSUK_2" nr="1" line="391" col="14"/>
+  <Position name="TOPALG_6" nr="1" line="766" col="7"/>
+  <Position name="TOPALG_6" nr="1" line="803" col="9"/>
+  <Position name="STRUCT_0" nr="10" line="804" col="9"/>
+  <Position name="TOPALG_6" nr="2" line="808" col="7"/>
+  <Position name="T_0TOPSP" nr="1" line="825" col="9"/>
+  <Position name="TOPALG_6" nr="1" line="827" col="10"/>
+  <Position name="TOPALG_6" nr="1" line="829" col="7"/>
+  <Position name="TOPALG_6" nr="3" line="884" col="9"/>
+  <Position name="TOPALG_6" nr="3" line="892" col="8"/>
+  <Position name="BORSUK_2" nr="7" line="892" col="8"/>
+  <Position name="TOPALG_6" nr="3" line="928" col="8"/>
+  <Position name="XBOOLE_0" nr="10" line="957" col="17"/>
+  <Position name="TARSKI" nr="3" line="957" col="17"/>
+  <Position name="TARSKI" nr="3" line="959" col="11"/>
+  <Position name="MEMBERED" nr="3" line="1163" col="9"/>
+  <Position name="TOPALG_6" nr="8" line="1211" col="13"/>
+  <Position name="TOPALG_6" nr="6" line="1211" col="13"/>
+  <Position name="TOPALG_6" nr="7" line="1214" col="13"/>
+</Positions>

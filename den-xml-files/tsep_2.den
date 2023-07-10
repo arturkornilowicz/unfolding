@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TSEP_1" nr="5" line="250" col="10"/>
+  <Position name="XBOOLE_0" nr="7" line="291" col="8"/>
+  <Position name="TSEP_1" nr="5" line="470" col="8"/>
+  <Position name="TSEP_2" nr="2" line="506" col="10"/>
+  <Position name="TSEP_2" nr="2" line="551" col="8"/>
+  <Position name="TSEP_2" nr="2" line="555" col="8"/>
+  <Position name="TSEP_2" nr="2" line="608" col="8"/>
+  <Position name="TSEP_1" nr="1" line="613" col="10"/>
+  <Position name="BORSUK_1" nr="11" line="625" col="8"/>
+  <Position name="TSEP_2" nr="2" line="653" col="8"/>
+  <Position name="TSEP_2" nr="2" line="657" col="8"/>
+  <Position name="TSEP_2" nr="2" line="687" col="8"/>
+  <Position name="TSEP_2" nr="2" line="690" col="8"/>
+  <Position name="TSEP_1" nr="7" line="693" col="8"/>
+</Positions>

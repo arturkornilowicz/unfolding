@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="COMSEQ_2" nr="5" line="397" col="6"/>
+  <Position name="COMSEQ_2" nr="5" line="453" col="6"/>
+  <Position name="COMSEQ_2" nr="5" line="537" col="6"/>
+  <Position name="COMSEQ_2" nr="5" line="640" col="6"/>
+  <Position name="CFCONT_1" nr="1" line="770" col="9"/>
+  <Position name="TARSKI" nr="3" line="988" col="9"/>
+  <Position name="CFCONT_1" nr="1" line="1127" col="3"/>
+  <Position name="CFCONT_1" nr="1" line="1161" col="2"/>
+  <Position name="CFCONT_1" nr="1" line="1193" col="2"/>
+  <Position name="CFCONT_1" nr="2" line="1373" col="11"/>
+  <Position name="CFCONT_1" nr="2" line="1383" col="9"/>
+  <Position name="CFCONT_1" nr="2" line="1398" col="2"/>
+  <Position name="CFCONT_1" nr="1" line="1412" col="2"/>
+  <Position name="CFCONT_1" nr="2" line="1438" col="8"/>
+  <Position name="CFCONT_1" nr="1" line="1446" col="11"/>
+  <Position name="CFCONT_1" nr="2" line="1617" col="2"/>
+  <Position name="CFCONT_1" nr="2" line="1842" col="10"/>
+</Positions>

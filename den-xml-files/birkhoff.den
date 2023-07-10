@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="PBOOLE" nr="2" line="74" col="5"/>
+  <Position name="TARSKI" nr="3" line="77" col="5"/>
+  <Position name="TARSKI" nr="3" line="168" col="7"/>
+  <Position name="PRALG_2" nr="5" line="199" col="7"/>
+  <Position name="FUNCOP_1" nr="6" line="241" col="7"/>
+  <Position name="RELAT_1" nr="2" line="264" col="9"/>
+  <Position name="EQUATION" nr="5" line="542" col="5"/>
+  <Position name="PBOOLE" nr="13" line="595" col="7"/>
+  <Position name="PBOOLE" nr="18" line="608" col="7"/>
+  <Position name="PBOOLE" nr="2" line="608" col="7"/>
+  <Position name="PBOOLE" nr="18" line="735" col="7"/>
+  <Position name="PBOOLE" nr="2" line="735" col="7"/>
+  <Position name="TARSKI" nr="3" line="738" col="7"/>
+  <Position name="PRALG_2" nr="5" line="823" col="7"/>
+  <Position name="FUNCT_1" nr="4" line="978" col="9"/>
+  <Position name="PBOOLE" nr="18" line="1054" col="7"/>
+  <Position name="PBOOLE" nr="2" line="1054" col="7"/>
+  <Position name="TARSKI" nr="3" line="1060" col="7"/>
+  <Position name="EQUATION" nr="6" line="1091" col="7"/>
+  <Position name="EQUATION" nr="6" line="1136" col="9"/>
+  <Position name="EQUATION" nr="5" line="1145" col="9"/>
+</Positions>

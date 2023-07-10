@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="107" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="111" col="7"/>
+  <Position name="TARSKI" nr="3" line="112" col="7"/>
+  <Position name="TARSKI" nr="3" line="310" col="7"/>
+  <Position name="CSSPACE4" nr="4" line="946" col="6"/>
+  <Position name="CSSPACE4" nr="4" line="1055" col="10"/>
+  <Position name="CSSPACE4" nr="4" line="1082" col="10"/>
+  <Position name="XXREAL_2" nr="10" line="1253" col="8"/>
+  <Position name="XXREAL_2" nr="1" line="1254" col="9"/>
+  <Position name="NORMSP_0" nr="6" line="1678" col="10"/>
+  <Position name="CSSPACE4" nr="4" line="1876" col="8"/>
+</Positions>

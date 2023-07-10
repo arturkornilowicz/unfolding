@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="54" col="9"/>
+  <Position name="LATTICES" nr="20" line="341" col="10"/>
+  <Position name="STRUCT_0" nr="10" line="377" col="8"/>
+  <Position name="TARSKI" nr="3" line="395" col="9"/>
+  <Position name="TARSKI" nr="3" line="430" col="5"/>
+  <Position name="TARSKI" nr="3" line="519" col="7"/>
+  <Position name="TARSKI" nr="3" line="534" col="7"/>
+  <Position name="TARSKI" nr="3" line="558" col="7"/>
+  <Position name="TARSKI" nr="3" line="571" col="7"/>
+  <Position name="TARSKI" nr="3" line="595" col="9"/>
+  <Position name="TARSKI" nr="3" line="665" col="9"/>
+  <Position name="TARSKI" nr="3" line="681" col="13"/>
+  <Position name="TARSKI" nr="3" line="695" col="13"/>
+  <Position name="TARSKI" nr="3" line="720" col="13"/>
+  <Position name="TARSKI" nr="3" line="732" col="13"/>
+  <Position name="TARSKI" nr="3" line="744" col="13"/>
+  <Position name="TARSKI" nr="3" line="774" col="13"/>
+  <Position name="TARSKI" nr="3" line="789" col="13"/>
+  <Position name="TARSKI" nr="3" line="805" col="17"/>
+  <Position name="TARSKI" nr="3" line="821" col="17"/>
+  <Position name="STRUCT_0" nr="1" line="864" col="13"/>
+  <Position name="XBOOLE_0" nr="10" line="886" col="11"/>
+  <Position name="TARSKI" nr="3" line="886" col="11"/>
+  <Position name="TARSKI" nr="3" line="888" col="7"/>
+  <Position name="TARSKI" nr="3" line="1012" col="7"/>
+  <Position name="TARSKI" nr="3" line="1082" col="7"/>
+  <Position name="TARSKI" nr="3" line="1167" col="7"/>
+  <Position name="BINOP_1" nr="2" line="1197" col="9"/>
+  <Position name="BINOP_1" nr="3" line="1204" col="9"/>
+  <Position name="BINOP_1" nr="4" line="1214" col="9"/>
+  <Position name="TARSKI" nr="3" line="1286" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="1322" col="17"/>
+  <Position name="TARSKI" nr="3" line="1322" col="17"/>
+  <Position name="TARSKI" nr="3" line="1324" col="11"/>
+  <Position name="TARSKI" nr="3" line="1363" col="5"/>
+  <Position name="TARSKI" nr="3" line="1388" col="7"/>
+  <Position name="BINOP_1" nr="2" line="1470" col="11"/>
+  <Position name="BINOP_1" nr="3" line="1477" col="11"/>
+  <Position name="BINOP_1" nr="4" line="1487" col="11"/>
+</Positions>

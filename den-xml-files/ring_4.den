@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="RING_4" nr="2" line="181" col="8"/>
+  <Position name="ALGSEQ_1" nr="1" line="716" col="5"/>
+  <Position name="VECTSP_1" nr="19" line="1384" col="9"/>
+  <Position name="GROUP_6" nr="6" line="1391" col="9"/>
+  <Position name="GROUP_1" nr="13" line="1395" col="6"/>
+  <Position name="STRUCT_0" nr="8" line="2443" col="10"/>
+  <Position name="VECTSP_1" nr="19" line="2747" col="8"/>
+  <Position name="GROUP_6" nr="6" line="2763" col="8"/>
+  <Position name="GROUP_1" nr="13" line="2774" col="6"/>
+  <Position name="RINGCAT1" nr="1" line="2790" col="15"/>
+</Positions>

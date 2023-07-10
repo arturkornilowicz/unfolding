@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="184" col="6"/>
+  <Position name="TARSKI" nr="3" line="192" col="6"/>
+  <Position name="LTLAXIO1" nr="13" line="1127" col="7"/>
+  <Position name="LTLAXIO1" nr="13" line="1136" col="6"/>
+  <Position name="LTLAXIO1" nr="13" line="1143" col="6"/>
+  <Position name="LTLAXIO1" nr="14" line="1164" col="5"/>
+  <Position name="LTLAXIO1" nr="12" line="1166" col="5"/>
+  <Position name="LTLAXIO1" nr="14" line="1177" col="5"/>
+  <Position name="LTLAXIO1" nr="12" line="1179" col="5"/>
+  <Position name="LTLAXIO1" nr="14" line="1188" col="5"/>
+  <Position name="LTLAXIO1" nr="12" line="1190" col="5"/>
+  <Position name="LTLAXIO1" nr="14" line="1201" col="5"/>
+  <Position name="LTLAXIO1" nr="12" line="1203" col="5"/>
+  <Position name="LTLAXIO1" nr="13" line="1332" col="6"/>
+  <Position name="LTLAXIO1" nr="12" line="1336" col="7"/>
+  <Position name="LTLAXIO1" nr="14" line="1349" col="7"/>
+  <Position name="LTLAXIO1" nr="12" line="1353" col="8"/>
+  <Position name="LTLAXIO1" nr="14" line="1376" col="5"/>
+  <Position name="LTLAXIO1" nr="12" line="1378" col="5"/>
+  <Position name="LTLAXIO1" nr="14" line="1585" col="5"/>
+  <Position name="LTLAXIO1" nr="12" line="1587" col="5"/>
+  <Position name="LTLAXIO1" nr="17" line="1640" col="6"/>
+  <Position name="TARSKI" nr="3" line="1670" col="5"/>
+  <Position name="LTLAXIO1" nr="16" line="1695" col="6"/>
+  <Position name="LTLAXIO1" nr="16" line="1709" col="6"/>
+  <Position name="TARSKI" nr="3" line="1769" col="6"/>
+  <Position name="LTLAXIO1" nr="17" line="1778" col="6"/>
+  <Position name="LTLAXIO1" nr="14" line="1847" col="5"/>
+  <Position name="LTLAXIO1" nr="12" line="1849" col="5"/>
+  <Position name="LTLAXIO1" nr="14" line="2119" col="9"/>
+  <Position name="LTLAXIO1" nr="16" line="2313" col="6"/>
+  <Position name="LTLAXIO1" nr="16" line="2326" col="6"/>
+</Positions>

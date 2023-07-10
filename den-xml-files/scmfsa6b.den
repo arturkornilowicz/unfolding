@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="AMISTD_1" nr="10" line="83" col="5"/>
+  <Position name="EXTPRO_1" nr="8" line="88" col="6"/>
+  <Position name="SCMFSA6B" nr="4" line="98" col="7"/>
+  <Position name="EXTPRO_1" nr="8" line="172" col="5"/>
+  <Position name="EXTPRO_1" nr="8" line="279" col="5"/>
+  <Position name="AMISTD_1" nr="10" line="1072" col="7"/>
+  <Position name="EXTPRO_1" nr="8" line="1106" col="8"/>
+  <Position name="SCMFSA6B" nr="4" line="1314" col="7"/>
+</Positions>

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="585" col="9"/>
+  <Position name="TARSKI" nr="3" line="592" col="9"/>
+  <Position name="FUNCT_1" nr="13" line="623" col="7"/>
+  <Position name="LOPBAN_1" nr="5" line="941" col="11"/>
+  <Position name="TARSKI" nr="3" line="1143" col="9"/>
+  <Position name="TARSKI" nr="3" line="1150" col="9"/>
+  <Position name="FUNCT_1" nr="13" line="1179" col="7"/>
+  <Position name="LOPBAN_1" nr="5" line="1486" col="11"/>
+  <Position name="LOPBAN10" nr="10" line="1877" col="8"/>
+  <Position name="TARSKI" nr="3" line="1931" col="9"/>
+  <Position name="TARSKI" nr="3" line="1938" col="9"/>
+  <Position name="LOPBAN10" nr="10" line="1982" col="12"/>
+  <Position name="LOPBAN10" nr="10" line="2014" col="12"/>
+  <Position name="XXREAL_2" nr="10" line="2754" col="8"/>
+  <Position name="XXREAL_2" nr="1" line="2755" col="7"/>
+  <Position name="NORMSP_0" nr="6" line="3384" col="12"/>
+</Positions>

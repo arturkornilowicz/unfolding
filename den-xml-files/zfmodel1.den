@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="ORDINAL1" nr="2" line="50" col="8"/>
+  <Position name="ZF_MODEL" nr="5" line="54" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="74" col="11"/>
+  <Position name="TARSKI" nr="3" line="74" col="11"/>
+  <Position name="TARSKI" nr="3" line="75" col="11"/>
+  <Position name="ORDINAL1" nr="2" line="101" col="8"/>
+  <Position name="ZF_MODEL" nr="5" line="173" col="5"/>
+  <Position name="ORDINAL1" nr="2" line="223" col="8"/>
+  <Position name="ORDINAL1" nr="2" line="384" col="8"/>
+  <Position name="ZF_MODEL" nr="5" line="390" col="10"/>
+  <Position name="TARSKI" nr="3" line="422" col="9"/>
+  <Position name="XBOOLE_0" nr="8" line="436" col="7"/>
+  <Position name="ZF_MODEL" nr="5" line="452" col="5"/>
+  <Position name="ORDINAL1" nr="2" line="571" col="8"/>
+  <Position name="TARSKI" nr="3" line="610" col="13"/>
+  <Position name="XBOOLE_0" nr="10" line="628" col="9"/>
+  <Position name="TARSKI" nr="3" line="628" col="9"/>
+  <Position name="TARSKI" nr="3" line="629" col="9"/>
+  <Position name="ZF_MODEL" nr="5" line="665" col="7"/>
+  <Position name="TARSKI" nr="3" line="700" col="13"/>
+  <Position name="RELAT_1" nr="1" line="985" col="14"/>
+  <Position name="FUNCT_1" nr="1" line="988" col="9"/>
+  <Position name="TARSKI" nr="3" line="1050" col="9"/>
+  <Position name="TARSKI" nr="3" line="1060" col="9"/>
+  <Position name="TARSKI" nr="3" line="1109" col="9"/>
+  <Position name="FUNCT_2" nr="8" line="1159" col="7"/>
+  <Position name="ZF_LANG" nr="15" line="1197" col="7"/>
+  <Position name="FUNCT_2" nr="8" line="1404" col="7"/>
+  <Position name="ZFMODEL1" nr="3" line="1445" col="7"/>
+  <Position name="ZFMODEL1" nr="4" line="1449" col="6"/>
+  <Position name="ORDINAL1" nr="2" line="1476" col="8"/>
+  <Position name="TARSKI" nr="3" line="1515" col="9"/>
+  <Position name="TARSKI" nr="3" line="1586" col="9"/>
+  <Position name="ZF_MODEL" nr="5" line="1678" col="9"/>
+  <Position name="ORDINAL1" nr="2" line="1854" col="8"/>
+  <Position name="XBOOLE_0" nr="10" line="1859" col="8"/>
+  <Position name="TARSKI" nr="3" line="1861" col="5"/>
+</Positions>

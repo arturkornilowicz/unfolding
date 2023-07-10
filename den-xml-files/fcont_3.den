@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="RCOMP_1" nr="4" line="82" col="7"/>
+  <Position name="RCOMP_1" nr="4" line="103" col="7"/>
+  <Position name="TARSKI" nr="3" line="278" col="9"/>
+  <Position name="TARSKI" nr="3" line="309" col="7"/>
+  <Position name="TARSKI" nr="3" line="2642" col="13"/>
+  <Position name="TARSKI" nr="3" line="2686" col="13"/>
+  <Position name="TARSKI" nr="3" line="2794" col="13"/>
+  <Position name="TARSKI" nr="3" line="2838" col="13"/>
+  <Position name="TARSKI" nr="3" line="2946" col="13"/>
+  <Position name="TARSKI" nr="3" line="2990" col="13"/>
+  <Position name="TARSKI" nr="3" line="3090" col="13"/>
+  <Position name="TARSKI" nr="3" line="3131" col="13"/>
+</Positions>

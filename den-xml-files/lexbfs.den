@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="950" col="17"/>
+  <Position name="LEXBFS" nr="6" line="974" col="9"/>
+  <Position name="TARSKI" nr="3" line="1871" col="13"/>
+  <Position name="TARSKI" nr="3" line="2017" col="9"/>
+  <Position name="LEXBFS" nr="6" line="2291" col="5"/>
+  <Position name="LEXBFS" nr="7" line="2535" col="6"/>
+  <Position name="LEXBFS" nr="9" line="2654" col="10"/>
+  <Position name="LEXBFS" nr="6" line="4190" col="5"/>
+  <Position name="LEXBFS" nr="7" line="4449" col="6"/>
+  <Position name="LEXBFS" nr="9" line="4566" col="9"/>
+</Positions>

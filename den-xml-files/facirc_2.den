@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="STRUCT_0" nr="13" line="81" col="10"/>
+  <Position name="CIRCCOMB" nr="7" line="83" col="13"/>
+  <Position name="CIRCCOMB" nr="9" line="86" col="7"/>
+  <Position name="STRUCT_0" nr="1" line="129" col="13"/>
+  <Position name="FACIRC_1" nr="3" line="886" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="1213" col="10"/>
+  <Position name="TARSKI" nr="3" line="1214" col="7"/>
+  <Position name="FACIRC_1" nr="3" line="1297" col="7"/>
+  <Position name="FACIRC_1" nr="2" line="1440" col="9"/>
+  <Position name="CIRCUIT2" nr="6" line="1698" col="11"/>
+  <Position name="CIRCUIT2" nr="6" line="1815" col="17"/>
+  <Position name="FACIRC_1" nr="2" line="1915" col="7"/>
+</Positions>

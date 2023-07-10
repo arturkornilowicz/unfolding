@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="ALG_1" nr="4" line="52" col="9"/>
+  <Position name="FUNCT_1" nr="13" line="77" col="9"/>
+  <Position name="FUNCT_2" nr="12" line="87" col="9"/>
+  <Position name="TARSKI" nr="3" line="117" col="9"/>
+  <Position name="TARSKI" nr="3" line="126" col="9"/>
+  <Position name="TARSKI" nr="3" line="140" col="5"/>
+  <Position name="PZFMISC1" nr="3" line="350" col="5"/>
+  <Position name="MSUALG_3" nr="3" line="387" col="7"/>
+  <Position name="MSUALG_3" nr="2" line="429" col="5"/>
+  <Position name="MSUALG_3" nr="3" line="671" col="5"/>
+  <Position name="TARSKI" nr="3" line="745" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="751" col="7"/>
+  <Position name="TARSKI" nr="3" line="752" col="7"/>
+  <Position name="TARSKI" nr="3" line="981" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="999" col="5"/>
+  <Position name="TARSKI" nr="3" line="1000" col="5"/>
+  <Position name="GROUP_6" nr="11" line="1096" col="6"/>
+</Positions>

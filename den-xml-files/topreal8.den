@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="FINSEQ_6" nr="1" line="285" col="9"/>
+  <Position name="GOBOARD1" nr="9" line="340" col="5"/>
+  <Position name="TOPREAL1" nr="7" line="624" col="5"/>
+  <Position name="TOPREAL1" nr="7" line="661" col="5"/>
+  <Position name="TOPREAL1" nr="5" line="838" col="5"/>
+  <Position name="TARSKI" nr="3" line="968" col="7"/>
+  <Position name="TARSKI" nr="3" line="1000" col="7"/>
+  <Position name="GOBOARD5" nr="4" line="1358" col="5"/>
+</Positions>

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="614" col="5"/>
+  <Position name="XBOOLE_0" nr="10" line="1111" col="11"/>
+  <Position name="TARSKI" nr="3" line="1111" col="11"/>
+  <Position name="TARSKI" nr="3" line="1113" col="5"/>
+  <Position name="FUNCT_1" nr="4" line="1233" col="7"/>
+</Positions>

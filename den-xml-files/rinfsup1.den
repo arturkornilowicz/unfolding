@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="132" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="139" col="5"/>
+  <Position name="TARSKI" nr="3" line="140" col="5"/>
+  <Position name="XXREAL_2" nr="1" line="159" col="9"/>
+  <Position name="XXREAL_2" nr="2" line="193" col="9"/>
+  <Position name="PARTFUN3" nr="4" line="510" col="7"/>
+  <Position name="XXREAL_2" nr="2" line="1211" col="9"/>
+  <Position name="XXREAL_2" nr="1" line="1243" col="9"/>
+</Positions>

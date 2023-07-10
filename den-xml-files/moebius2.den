@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="109" col="7"/>
+  <Position name="TARSKI" nr="3" line="260" col="9"/>
+  <Position name="TARSKI" nr="3" line="285" col="9"/>
+  <Position name="TARSKI" nr="3" line="319" col="9"/>
+  <Position name="TARSKI" nr="3" line="353" col="9"/>
+  <Position name="PARTFUN3" nr="4" line="491" col="7"/>
+  <Position name="VALUED_0" nr="17" line="539" col="8"/>
+  <Position name="PARTFUN3" nr="4" line="561" col="7"/>
+  <Position name="TARSKI" nr="3" line="685" col="8"/>
+  <Position name="TARSKI" nr="3" line="699" col="9"/>
+  <Position name="TARSKI" nr="3" line="747" col="9"/>
+  <Position name="TARSKI" nr="3" line="887" col="9"/>
+  <Position name="TARSKI" nr="3" line="958" col="7"/>
+  <Position name="TARSKI" nr="3" line="982" col="7"/>
+  <Position name="TARSKI" nr="3" line="1381" col="13"/>
+  <Position name="TARSKI" nr="3" line="1413" col="11"/>
+  <Position name="TARSKI" nr="3" line="1637" col="8"/>
+  <Position name="TARSKI" nr="3" line="1650" col="9"/>
+  <Position name="TARSKI" nr="3" line="1734" col="9"/>
+  <Position name="TARSKI" nr="3" line="1922" col="13"/>
+  <Position name="TARSKI" nr="3" line="1954" col="11"/>
+  <Position name="TARSKI" nr="3" line="2346" col="9"/>
+  <Position name="TARSKI" nr="3" line="2364" col="9"/>
+</Positions>

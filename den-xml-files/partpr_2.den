@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="SETFAM_1" nr="8" line="70" col="11"/>
+  <Position name="BINOP_1" nr="21" line="111" col="7"/>
+  <Position name="TARSKI" nr="3" line="130" col="7"/>
+  <Position name="TARSKI" nr="3" line="154" col="7"/>
+  <Position name="TARSKI" nr="3" line="177" col="7"/>
+  <Position name="TARSKI" nr="3" line="491" col="9"/>
+  <Position name="TARSKI" nr="3" line="580" col="11"/>
+  <Position name="FUNCT_1" nr="11" line="649" col="17"/>
+  <Position name="TARSKI" nr="3" line="778" col="11"/>
+  <Position name="FUNCT_1" nr="11" line="849" col="17"/>
+  <Position name="TARSKI" nr="3" line="973" col="11"/>
+  <Position name="BINOP_1" nr="21" line="1019" col="7"/>
+  <Position name="FUNCT_1" nr="11" line="1032" col="3"/>
+  <Position name="TARSKI" nr="3" line="1102" col="11"/>
+  <Position name="FUNCT_2" nr="8" line="1150" col="7"/>
+  <Position name="FUNCT_1" nr="11" line="1152" col="12"/>
+  <Position name="PARTFUN1" nr="2" line="1198" col="10"/>
+  <Position name="TARSKI" nr="3" line="1203" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="1207" col="7"/>
+</Positions>

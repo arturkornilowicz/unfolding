@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TSEP_2" nr="2" line="710" col="8"/>
+  <Position name="TEX_3" nr="1" line="715" col="10"/>
+  <Position name="TEX_3" nr="3" line="727" col="8"/>
+  <Position name="TSEP_2" nr="2" line="833" col="8"/>
+  <Position name="TEX_3" nr="2" line="838" col="10"/>
+  <Position name="TEX_3" nr="4" line="851" col="8"/>
+</Positions>

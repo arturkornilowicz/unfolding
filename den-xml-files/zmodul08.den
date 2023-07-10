@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="ZMODUL08" nr="1" line="101" col="7"/>
+  <Position name="ZMODUL08" nr="1" line="118" col="7"/>
+  <Position name="ZMODUL08" nr="1" line="137" col="7"/>
+  <Position name="ZMODUL08" nr="2" line="159" col="7"/>
+  <Position name="VECTSP_1" nr="19" line="1170" col="9"/>
+  <Position name="ZMODUL08" nr="2" line="1406" col="12"/>
+  <Position name="TARSKI" nr="3" line="1510" col="9"/>
+  <Position name="TARSKI" nr="3" line="1517" col="9"/>
+  <Position name="VECTSP_1" nr="19" line="1865" col="9"/>
+</Positions>

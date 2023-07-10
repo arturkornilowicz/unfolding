@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="XXREAL_2" nr="9" line="55" col="7"/>
+  <Position name="XXREAL_2" nr="10" line="57" col="6"/>
+  <Position name="XXREAL_2" nr="1" line="58" col="5"/>
+  <Position name="MEASURE6" nr="13" line="73" col="8"/>
+  <Position name="MEASURE6" nr="5" line="73" col="8"/>
+  <Position name="MEASURE6" nr="12" line="77" col="9"/>
+  <Position name="MEASURE6" nr="4" line="77" col="9"/>
+  <Position name="SEQ_2" nr="8" line="101" col="11"/>
+  <Position name="MEASURE6" nr="11" line="101" col="11"/>
+  <Position name="MEASURE6" nr="10" line="102" col="10"/>
+  <Position name="PSCOMP_1" nr="3" line="257" col="7"/>
+  <Position name="PSCOMP_1" nr="3" line="291" col="7"/>
+  <Position name="PSCOMP_1" nr="3" line="337" col="5"/>
+  <Position name="PSCOMP_1" nr="3" line="352" col="5"/>
+  <Position name="PSCOMP_1" nr="3" line="365" col="5"/>
+  <Position name="PSCOMP_1" nr="3" line="379" col="5"/>
+  <Position name="TARSKI" nr="3" line="411" col="11"/>
+  <Position name="TOPS_2" nr="1" line="487" col="5"/>
+  <Position name="TOPS_2" nr="2" line="509" col="5"/>
+  <Position name="SEQ_2" nr="8" line="682" col="9"/>
+  <Position name="PSCOMP_1" nr="4" line="704" col="7"/>
+  <Position name="ORDINAL1" nr="8" line="717" col="11"/>
+  <Position name="MEASURE6" nr="11" line="742" col="12"/>
+  <Position name="XXREAL_2" nr="10" line="742" col="12"/>
+  <Position name="MEASURE6" nr="7" line="770" col="11"/>
+  <Position name="SEQ_2" nr="8" line="804" col="7"/>
+  <Position name="MEASURE6" nr="7" line="814" col="9"/>
+  <Position name="ORDINAL1" nr="8" line="824" col="9"/>
+  <Position name="MEASURE6" nr="10" line="849" col="10"/>
+  <Position name="XXREAL_2" nr="9" line="849" col="10"/>
+  <Position name="TARSKI" nr="3" line="1528" col="5"/>
+  <Position name="TARSKI" nr="3" line="1726" col="5"/>
+  <Position name="TARSKI" nr="3" line="1924" col="5"/>
+  <Position name="TARSKI" nr="3" line="2122" col="5"/>
+</Positions>

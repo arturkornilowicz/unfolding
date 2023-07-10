@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="47" col="9"/>
+  <Position name="TARSKI" nr="3" line="197" col="9"/>
+  <Position name="TARSKI" nr="3" line="210" col="9"/>
+  <Position name="TARSKI" nr="3" line="298" col="11"/>
+  <Position name="TARSKI" nr="3" line="318" col="11"/>
+  <Position name="TARSKI" nr="3" line="387" col="11"/>
+  <Position name="TARSKI" nr="3" line="417" col="11"/>
+  <Position name="BVFUNC_1" nr="15" line="641" col="5"/>
+  <Position name="BVFUNC_1" nr="15" line="693" col="5"/>
+  <Position name="BVFUNC_1" nr="12" line="807" col="5"/>
+  <Position name="BVFUNC_1" nr="12" line="819" col="5"/>
+  <Position name="BVFUNC_1" nr="12" line="831" col="5"/>
+  <Position name="BVFUNC_1" nr="12" line="878" col="5"/>
+  <Position name="BVFUNC_1" nr="12" line="938" col="5"/>
+  <Position name="BVFUNC_1" nr="12" line="962" col="5"/>
+  <Position name="BVFUNC_1" nr="12" line="1014" col="5"/>
+  <Position name="FUNCT_2" nr="8" line="1050" col="7"/>
+  <Position name="FUNCT_2" nr="8" line="1099" col="7"/>
+  <Position name="BVFUNC_1" nr="12" line="1151" col="7"/>
+  <Position name="BVFUNC_1" nr="12" line="1192" col="7"/>
+  <Position name="BVFUNC_1" nr="12" line="1242" col="7"/>
+  <Position name="BVFUNC_1" nr="12" line="1285" col="7"/>
+  <Position name="FUNCT_2" nr="8" line="1335" col="7"/>
+  <Position name="BVFUNC_1" nr="12" line="1410" col="5"/>
+  <Position name="BVFUNC_1" nr="12" line="1461" col="7"/>
+  <Position name="BVFUNC_1" nr="12" line="1492" col="7"/>
+  <Position name="BVFUNC_1" nr="12" line="1523" col="5"/>
+  <Position name="BVFUNC_1" nr="12" line="1571" col="5"/>
+  <Position name="BVFUNC_1" nr="12" line="1652" col="5"/>
+  <Position name="BVFUNC_1" nr="12" line="1725" col="7"/>
+  <Position name="BVFUNC_1" nr="12" line="1752" col="7"/>
+  <Position name="BVFUNC_1" nr="12" line="1794" col="7"/>
+  <Position name="BVFUNC_1" nr="12" line="1813" col="7"/>
+  <Position name="BVFUNC_1" nr="12" line="1840" col="5"/>
+  <Position name="BVFUNC_1" nr="12" line="1871" col="5"/>
+  <Position name="BVFUNC_1" nr="12" line="1906" col="5"/>
+</Positions>

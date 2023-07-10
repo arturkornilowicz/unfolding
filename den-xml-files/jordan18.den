@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="XXREAL_2" nr="9" line="78" col="6"/>
+  <Position name="XXREAL_2" nr="2" line="79" col="5"/>
+  <Position name="XXREAL_2" nr="10" line="93" col="6"/>
+  <Position name="XXREAL_2" nr="1" line="94" col="5"/>
+  <Position name="XXREAL_2" nr="10" line="108" col="6"/>
+  <Position name="XXREAL_2" nr="1" line="109" col="5"/>
+  <Position name="XXREAL_2" nr="9" line="123" col="6"/>
+  <Position name="XXREAL_2" nr="2" line="124" col="5"/>
+  <Position name="TARSKI" nr="3" line="291" col="11"/>
+  <Position name="TARSKI" nr="3" line="321" col="11"/>
+  <Position name="TARSKI" nr="3" line="376" col="11"/>
+  <Position name="TARSKI" nr="3" line="406" col="11"/>
+  <Position name="TARSKI" nr="3" line="461" col="11"/>
+  <Position name="TARSKI" nr="3" line="491" col="11"/>
+  <Position name="TARSKI" nr="3" line="546" col="11"/>
+  <Position name="TARSKI" nr="3" line="576" col="11"/>
+  <Position name="XBOOLE_0" nr="10" line="914" col="11"/>
+  <Position name="TARSKI" nr="3" line="914" col="11"/>
+  <Position name="TARSKI" nr="3" line="916" col="5"/>
+  <Position name="ZFMISC_1" nr="6" line="940" col="10"/>
+  <Position name="JORDAN18" nr="3" line="973" col="5"/>
+  <Position name="JORDAN18" nr="3" line="984" col="5"/>
+  <Position name="JORDAN18" nr="3" line="995" col="5"/>
+  <Position name="JORDAN18" nr="3" line="1006" col="5"/>
+  <Position name="JORDAN18" nr="3" line="1030" col="8"/>
+  <Position name="JORDAN18" nr="3" line="1037" col="8"/>
+  <Position name="JORDAN18" nr="3" line="1077" col="7"/>
+  <Position name="JORDAN18" nr="3" line="1118" col="8"/>
+</Positions>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="BINTREE1" nr="2" line="97" col="7"/>
+  <Position name="BINTREE1" nr="2" line="111" col="7"/>
+  <Position name="BINTREE1" nr="3" line="236" col="12"/>
+  <Position name="BINTREE1" nr="4" line="728" col="13"/>
+  <Position name="DTCONSTR" nr="3" line="742" col="18"/>
+  <Position name="DTCONSTR" nr="4" line="747" col="22"/>
+  <Position name="DTCONSTR" nr="5" line="769" col="14"/>
+</Positions>

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="GROUP_6" nr="6" line="140" col="7"/>
+  <Position name="FUNCT_1" nr="4" line="174" col="5"/>
+  <Position name="FUNCT_2" nr="3" line="201" col="5"/>
+  <Position name="FUNCT_2" nr="3" line="201" col="5"/>
+  <Position name="FUNCT_2" nr="3" line="205" col="10"/>
+  <Position name="XBOOLE_0" nr="10" line="205" col="10"/>
+  <Position name="TARSKI" nr="3" line="206" col="5"/>
+  <Position name="GROUP_6" nr="11" line="239" col="7"/>
+  <Position name="GROUP_6" nr="11" line="241" col="7"/>
+  <Position name="GROUP_6" nr="11" line="243" col="6"/>
+  <Position name="TARSKI" nr="3" line="323" col="9"/>
+  <Position name="TARSKI" nr="3" line="342" col="9"/>
+  <Position name="TARSKI" nr="3" line="382" col="7"/>
+  <Position name="TARSKI" nr="3" line="421" col="7"/>
+  <Position name="BORSUK_2" nr="1" line="436" col="7"/>
+  <Position name="BORSUK_2" nr="1" line="440" col="6"/>
+  <Position name="BORSUK_2" nr="1" line="454" col="7"/>
+  <Position name="BORSUK_2" nr="1" line="458" col="6"/>
+  <Position name="BORSUK_2" nr="1" line="525" col="7"/>
+  <Position name="BORSUK_2" nr="1" line="529" col="7"/>
+  <Position name="BORSUK_2" nr="1" line="533" col="6"/>
+  <Position name="BORSUK_2" nr="3" line="589" col="7"/>
+  <Position name="BORSUK_2" nr="7" line="689" col="8"/>
+  <Position name="BORSUK_6" nr="11" line="691" col="5"/>
+  <Position name="BORSUK_2" nr="7" line="703" col="8"/>
+  <Position name="BORSUK_6" nr="11" line="705" col="5"/>
+  <Position name="BORSUK_2" nr="7" line="720" col="6"/>
+  <Position name="BORSUK_2" nr="7" line="736" col="6"/>
+  <Position name="BORSUK_2" nr="7" line="803" col="8"/>
+  <Position name="BORSUK_6" nr="11" line="805" col="5"/>
+  <Position name="BORSUK_2" nr="7" line="828" col="6"/>
+  <Position name="FUNCT_1" nr="4" line="1051" col="9"/>
+  <Position name="FUNCT_2" nr="3" line="1072" col="12"/>
+  <Position name="XBOOLE_0" nr="10" line="1072" col="12"/>
+  <Position name="TARSKI" nr="3" line="1073" col="7"/>
+  <Position name="GROUP_6" nr="6" line="1114" col="7"/>
+  <Position name="GROUP_6" nr="11" line="1151" col="6"/>
+</Positions>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="398" col="9"/>
+  <Position name="RELAT_2" nr="4" line="406" col="9"/>
+  <Position name="RELAT_2" nr="8" line="415" col="9"/>
+  <Position name="LATTICES" nr="4" line="523" col="7"/>
+  <Position name="LATTICES" nr="6" line="541" col="7"/>
+  <Position name="LATTICES" nr="5" line="559" col="7"/>
+  <Position name="LATTICES" nr="7" line="577" col="7"/>
+  <Position name="LATTICES" nr="9" line="595" col="7"/>
+  <Position name="LATTICES" nr="8" line="613" col="7"/>
+</Positions>

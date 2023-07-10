@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="LTLAXIO1" nr="16" line="83" col="7"/>
+  <Position name="LTLAXIO1" nr="16" line="99" col="7"/>
+  <Position name="LTLAXIO5" nr="2" line="190" col="5"/>
+  <Position name="LTLAXIO1" nr="14" line="218" col="5"/>
+  <Position name="LTLAXIO1" nr="12" line="221" col="5"/>
+  <Position name="TARSKI" nr="3" line="236" col="9"/>
+  <Position name="LTLAXIO5" nr="2" line="251" col="9"/>
+  <Position name="LTLAXIO1" nr="13" line="259" col="5"/>
+  <Position name="LTLAXIO5" nr="3" line="272" col="9"/>
+  <Position name="LTLAXIO1" nr="14" line="281" col="7"/>
+  <Position name="LTLAXIO1" nr="12" line="283" col="7"/>
+  <Position name="LTLAXIO1" nr="14" line="296" col="7"/>
+  <Position name="LTLAXIO1" nr="12" line="299" col="7"/>
+  <Position name="LTLAXIO5" nr="2" line="329" col="9"/>
+  <Position name="LTLAXIO5" nr="2" line="365" col="9"/>
+  <Position name="LTLAXIO1" nr="14" line="382" col="7"/>
+  <Position name="LTLAXIO5" nr="2" line="408" col="9"/>
+  <Position name="LTLAXIO5" nr="2" line="417" col="7"/>
+  <Position name="LTLAXIO5" nr="2" line="422" col="5"/>
+  <Position name="LTLAXIO5" nr="3" line="446" col="11"/>
+  <Position name="LTLAXIO5" nr="1" line="455" col="19"/>
+  <Position name="LTLAXIO5" nr="1" line="461" col="19"/>
+  <Position name="LTLAXIO5" nr="3" line="468" col="7"/>
+  <Position name="TARSKI" nr="3" line="482" col="8"/>
+  <Position name="XBOOLE_0" nr="10" line="487" col="6"/>
+  <Position name="LTLAXIO1" nr="14" line="503" col="5"/>
+  <Position name="LTLAXIO5" nr="3" line="774" col="7"/>
+  <Position name="LTLAXIO5" nr="3" line="787" col="6"/>
+  <Position name="LTLAXIO5" nr="3" line="803" col="6"/>
+  <Position name="LTLAXIO5" nr="3" line="823" col="5"/>
+  <Position name="LTLAXIO5" nr="3" line="839" col="7"/>
+  <Position name="LTLAXIO5" nr="1" line="843" col="11"/>
+  <Position name="LTLAXIO5" nr="3" line="853" col="7"/>
+  <Position name="LTLAXIO5" nr="3" line="928" col="15"/>
+</Positions>

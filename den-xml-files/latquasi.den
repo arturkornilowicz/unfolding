@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="LATQUASI" nr="1" line="104" col="7"/>
+  <Position name="BINOP_1" nr="2" line="278" col="9"/>
+  <Position name="BINOP_1" nr="3" line="293" col="9"/>
+  <Position name="BINOP_1" nr="4" line="340" col="7"/>
+  <Position name="BINOP_1" nr="2" line="353" col="9"/>
+  <Position name="BINOP_1" nr="3" line="370" col="9"/>
+  <Position name="BINOP_1" nr="4" line="486" col="8"/>
+  <Position name="LATQUASI" nr="2" line="603" col="7"/>
+  <Position name="LATTICES" nr="11" line="1257" col="5"/>
+  <Position name="LATQUASI" nr="11" line="5000" col="7"/>
+</Positions>

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="63" col="11"/>
+  <Position name="PRE_TOPC" nr="4" line="219" col="10"/>
+  <Position name="PRE_TOPC" nr="1" line="268" col="15"/>
+  <Position name="TARSKI" nr="3" line="281" col="13"/>
+  <Position name="TARSKI" nr="3" line="300" col="13"/>
+  <Position name="TARSKI" nr="3" line="378" col="9"/>
+  <Position name="TARSKI" nr="3" line="386" col="9"/>
+  <Position name="STRUCT_0" nr="1" line="402" col="13"/>
+  <Position name="PRE_TOPC" nr="4" line="502" col="8"/>
+  <Position name="PRE_TOPC" nr="4" line="506" col="10"/>
+  <Position name="TARSKI" nr="3" line="943" col="7"/>
+  <Position name="PRE_TOPC" nr="3" line="1130" col="13"/>
+  <Position name="PRE_TOPC" nr="6" line="1142" col="7"/>
+  <Position name="PRE_TOPC" nr="9" line="1231" col="7"/>
+  <Position name="PRE_TOPC" nr="8" line="1244" col="7"/>
+  <Position name="PRE_TOPC" nr="9" line="1260" col="7"/>
+  <Position name="PRE_TOPC" nr="4" line="1302" col="5"/>
+  <Position name="PRE_TOPC" nr="2" line="1312" col="11"/>
+  <Position name="PRE_TOPC" nr="6" line="1346" col="5"/>
+  <Position name="PRE_TOPC" nr="6" line="1364" col="5"/>
+  <Position name="PRE_TOPC" nr="4" line="1402" col="13"/>
+  <Position name="PRE_TOPC" nr="4" line="1413" col="11"/>
+  <Position name="PRE_TOPC" nr="8" line="1461" col="7"/>
+</Positions>

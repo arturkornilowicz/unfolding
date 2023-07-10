@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="GRAPH_2" nr="2" line="84" col="16"/>
+  <Position name="GRAPH_1" nr="14" line="108" col="13"/>
+  <Position name="STRUCT_0" nr="13" line="199" col="12"/>
+  <Position name="GRAPH_1" nr="9" line="229" col="11"/>
+  <Position name="GRAPH_1" nr="10" line="239" col="11"/>
+  <Position name="GRAPH_2" nr="2" line="317" col="11"/>
+  <Position name="GRAPH_1" nr="16" line="356" col="7"/>
+  <Position name="GRAPH_2" nr="2" line="448" col="12"/>
+  <Position name="GRAPH_1" nr="15" line="676" col="9"/>
+  <Position name="MSSCYC_1" nr="3" line="922" col="7"/>
+  <Position name="MSSCYC_1" nr="4" line="959" col="7"/>
+  <Position name="MSSCYC_1" nr="3" line="1042" col="10"/>
+  <Position name="MSAFREE" nr="4" line="1125" col="11"/>
+  <Position name="FINSET_1" nr="5" line="1166" col="7"/>
+  <Position name="MSUALG_3" nr="8" line="1203" col="8"/>
+  <Position name="MSUALG_3" nr="3" line="1204" col="5"/>
+  <Position name="PBOOLE" nr="18" line="1215" col="7"/>
+  <Position name="PBOOLE" nr="2" line="1215" col="7"/>
+  <Position name="TARSKI" nr="3" line="1225" col="7"/>
+  <Position name="TARSKI" nr="6" line="1297" col="10"/>
+  <Position name="TARSKI" nr="3" line="1396" col="9"/>
+  <Position name="TARSKI" nr="3" line="1460" col="7"/>
+  <Position name="TARSKI" nr="3" line="1518" col="7"/>
+  <Position name="TARSKI" nr="3" line="1556" col="7"/>
+</Positions>

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="1351" col="7"/>
+  <Position name="CHORD" nr="2" line="1365" col="5"/>
+  <Position name="TARSKI" nr="3" line="1531" col="7"/>
+  <Position name="GLIB_002" nr="1" line="2393" col="5"/>
+  <Position name="GLIB_000" nr="34" line="2579" col="23"/>
+  <Position name="CHORD" nr="6" line="2607" col="5"/>
+  <Position name="CHORD" nr="7" line="2860" col="12"/>
+  <Position name="CHORD" nr="10" line="3622" col="7"/>
+  <Position name="CHORD" nr="10" line="3681" col="6"/>
+  <Position name="CHORD" nr="10" line="3829" col="7"/>
+  <Position name="CHORD" nr="10" line="3835" col="6"/>
+  <Position name="CHORD" nr="10" line="3858" col="9"/>
+  <Position name="CHORD" nr="10" line="3864" col="8"/>
+  <Position name="CHORD" nr="10" line="3880" col="9"/>
+  <Position name="CHORD" nr="10" line="3886" col="8"/>
+  <Position name="CHORD" nr="6" line="4857" col="5"/>
+  <Position name="XBOOLE_0" nr="7" line="4985" col="10"/>
+  <Position name="TARSKI" nr="3" line="5045" col="7"/>
+  <Position name="CHORD" nr="11" line="5311" col="5"/>
+  <Position name="CHORD" nr="13" line="6353" col="5"/>
+  <Position name="CHORD" nr="13" line="6571" col="13"/>
+  <Position name="CHORD" nr="11" line="6648" col="5"/>
+</Positions>

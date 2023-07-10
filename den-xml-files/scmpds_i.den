@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="FINSEQ_1" nr="4" line="129" col="7"/>
+  <Position name="TARSKI" nr="3" line="129" col="7"/>
+  <Position name="FINSEQ_1" nr="18" line="577" col="11"/>
+  <Position name="COMPOS_0" nr="1" line="662" col="8"/>
+  <Position name="TARSKI" nr="3" line="663" col="7"/>
+  <Position name="COMPOS_0" nr="5" line="844" col="6"/>
+  <Position name="COMPOS_0" nr="7" line="882" col="6"/>
+</Positions>

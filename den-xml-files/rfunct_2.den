@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="VALUED_0" nr="15" line="538" col="7"/>
+  <Position name="VALUED_0" nr="16" line="553" col="7"/>
+  <Position name="RFUNCT_2" nr="1" line="583" col="5"/>
+  <Position name="RFUNCT_2" nr="2" line="614" col="5"/>
+  <Position name="RFUNCT_2" nr="3" line="646" col="5"/>
+  <Position name="RFUNCT_2" nr="4" line="677" col="5"/>
+  <Position name="RFUNCT_2" nr="3" line="731" col="5"/>
+  <Position name="RFUNCT_2" nr="4" line="768" col="5"/>
+  <Position name="FUNCT_1" nr="10" line="784" col="7"/>
+  <Position name="XBOOLE_0" nr="7" line="873" col="8"/>
+</Positions>

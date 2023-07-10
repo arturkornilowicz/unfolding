@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="RELAT_1" nr="19" line="50" col="13"/>
+  <Position name="RELAT_1" nr="19" line="60" col="12"/>
+  <Position name="FUZZY_1" nr="2" line="596" col="5"/>
+  <Position name="FUZZY_1" nr="2" line="605" col="5"/>
+  <Position name="FUZZY_1" nr="2" line="621" col="7"/>
+  <Position name="FUZZY_1" nr="2" line="625" col="5"/>
+  <Position name="FUZZY_1" nr="2" line="671" col="5"/>
+  <Position name="FUZZY_1" nr="2" line="682" col="5"/>
+  <Position name="FUZZY_1" nr="2" line="694" col="5"/>
+  <Position name="FUZZY_1" nr="2" line="714" col="5"/>
+  <Position name="FUZZY_1" nr="2" line="726" col="5"/>
+  <Position name="FUZZY_1" nr="2" line="737" col="5"/>
+  <Position name="FUZZY_1" nr="2" line="749" col="5"/>
+  <Position name="FUZZY_1" nr="2" line="798" col="5"/>
+  <Position name="FUZZY_1" nr="2" line="881" col="9"/>
+  <Position name="FUZZY_1" nr="2" line="909" col="9"/>
+  <Position name="FUZZY_1" nr="2" line="931" col="5"/>
+  <Position name="FUZZY_1" nr="2" line="943" col="5"/>
+  <Position name="FUZZY_1" nr="2" line="1045" col="5"/>
+  <Position name="FUZZY_1" nr="2" line="1065" col="5"/>
+</Positions>

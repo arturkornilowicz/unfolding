@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="109" col="9"/>
+  <Position name="TARSKI" nr="3" line="1025" col="5"/>
+  <Position name="BAGORDER" nr="5" line="1064" col="16"/>
+  <Position name="WELLFND1" nr="6" line="1172" col="7"/>
+  <Position name="RELAT_2" nr="4" line="1232" col="9"/>
+  <Position name="RELAT_2" nr="8" line="1276" col="9"/>
+  <Position name="BAGORDER" nr="5" line="1548" col="11"/>
+  <Position name="BAGORDER" nr="3" line="1762" col="11"/>
+  <Position name="BAGORDER" nr="5" line="2119" col="14"/>
+  <Position name="WELLFND1" nr="6" line="2235" col="7"/>
+  <Position name="TARSKI" nr="3" line="2375" col="9"/>
+  <Position name="TARSKI" nr="3" line="2384" col="9"/>
+  <Position name="TARSKI" nr="3" line="2859" col="11"/>
+</Positions>

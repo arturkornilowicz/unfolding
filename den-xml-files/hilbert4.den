@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="PARTIT_2" nr="2" line="118" col="7"/>
+  <Position name="FUNCT_1" nr="4" line="149" col="7"/>
+  <Position name="PARTIT_2" nr="2" line="207" col="7"/>
+  <Position name="PARTIT_2" nr="3" line="231" col="7"/>
+  <Position name="ABIAN" nr="3" line="257" col="2"/>
+  <Position name="ABIAN" nr="5" line="279" col="9"/>
+  <Position name="ABIAN" nr="5" line="282" col="8"/>
+  <Position name="ABIAN" nr="5" line="290" col="9"/>
+  <Position name="ABIAN" nr="5" line="293" col="10"/>
+  <Position name="ABIAN" nr="5" line="295" col="7"/>
+  <Position name="TARSKI" nr="3" line="422" col="3"/>
+  <Position name="TARSKI" nr="3" line="450" col="3"/>
+</Positions>

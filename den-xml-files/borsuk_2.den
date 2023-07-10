@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="69" col="7"/>
+  <Position name="T_0TOPSP" nr="2" line="227" col="5"/>
+  <Position name="BORSUK_2" nr="1" line="302" col="10"/>
+  <Position name="BORSUK_2" nr="3" line="342" col="8"/>
+  <Position name="TARSKI" nr="3" line="545" col="7"/>
+  <Position name="TARSKI" nr="3" line="1018" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="1029" col="5"/>
+  <Position name="TARSKI" nr="3" line="1030" col="5"/>
+  <Position name="URYSOHN1" nr="7" line="1223" col="7"/>
+  <Position name="PRE_TOPC" nr="10" line="1287" col="7"/>
+  <Position name="TARSKI" nr="3" line="1530" col="9"/>
+  <Position name="BORSUK_2" nr="7" line="1545" col="6"/>
+  <Position name="BORSUK_2" nr="3" line="1641" col="7"/>
+  <Position name="BORSUK_2" nr="1" line="1655" col="10"/>
+  <Position name="BORSUK_2" nr="1" line="1687" col="10"/>
+</Positions>

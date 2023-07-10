@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="69" col="7"/>
+  <Position name="TARSKI" nr="3" line="108" col="7"/>
+  <Position name="FUNCT_1" nr="4" line="170" col="9"/>
+  <Position name="TARSKI" nr="3" line="257" col="5"/>
+  <Position name="TARSKI" nr="3" line="1040" col="9"/>
+  <Position name="TARSKI" nr="3" line="1176" col="11"/>
+  <Position name="TARSKI" nr="3" line="1190" col="5"/>
+  <Position name="TARSKI" nr="3" line="1253" col="5"/>
+  <Position name="TARSKI" nr="3" line="1501" col="9"/>
+  <Position name="TARSKI" nr="3" line="1635" col="9"/>
+  <Position name="TARSKI" nr="3" line="1656" col="9"/>
+  <Position name="TARSKI" nr="3" line="1680" col="9"/>
+  <Position name="TARSKI" nr="3" line="1702" col="9"/>
+  <Position name="TARSKI" nr="3" line="1725" col="5"/>
+  <Position name="TARSKI" nr="3" line="1737" col="5"/>
+  <Position name="TARSKI" nr="3" line="1748" col="5"/>
+  <Position name="TARSKI" nr="3" line="1761" col="5"/>
+  <Position name="TARSKI" nr="3" line="1778" col="5"/>
+  <Position name="TARSKI" nr="3" line="2228" col="5"/>
+  <Position name="TARSKI" nr="3" line="2755" col="7"/>
+  <Position name="GRAPH_5" nr="17" line="2833" col="8"/>
+  <Position name="GRAPH_5" nr="18" line="2864" col="8"/>
+  <Position name="TARSKI" nr="3" line="2946" col="15"/>
+  <Position name="TARSKI" nr="3" line="2993" col="15"/>
+  <Position name="TARSKI" nr="3" line="3344" col="9"/>
+</Positions>

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="PARTFUN1" nr="2" line="75" col="10"/>
+  <Position name="FUNCT_2" nr="1" line="78" col="8"/>
+  <Position name="FUNCT_2" nr="1" line="78" col="8"/>
+  <Position name="TARSKI" nr="3" line="160" col="7"/>
+  <Position name="TARSKI" nr="3" line="263" col="9"/>
+  <Position name="FUNCT_2" nr="1" line="389" col="6"/>
+  <Position name="FUNCT_2" nr="1" line="389" col="6"/>
+  <Position name="FUNCT_2" nr="3" line="579" col="11"/>
+  <Position name="TARSKI" nr="3" line="604" col="7"/>
+  <Position name="FUNCT_2" nr="1" line="614" col="8"/>
+  <Position name="FUNCT_2" nr="1" line="614" col="8"/>
+  <Position name="FUNCT_2" nr="1" line="715" col="8"/>
+  <Position name="FUNCT_2" nr="1" line="715" col="8"/>
+  <Position name="FUNCT_2" nr="4" line="1001" col="11"/>
+  <Position name="FUNCT_2" nr="3" line="1001" col="11"/>
+  <Position name="FUNCT_1" nr="4" line="1056" col="9"/>
+  <Position name="FUNCT_2" nr="4" line="1067" col="7"/>
+  <Position name="FUNCT_2" nr="3" line="1068" col="12"/>
+  <Position name="XBOOLE_0" nr="10" line="1068" col="12"/>
+  <Position name="TARSKI" nr="3" line="1069" col="7"/>
+  <Position name="TARSKI" nr="3" line="1267" col="7"/>
+  <Position name="TARSKI" nr="3" line="1337" col="5"/>
+  <Position name="TARSKI" nr="3" line="1432" col="7"/>
+  <Position name="TARSKI" nr="3" line="1503" col="5"/>
+  <Position name="TARSKI" nr="3" line="1566" col="11"/>
+  <Position name="PARTFUN1" nr="4" line="1584" col="13"/>
+  <Position name="TARSKI" nr="3" line="1726" col="9"/>
+  <Position name="TARSKI" nr="3" line="1758" col="9"/>
+  <Position name="TARSKI" nr="3" line="2047" col="5"/>
+  <Position name="TARSKI" nr="3" line="2118" col="5"/>
+  <Position name="TARSKI" nr="3" line="2146" col="7"/>
+  <Position name="TARSKI" nr="3" line="2183" col="7"/>
+  <Position name="TARSKI" nr="3" line="2211" col="5"/>
+  <Position name="TARSKI" nr="3" line="2236" col="5"/>
+  <Position name="FUNCT_1" nr="10" line="2348" col="5"/>
+  <Position name="TARSKI" nr="3" line="2394" col="5"/>
+  <Position name="FUNCT_2" nr="8" line="2429" col="5"/>
+  <Position name="XBOOLE_0" nr="10" line="2493" col="14"/>
+  <Position name="TARSKI" nr="3" line="2494" col="9"/>
+  <Position name="FUNCT_1" nr="13" line="2534" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="2666" col="11"/>
+  <Position name="TARSKI" nr="3" line="2666" col="11"/>
+</Positions>

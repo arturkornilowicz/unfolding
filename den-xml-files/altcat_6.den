@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="RELAT_1" nr="1" line="89" col="9"/>
+  <Position name="FUNCT_1" nr="1" line="94" col="7"/>
+  <Position name="ALTCAT_6" nr="1" line="153" col="7"/>
+  <Position name="FUNCOP_1" nr="6" line="181" col="7"/>
+  <Position name="ALTCAT_6" nr="1" line="200" col="9"/>
+  <Position name="ALTCAT_6" nr="3" line="237" col="7"/>
+  <Position name="ALTCAT_6" nr="5" line="337" col="7"/>
+  <Position name="ALTCAT_6" nr="5" line="391" col="7"/>
+  <Position name="ALTCAT_6" nr="1" line="407" col="7"/>
+  <Position name="ALTCAT_6" nr="3" line="431" col="10"/>
+  <Position name="ALTCAT_6" nr="5" line="441" col="8"/>
+  <Position name="ALTCAT_6" nr="7" line="481" col="7"/>
+  <Position name="ALTCAT_6" nr="8" line="514" col="8"/>
+  <Position name="ALTCAT_3" nr="6" line="619" col="13"/>
+  <Position name="ALTCAT_3" nr="2" line="623" col="12"/>
+  <Position name="ALTCAT_3" nr="1" line="638" col="16"/>
+  <Position name="ALTCAT_3" nr="3" line="642" col="12"/>
+  <Position name="ALTCAT_3" nr="1" line="657" col="16"/>
+  <Position name="PBOOLE" nr="10" line="722" col="7"/>
+  <Position name="FUNCT_2" nr="8" line="739" col="11"/>
+  <Position name="FUNCOP_1" nr="6" line="753" col="7"/>
+  <Position name="ALTCAT_6" nr="1" line="773" col="7"/>
+  <Position name="PBOOLE" nr="12" line="808" col="7"/>
+  <Position name="PBOOLE" nr="12" line="820" col="7"/>
+  <Position name="PBOOLE" nr="10" line="839" col="7"/>
+  <Position name="ALTCAT_6" nr="3" line="866" col="9"/>
+  <Position name="ALTCAT_6" nr="5" line="879" col="7"/>
+  <Position name="TARSKI" nr="3" line="911" col="10"/>
+  <Position name="ALTCAT_6" nr="3" line="1023" col="10"/>
+  <Position name="ALTCAT_6" nr="5" line="1037" col="8"/>
+  <Position name="ALTCAT_6" nr="8" line="1082" col="8"/>
+  <Position name="ALTCAT_6" nr="7" line="1091" col="7"/>
+</Positions>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="ALTCAT_1" nr="2" line="261" col="9"/>
+  <Position name="ALTCAT_1" nr="5" line="283" col="9"/>
+  <Position name="ALTCAT_1" nr="15" line="328" col="7"/>
+  <Position name="ALTCAT_1" nr="7" line="331" col="9"/>
+  <Position name="ALTCAT_1" nr="16" line="356" col="7"/>
+  <Position name="ALTCAT_1" nr="6" line="359" col="9"/>
+  <Position name="TARSKI" nr="3" line="492" col="11"/>
+  <Position name="TARSKI" nr="3" line="507" col="11"/>
+  <Position name="TARSKI" nr="3" line="519" col="13"/>
+  <Position name="TARSKI" nr="3" line="538" col="17"/>
+  <Position name="TARSKI" nr="3" line="546" col="15"/>
+  <Position name="TARSKI" nr="3" line="595" col="9"/>
+  <Position name="TARSKI" nr="3" line="603" col="9"/>
+  <Position name="TARSKI" nr="3" line="659" col="7"/>
+  <Position name="TARSKI" nr="3" line="672" col="7"/>
+  <Position name="TARSKI" nr="3" line="684" col="9"/>
+  <Position name="TARSKI" nr="3" line="703" col="13"/>
+  <Position name="TARSKI" nr="3" line="711" col="11"/>
+  <Position name="PBOOLE" nr="1" line="927" col="7"/>
+  <Position name="MSUALG_3" nr="7" line="1033" col="7"/>
+  <Position name="TARSKI" nr="3" line="1127" col="13"/>
+  <Position name="TARSKI" nr="3" line="1133" col="11"/>
+  <Position name="TARSKI" nr="3" line="1143" col="13"/>
+  <Position name="TARSKI" nr="3" line="1151" col="13"/>
+  <Position name="TARSKI" nr="3" line="1160" col="13"/>
+  <Position name="TARSKI" nr="3" line="1186" col="9"/>
+  <Position name="TARSKI" nr="3" line="1195" col="9"/>
+  <Position name="ALTCAT_1" nr="2" line="1424" col="9"/>
+  <Position name="ALTCAT_1" nr="5" line="1458" col="9"/>
+  <Position name="ALTCAT_1" nr="15" line="1511" col="7"/>
+  <Position name="ALTCAT_1" nr="7" line="1514" col="9"/>
+  <Position name="ALTCAT_1" nr="16" line="1542" col="7"/>
+  <Position name="ALTCAT_1" nr="6" line="1545" col="9"/>
+</Positions>

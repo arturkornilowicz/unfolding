@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="FUNCT_1" nr="4" line="108" col="7"/>
+  <Position name="FUNCT_1" nr="4" line="131" col="7"/>
+  <Position name="FUNCT_1" nr="4" line="356" col="9"/>
+  <Position name="RELAT_1" nr="1" line="390" col="7"/>
+  <Position name="NECKLACE" nr="1" line="451" col="8"/>
+  <Position name="NECKLACE" nr="1" line="474" col="6"/>
+  <Position name="TARSKI" nr="3" line="572" col="9"/>
+  <Position name="RELAT_2" nr="5" line="598" col="7"/>
+  <Position name="NECKLACE" nr="4" line="616" col="11"/>
+  <Position name="NECKLACE" nr="3" line="686" col="7"/>
+  <Position name="RELAT_2" nr="3" line="686" col="7"/>
+  <Position name="RELAT_2" nr="3" line="721" col="9"/>
+  <Position name="NECKLACE" nr="3" line="729" col="7"/>
+  <Position name="RELAT_2" nr="11" line="738" col="7"/>
+  <Position name="RELAT_2" nr="3" line="738" col="7"/>
+  <Position name="TARSKI" nr="3" line="773" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="794" col="14"/>
+  <Position name="TARSKI" nr="3" line="795" col="9"/>
+  <Position name="STRUCT_0" nr="1" line="848" col="13"/>
+  <Position name="RELAT_1" nr="1" line="896" col="7"/>
+  <Position name="NECKLACE" nr="5" line="961" col="7"/>
+  <Position name="ORDERS_3" nr="3" line="1034" col="7"/>
+  <Position name="ORDERS_3" nr="2" line="1034" col="7"/>
+  <Position name="RELAT_1" nr="1" line="1226" col="7"/>
+  <Position name="ORDERS_3" nr="5" line="1310" col="7"/>
+  <Position name="ORDERS_3" nr="5" line="1349" col="7"/>
+  <Position name="TARSKI" nr="3" line="1378" col="7"/>
+  <Position name="WAYBEL_1" nr="8" line="1395" col="6"/>
+  <Position name="WAYBEL_0" nr="38" line="1397" col="6"/>
+  <Position name="WAYBEL_0" nr="38" line="1397" col="6"/>
+  <Position name="TARSKI" nr="3" line="1457" col="9"/>
+  <Position name="ORDERS_3" nr="5" line="1502" col="9"/>
+  <Position name="ORDERS_3" nr="5" line="1588" col="9"/>
+</Positions>

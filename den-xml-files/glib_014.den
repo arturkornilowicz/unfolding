@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="GLIB_014" nr="1" line="56" col="7"/>
+  <Position name="GLIB_014" nr="1" line="72" col="7"/>
+  <Position name="GLIB_014" nr="1" line="126" col="7"/>
+  <Position name="GLIB_014" nr="1" line="147" col="5"/>
+  <Position name="GLIB_014" nr="1" line="161" col="5"/>
+  <Position name="GLIB_014" nr="5" line="245" col="7"/>
+  <Position name="GLIB_014" nr="6" line="255" col="7"/>
+  <Position name="GLIB_014" nr="7" line="265" col="7"/>
+  <Position name="GLIB_014" nr="6" line="301" col="7"/>
+  <Position name="GLIB_014" nr="10" line="311" col="7"/>
+  <Position name="GLIB_014" nr="2" line="339" col="7"/>
+  <Position name="GLIB_014" nr="3" line="359" col="7"/>
+  <Position name="GLIB_014" nr="4" line="379" col="7"/>
+  <Position name="GLIB_014" nr="5" line="399" col="7"/>
+  <Position name="GLIB_014" nr="8" line="437" col="7"/>
+  <Position name="GLIB_014" nr="9" line="457" col="7"/>
+  <Position name="GLIB_014" nr="11" line="486" col="7"/>
+  <Position name="GLIB_014" nr="12" line="506" col="7"/>
+  <Position name="GLIB_014" nr="13" line="526" col="7"/>
+  <Position name="GLIB_014" nr="2" line="563" col="7"/>
+  <Position name="GLIB_014" nr="3" line="578" col="7"/>
+  <Position name="GLIB_014" nr="4" line="593" col="7"/>
+  <Position name="GLIB_014" nr="5" line="608" col="7"/>
+  <Position name="GLIB_014" nr="8" line="635" col="7"/>
+  <Position name="GLIB_014" nr="9" line="650" col="7"/>
+  <Position name="GLIB_014" nr="11" line="671" col="7"/>
+  <Position name="GLIB_014" nr="12" line="686" col="7"/>
+  <Position name="GLIB_014" nr="13" line="701" col="7"/>
+  <Position name="GLIB_014" nr="2" line="846" col="7"/>
+  <Position name="GLIB_014" nr="3" line="877" col="7"/>
+  <Position name="GLIB_014" nr="4" line="908" col="7"/>
+  <Position name="GLIB_014" nr="5" line="939" col="7"/>
+  <Position name="GLIB_014" nr="8" line="1002" col="7"/>
+  <Position name="GLIB_014" nr="9" line="1033" col="7"/>
+  <Position name="GLIB_014" nr="11" line="1080" col="7"/>
+  <Position name="GLIB_014" nr="12" line="1111" col="7"/>
+  <Position name="GLIB_014" nr="13" line="1142" col="7"/>
+  <Position name="GLIB_014" nr="22" line="2450" col="21"/>
+  <Position name="GLIB_014" nr="22" line="2468" col="21"/>
+  <Position name="GLIB_014" nr="22" line="2530" col="21"/>
+  <Position name="GLIB_014" nr="24" line="2607" col="7"/>
+  <Position name="GLIB_014" nr="23" line="2658" col="7"/>
+  <Position name="GLIB_014" nr="23" line="2677" col="12"/>
+  <Position name="GLIB_014" nr="23" line="2679" col="5"/>
+</Positions>

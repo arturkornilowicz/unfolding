@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="RLVECT_1" nr="3" line="113" col="12"/>
+  <Position name="RLVECT_1" nr="4" line="114" col="12"/>
+  <Position name="ALGSTR_0" nr="16" line="115" col="7"/>
+  <Position name="ALGSTR_0" nr="11" line="118" col="8"/>
+  <Position name="RLVECT_1" nr="2" line="197" col="7"/>
+  <Position name="RLVECT_1" nr="3" line="209" col="7"/>
+  <Position name="RLVECT_1" nr="4" line="221" col="7"/>
+  <Position name="ALGSTR_0" nr="16" line="232" col="7"/>
+  <Position name="ALGSTR_0" nr="11" line="237" col="8"/>
+  <Position name="GROUP_1" nr="3" line="247" col="7"/>
+  <Position name="VECTSP_1" nr="7" line="260" col="7"/>
+  <Position name="STRUCT_0" nr="1" line="369" col="13"/>
+  <Position name="STRUCT_0" nr="1" line="446" col="13"/>
+  <Position name="RLVECT_1" nr="2" line="605" col="9"/>
+  <Position name="RLVECT_1" nr="3" line="613" col="12"/>
+  <Position name="RLVECT_1" nr="4" line="620" col="12"/>
+  <Position name="ALGSTR_0" nr="16" line="623" col="7"/>
+  <Position name="ALGSTR_0" nr="11" line="628" col="8"/>
+  <Position name="RLVECT_1" nr="2" line="675" col="9"/>
+  <Position name="RLVECT_1" nr="3" line="683" col="12"/>
+  <Position name="RLVECT_1" nr="4" line="690" col="12"/>
+  <Position name="ALGSTR_0" nr="16" line="693" col="7"/>
+  <Position name="ALGSTR_0" nr="11" line="698" col="8"/>
+  <Position name="VECTSP_1" nr="19" line="1013" col="5"/>
+  <Position name="VECTSP_1" nr="19" line="1069" col="9"/>
+  <Position name="GROUP_6" nr="6" line="1075" col="9"/>
+  <Position name="RINGCAT1" nr="1" line="1084" col="8"/>
+  <Position name="MOD_4" nr="7" line="1088" col="10"/>
+  <Position name="VECTSP_1" nr="19" line="1088" col="10"/>
+  <Position name="MOD_4" nr="6" line="1093" col="10"/>
+  <Position name="GROUP_1" nr="13" line="1096" col="8"/>
+</Positions>

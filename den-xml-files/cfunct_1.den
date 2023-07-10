@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="239" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="265" col="5"/>
+  <Position name="TARSKI" nr="3" line="269" col="7"/>
+  <Position name="PARTFUN1" nr="2" line="1664" col="15"/>
+  <Position name="PARTFUN1" nr="2" line="1671" col="13"/>
+  <Position name="PARTFUN1" nr="2" line="1671" col="13"/>
+  <Position name="PARTFUN1" nr="2" line="1679" col="15"/>
+  <Position name="PARTFUN1" nr="2" line="1686" col="13"/>
+  <Position name="PARTFUN1" nr="2" line="1686" col="13"/>
+  <Position name="PARTFUN1" nr="2" line="1692" col="13"/>
+  <Position name="PARTFUN1" nr="2" line="1699" col="11"/>
+  <Position name="PARTFUN1" nr="2" line="1699" col="11"/>
+  <Position name="PARTFUN1" nr="2" line="1726" col="13"/>
+  <Position name="PARTFUN1" nr="2" line="1730" col="10"/>
+  <Position name="COMSEQ_2" nr="3" line="1825" col="8"/>
+  <Position name="COMSEQ_2" nr="3" line="1833" col="7"/>
+  <Position name="XBOOLE_0" nr="7" line="1903" col="8"/>
+</Positions>

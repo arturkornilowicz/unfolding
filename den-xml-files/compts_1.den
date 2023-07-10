@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="PRE_TOPC" nr="11" line="68" col="7"/>
+  <Position name="PRE_TOPC" nr="12" line="98" col="7"/>
+  <Position name="COMPTS_1" nr="4" line="150" col="7"/>
+  <Position name="COMPTS_1" nr="4" line="179" col="9"/>
+  <Position name="COMPTS_1" nr="4" line="215" col="9"/>
+  <Position name="TOPS_2" nr="1" line="229" col="11"/>
+  <Position name="TARSKI" nr="3" line="256" col="11"/>
+  <Position name="TARSKI" nr="3" line="326" col="9"/>
+  <Position name="COMPTS_1" nr="1" line="347" col="7"/>
+  <Position name="TARSKI" nr="3" line="368" col="9"/>
+  <Position name="TARSKI" nr="3" line="475" col="7"/>
+  <Position name="TOPS_2" nr="1" line="488" col="7"/>
+  <Position name="TARSKI" nr="3" line="500" col="7"/>
+  <Position name="TARSKI" nr="3" line="526" col="7"/>
+  <Position name="TOPS_2" nr="1" line="540" col="7"/>
+  <Position name="XBOOLE_0" nr="7" line="607" col="5"/>
+  <Position name="COMPTS_1" nr="4" line="659" col="5"/>
+  <Position name="TOPS_2" nr="1" line="666" col="7"/>
+  <Position name="COMPTS_1" nr="4" line="727" col="5"/>
+  <Position name="COMPTS_1" nr="3" line="781" col="5"/>
+  <Position name="XBOOLE_0" nr="7" line="781" col="5"/>
+  <Position name="TARSKI" nr="3" line="816" col="7"/>
+  <Position name="TARSKI" nr="3" line="829" col="7"/>
+  <Position name="TOPS_2" nr="1" line="847" col="7"/>
+  <Position name="TARSKI" nr="3" line="875" col="7"/>
+  <Position name="TOPS_2" nr="1" line="908" col="7"/>
+  <Position name="XBOOLE_0" nr="7" line="950" col="5"/>
+  <Position name="COMPTS_1" nr="1" line="967" col="5"/>
+  <Position name="COMPTS_1" nr="4" line="1007" col="5"/>
+  <Position name="PRE_TOPC" nr="10" line="1111" col="7"/>
+  <Position name="PRE_TOPC" nr="10" line="1205" col="9"/>
+  <Position name="TOPS_2" nr="1" line="1420" col="5"/>
+</Positions>

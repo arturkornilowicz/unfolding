@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="XBOOLE_0" nr="10" line="408" col="8"/>
+  <Position name="TARSKI" nr="3" line="410" col="5"/>
+  <Position name="FACIRC_1" nr="2" line="753" col="7"/>
+  <Position name="CIRCUIT2" nr="6" line="1066" col="11"/>
+  <Position name="CIRCUIT2" nr="6" line="1537" col="17"/>
+  <Position name="FACIRC_1" nr="2" line="1809" col="7"/>
+  <Position name="CIRCUIT2" nr="6" line="2123" col="11"/>
+  <Position name="CIRCUIT2" nr="6" line="2614" col="17"/>
+  <Position name="FACIRC_1" nr="2" line="2887" col="7"/>
+  <Position name="CIRCUIT2" nr="6" line="3202" col="11"/>
+  <Position name="CIRCUIT2" nr="6" line="3674" col="17"/>
+  <Position name="FACIRC_1" nr="2" line="3947" col="7"/>
+  <Position name="CIRCUIT2" nr="6" line="4263" col="11"/>
+  <Position name="CIRCUIT2" nr="6" line="4733" col="17"/>
+</Positions>

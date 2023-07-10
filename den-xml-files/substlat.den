@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="51" col="9"/>
+  <Position name="TARSKI" nr="3" line="155" col="9"/>
+  <Position name="TARSKI" nr="3" line="226" col="9"/>
+  <Position name="TARSKI" nr="3" line="235" col="9"/>
+  <Position name="TARSKI" nr="3" line="289" col="7"/>
+  <Position name="TARSKI" nr="3" line="304" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="423" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="504" col="10"/>
+  <Position name="XBOOLE_0" nr="10" line="622" col="10"/>
+  <Position name="XBOOLE_0" nr="10" line="716" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="761" col="10"/>
+  <Position name="LATTICES" nr="10" line="1006" col="12"/>
+  <Position name="LATTICES" nr="4" line="1006" col="12"/>
+  <Position name="LATTICES" nr="5" line="1007" col="12"/>
+  <Position name="LATTICES" nr="8" line="1009" col="12"/>
+  <Position name="LATTICES" nr="6" line="1010" col="12"/>
+  <Position name="LATTICES" nr="7" line="1011" col="12"/>
+  <Position name="LATTICES" nr="9" line="1013" col="7"/>
+  <Position name="LATTICES" nr="11" line="1025" col="9"/>
+  <Position name="LATTICES" nr="13" line="1037" col="10"/>
+  <Position name="LATTICES" nr="14" line="1050" col="10"/>
+</Positions>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="AMISTD_4" nr="1" line="72" col="13"/>
+  <Position name="WELLORD2" nr="4" line="195" col="8"/>
+  <Position name="FUNCT_1" nr="4" line="198" col="9"/>
+  <Position name="TARSKI" nr="3" line="209" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="217" col="7"/>
+  <Position name="TARSKI" nr="3" line="220" col="9"/>
+  <Position name="EXTPRO_1" nr="3" line="1582" col="5"/>
+  <Position name="FUNCT_1" nr="11" line="2131" col="14"/>
+</Positions>

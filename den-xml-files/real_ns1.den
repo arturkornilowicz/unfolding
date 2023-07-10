@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="NORMSP_0" nr="6" line="251" col="13"/>
+  <Position name="ALGSTR_0" nr="16" line="397" col="9"/>
+  <Position name="ALGSTR_0" nr="11" line="408" col="9"/>
+  <Position name="RLVECT_1" nr="2" line="1284" col="9"/>
+  <Position name="ALGSTR_0" nr="16" line="1317" col="7"/>
+  <Position name="ALGSTR_0" nr="11" line="1320" col="8"/>
+  <Position name="BHSP_3" nr="1" line="1522" col="5"/>
+  <Position name="RSSPACE3" nr="5" line="1556" col="5"/>
+  <Position name="BHSP_3" nr="4" line="1583" col="7"/>
+</Positions>

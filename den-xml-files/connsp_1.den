@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="CONNSP_1" nr="1" line="53" col="8"/>
+  <Position name="XBOOLE_0" nr="7" line="53" col="8"/>
+  <Position name="XBOOLE_0" nr="7" line="53" col="8"/>
+  <Position name="XBOOLE_0" nr="7" line="57" col="9"/>
+  <Position name="CONNSP_1" nr="1" line="109" col="8"/>
+  <Position name="XBOOLE_0" nr="7" line="109" col="8"/>
+  <Position name="XBOOLE_0" nr="7" line="109" col="8"/>
+  <Position name="CONNSP_1" nr="1" line="137" col="8"/>
+  <Position name="XBOOLE_0" nr="7" line="137" col="8"/>
+  <Position name="XBOOLE_0" nr="7" line="137" col="8"/>
+  <Position name="CONNSP_1" nr="1" line="155" col="8"/>
+  <Position name="XBOOLE_0" nr="7" line="155" col="8"/>
+  <Position name="XBOOLE_0" nr="7" line="155" col="8"/>
+  <Position name="CONNSP_1" nr="1" line="173" col="8"/>
+  <Position name="CONNSP_1" nr="1" line="173" col="8"/>
+  <Position name="XBOOLE_0" nr="7" line="693" col="9"/>
+  <Position name="CONNSP_1" nr="3" line="1510" col="7"/>
+  <Position name="CONNSP_1" nr="2" line="1510" col="7"/>
+</Positions>

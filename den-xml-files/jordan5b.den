@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="551" col="9"/>
+  <Position name="TARSKI" nr="3" line="562" col="9"/>
+  <Position name="TARSKI" nr="3" line="665" col="9"/>
+  <Position name="TARSKI" nr="3" line="706" col="9"/>
+  <Position name="TARSKI" nr="3" line="807" col="13"/>
+  <Position name="TARSKI" nr="3" line="826" col="13"/>
+  <Position name="TARSKI" nr="3" line="982" col="7"/>
+  <Position name="JORDAN3" nr="5" line="1040" col="11"/>
+  <Position name="JORDAN3" nr="5" line="1078" col="10"/>
+  <Position name="JORDAN3" nr="5" line="1121" col="11"/>
+  <Position name="TARSKI" nr="3" line="1143" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="1150" col="5"/>
+  <Position name="TARSKI" nr="3" line="1154" col="7"/>
+  <Position name="TOPREAL4" nr="1" line="1890" col="6"/>
+  <Position name="TOPREAL4" nr="1" line="1943" col="6"/>
+</Positions>

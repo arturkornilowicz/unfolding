@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="RLSUB_1" nr="1" line="104" col="5"/>
+  <Position name="RLSUB_1" nr="1" line="139" col="5"/>
+  <Position name="RLSUB_1" nr="1" line="168" col="5"/>
+  <Position name="RLSUB_1" nr="1" line="289" col="5"/>
+  <Position name="RLVECT_1" nr="2" line="393" col="9"/>
+  <Position name="RLVECT_1" nr="3" line="401" col="9"/>
+  <Position name="RLVECT_1" nr="4" line="411" col="9"/>
+  <Position name="ALGSTR_0" nr="16" line="418" col="9"/>
+  <Position name="ALGSTR_0" nr="11" line="426" col="10"/>
+  <Position name="RLVECT_1" nr="5" line="443" col="7"/>
+  <Position name="RLVECT_1" nr="6" line="457" col="7"/>
+  <Position name="RLVECT_1" nr="7" line="470" col="7"/>
+  <Position name="RLVECT_1" nr="8" line="471" col="7"/>
+  <Position name="RLSUB_1" nr="2" line="483" col="10"/>
+  <Position name="RLSUB_1" nr="2" line="520" col="11"/>
+  <Position name="RLSUB_1" nr="2" line="562" col="11"/>
+  <Position name="TARSKI" nr="3" line="578" col="7"/>
+  <Position name="ALGSTR_0" nr="16" line="784" col="9"/>
+  <Position name="ALGSTR_0" nr="11" line="789" col="10"/>
+  <Position name="TARSKI" nr="3" line="907" col="9"/>
+  <Position name="TARSKI" nr="3" line="914" col="9"/>
+  <Position name="TARSKI" nr="3" line="928" col="7"/>
+  <Position name="TARSKI" nr="3" line="939" col="7"/>
+  <Position name="TARSKI" nr="3" line="1006" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="1016" col="5"/>
+  <Position name="TARSKI" nr="3" line="1017" col="5"/>
+  <Position name="TARSKI" nr="3" line="1036" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="1043" col="7"/>
+  <Position name="TARSKI" nr="3" line="1044" col="7"/>
+  <Position name="TARSKI" nr="3" line="1083" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="1091" col="5"/>
+  <Position name="TARSKI" nr="3" line="1092" col="5"/>
+  <Position name="TARSKI" nr="3" line="1141" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="1153" col="7"/>
+  <Position name="TARSKI" nr="3" line="1154" col="7"/>
+  <Position name="TARSKI" nr="3" line="1200" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="1213" col="7"/>
+  <Position name="TARSKI" nr="3" line="1214" col="7"/>
+  <Position name="TARSKI" nr="3" line="1267" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="1281" col="5"/>
+  <Position name="TARSKI" nr="3" line="1282" col="5"/>
+  <Position name="TARSKI" nr="3" line="1480" col="11"/>
+  <Position name="XBOOLE_0" nr="10" line="1492" col="9"/>
+  <Position name="TARSKI" nr="3" line="1493" col="9"/>
+</Positions>

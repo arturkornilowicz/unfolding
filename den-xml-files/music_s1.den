@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="75" col="9"/>
+  <Position name="TARSKI" nr="3" line="125" col="7"/>
+  <Position name="TARSKI" nr="3" line="136" col="7"/>
+  <Position name="TARSKI" nr="3" line="147" col="7"/>
+  <Position name="MUSIC_S1" nr="21" line="1466" col="7"/>
+  <Position name="MUSIC_S1" nr="42" line="1702" col="7"/>
+  <Position name="MUSIC_S1" nr="42" line="1759" col="7"/>
+  <Position name="MUSIC_S1" nr="46" line="2174" col="7"/>
+  <Position name="MUSIC_S1" nr="46" line="2227" col="5"/>
+  <Position name="MUSIC_S1" nr="50" line="2428" col="7"/>
+  <Position name="MUSIC_S1" nr="50" line="2483" col="7"/>
+  <Position name="MUSIC_S1" nr="75" line="3762" col="5"/>
+</Positions>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="ZMATRLIN" nr="2" line="346" col="10"/>
+  <Position name="TARSKI" nr="3" line="923" col="11"/>
+  <Position name="ZMATRLIN" nr="5" line="2674" col="10"/>
+  <Position name="HAHNBAN1" nr="9" line="2976" col="11"/>
+  <Position name="HAHNBAN1" nr="9" line="2990" col="10"/>
+  <Position name="VECTSP_1" nr="19" line="3091" col="7"/>
+  <Position name="ZMATRLIN" nr="22" line="4078" col="7"/>
+  <Position name="ZMATRLIN" nr="23" line="4085" col="7"/>
+  <Position name="ZMATRLIN" nr="24" line="4096" col="7"/>
+  <Position name="ZMATRLIN" nr="25" line="4103" col="7"/>
+  <Position name="ZMATRLIN" nr="22" line="4160" col="7"/>
+  <Position name="VECTSP_1" nr="19" line="4162" col="7"/>
+  <Position name="ZMATRLIN" nr="23" line="4178" col="7"/>
+  <Position name="ZMATRLIN" nr="24" line="4191" col="7"/>
+  <Position name="HAHNBAN1" nr="8" line="4193" col="7"/>
+  <Position name="ZMATRLIN" nr="25" line="4208" col="7"/>
+  <Position name="HAHNBAN1" nr="8" line="4211" col="7"/>
+  <Position name="ZMATRLIN" nr="23" line="4326" col="7"/>
+  <Position name="VECTSP_1" nr="19" line="4329" col="7"/>
+  <Position name="ZMATRLIN" nr="22" line="4351" col="7"/>
+  <Position name="VECTSP_1" nr="19" line="4354" col="7"/>
+  <Position name="ZMATRLIN" nr="23" line="4377" col="7"/>
+  <Position name="VECTSP_1" nr="19" line="4379" col="7"/>
+  <Position name="ZMATRLIN" nr="22" line="4399" col="7"/>
+  <Position name="VECTSP_1" nr="19" line="4401" col="7"/>
+  <Position name="ZMATRLIN" nr="25" line="4448" col="7"/>
+  <Position name="HAHNBAN1" nr="8" line="4451" col="7"/>
+  <Position name="ZMATRLIN" nr="24" line="4468" col="7"/>
+  <Position name="HAHNBAN1" nr="8" line="4471" col="7"/>
+  <Position name="ZMATRLIN" nr="25" line="4489" col="7"/>
+  <Position name="HAHNBAN1" nr="8" line="4491" col="7"/>
+  <Position name="ZMATRLIN" nr="24" line="4508" col="7"/>
+  <Position name="HAHNBAN1" nr="8" line="4510" col="7"/>
+</Positions>

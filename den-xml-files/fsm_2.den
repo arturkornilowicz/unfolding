@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="XBOOLE_0" nr="9" line="166" col="11"/>
+  <Position name="FSM_2" nr="1" line="178" col="5"/>
+  <Position name="FSM_2" nr="2" line="399" col="7"/>
+  <Position name="STRUCT_0" nr="1" line="832" col="12"/>
+  <Position name="STRUCT_0" nr="1" line="869" col="12"/>
+  <Position name="FSM_2" nr="6" line="981" col="7"/>
+  <Position name="FSM_2" nr="5" line="984" col="8"/>
+  <Position name="FSM_2" nr="2" line="987" col="10"/>
+  <Position name="FSM_1" nr="3" line="990" col="15"/>
+  <Position name="FSM_2" nr="5" line="1012" col="7"/>
+  <Position name="FSM_2" nr="8" line="1097" col="6"/>
+  <Position name="FSM_2" nr="8" line="1128" col="6"/>
+  <Position name="FSM_2" nr="8" line="1145" col="7"/>
+  <Position name="FSM_2" nr="8" line="1151" col="7"/>
+  <Position name="FSM_2" nr="5" line="1208" col="10"/>
+  <Position name="FSM_2" nr="2" line="1211" col="12"/>
+  <Position name="FSM_2" nr="6" line="1227" col="7"/>
+  <Position name="FSM_2" nr="8" line="1236" col="6"/>
+</Positions>

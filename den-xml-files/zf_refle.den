@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="ZF_MODEL" nr="12" line="117" col="9"/>
+  <Position name="TARSKI" nr="3" line="194" col="7"/>
+  <Position name="TARSKI" nr="3" line="223" col="7"/>
+  <Position name="TARSKI" nr="3" line="362" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="369" col="5"/>
+  <Position name="TARSKI" nr="3" line="470" col="9"/>
+  <Position name="ZF_REFLE" nr="2" line="482" col="12"/>
+  <Position name="RELAT_1" nr="9" line="483" col="10"/>
+  <Position name="TARSKI" nr="3" line="516" col="9"/>
+  <Position name="WELLORD2" nr="4" line="576" col="8"/>
+  <Position name="FUNCT_1" nr="4" line="579" col="9"/>
+  <Position name="TARSKI" nr="3" line="588" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="597" col="7"/>
+  <Position name="TARSKI" nr="3" line="598" col="7"/>
+  <Position name="TARSKI" nr="3" line="698" col="11"/>
+  <Position name="ORDINAL2" nr="12" line="741" col="9"/>
+  <Position name="ORDINAL2" nr="13" line="800" col="9"/>
+  <Position name="ORDINAL1" nr="5" line="815" col="11"/>
+  <Position name="ORDINAL1" nr="5" line="829" col="11"/>
+  <Position name="ORDINAL1" nr="5" line="856" col="9"/>
+  <Position name="TARSKI" nr="3" line="952" col="11"/>
+  <Position name="ORDINAL1" nr="5" line="1044" col="11"/>
+  <Position name="ZF_LANG" nr="15" line="1245" col="7"/>
+  <Position name="ORDINAL2" nr="12" line="1251" col="9"/>
+  <Position name="ORDINAL2" nr="13" line="1259" col="9"/>
+</Positions>

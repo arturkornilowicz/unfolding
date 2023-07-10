@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="FUNCT_2" nr="8" line="109" col="7"/>
+  <Position name="LIMFUNC1" nr="4" line="120" col="5"/>
+  <Position name="TARSKI" nr="3" line="261" col="11"/>
+  <Position name="TARSKI" nr="3" line="360" col="11"/>
+  <Position name="SEQ_2" nr="3" line="370" col="11"/>
+  <Position name="TARSKI" nr="3" line="449" col="11"/>
+</Positions>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="133" col="9"/>
+  <Position name="TARSKI" nr="3" line="157" col="9"/>
+  <Position name="MARGREL1" nr="21" line="178" col="9"/>
+  <Position name="MARGREL1" nr="1" line="178" col="9"/>
+  <Position name="MARGREL1" nr="22" line="193" col="9"/>
+  <Position name="UNIALG_2" nr="3" line="277" col="7"/>
+  <Position name="UNIALG_2" nr="7" line="458" col="11"/>
+  <Position name="UNIALG_2" nr="7" line="595" col="11"/>
+  <Position name="UNIALG_2" nr="4" line="607" col="7"/>
+  <Position name="UNIALG_2" nr="3" line="608" col="7"/>
+  <Position name="TARSKI" nr="3" line="858" col="9"/>
+  <Position name="TARSKI" nr="3" line="936" col="7"/>
+  <Position name="UNIALG_2" nr="4" line="1029" col="9"/>
+  <Position name="UNIALG_2" nr="3" line="1030" col="9"/>
+  <Position name="TARSKI" nr="3" line="1062" col="9"/>
+  <Position name="UNIALG_2" nr="7" line="1104" col="13"/>
+  <Position name="XBOOLE_0" nr="10" line="1431" col="11"/>
+  <Position name="TARSKI" nr="3" line="1432" col="7"/>
+</Positions>

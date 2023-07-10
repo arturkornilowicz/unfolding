@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="155" col="11"/>
+  <Position name="ORDINAL1" nr="5" line="206" col="9"/>
+  <Position name="ORDINAL2" nr="12" line="304" col="7"/>
+  <Position name="ORDINAL2" nr="17" line="336" col="6"/>
+  <Position name="ORDINAL2" nr="17" line="406" col="6"/>
+  <Position name="ORDINAL2" nr="12" line="410" col="7"/>
+  <Position name="ORDINAL1" nr="5" line="443" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="504" col="5"/>
+  <Position name="ORDINAL2" nr="12" line="550" col="8"/>
+  <Position name="XBOOLE_0" nr="10" line="604" col="12"/>
+  <Position name="ORDINAL1" nr="5" line="606" col="7"/>
+  <Position name="ORDINAL2" nr="12" line="617" col="8"/>
+  <Position name="FUNCT_1" nr="4" line="619" col="5"/>
+  <Position name="TARSKI" nr="3" line="701" col="7"/>
+  <Position name="TARSKI" nr="3" line="717" col="9"/>
+  <Position name="FUNCT_1" nr="4" line="745" col="7"/>
+  <Position name="TARSKI" nr="3" line="770" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="778" col="7"/>
+  <Position name="TARSKI" nr="3" line="779" col="7"/>
+  <Position name="ORDINAL1" nr="5" line="1169" col="7"/>
+  <Position name="CARD_1" nr="4" line="1206" col="7"/>
+  <Position name="ORDINAL2" nr="4" line="1231" col="8"/>
+  <Position name="TARSKI" nr="3" line="1232" col="7"/>
+  <Position name="TARSKI" nr="3" line="1266" col="11"/>
+  <Position name="TARSKI" nr="3" line="1295" col="7"/>
+  <Position name="TARSKI" nr="3" line="1304" col="7"/>
+  <Position name="ORDINAL2" nr="12" line="1311" col="7"/>
+  <Position name="ORDINAL1" nr="5" line="1328" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="1349" col="5"/>
+  <Position name="CARD_3" nr="1" line="1354" col="7"/>
+  <Position name="TARSKI" nr="3" line="1424" col="11"/>
+  <Position name="TARSKI" nr="3" line="1493" col="7"/>
+  <Position name="TARSKI" nr="3" line="1508" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="1512" col="7"/>
+  <Position name="TARSKI" nr="3" line="1513" col="7"/>
+  <Position name="ORDINAL1" nr="5" line="1579" col="7"/>
+  <Position name="TARSKI" nr="3" line="1613" col="7"/>
+  <Position name="TARSKI" nr="3" line="1702" col="7"/>
+  <Position name="TARSKI" nr="3" line="1718" col="9"/>
+  <Position name="TARSKI" nr="3" line="1731" col="11"/>
+  <Position name="FUNCT_1" nr="4" line="1760" col="7"/>
+</Positions>

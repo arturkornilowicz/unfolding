@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="GLIB_008" nr="2" line="3126" col="7"/>
+  <Position name="GLIB_008" nr="3" line="3161" col="7"/>
+  <Position name="GLIB_008" nr="2" line="3172" col="7"/>
+  <Position name="GLIB_000" nr="53" line="3269" col="7"/>
+  <Position name="GLIB_000" nr="66" line="3282" col="7"/>
+  <Position name="GLIB_000" nr="67" line="3295" col="7"/>
+  <Position name="GLIB_000" nr="68" line="3308" col="7"/>
+  <Position name="GLIB_000" nr="69" line="3321" col="7"/>
+  <Position name="GLIB_000" nr="70" line="3334" col="7"/>
+  <Position name="GLIB_000" nr="71" line="3347" col="7"/>
+  <Position name="GLIB_002" nr="15" line="3372" col="7"/>
+  <Position name="GLIB_002" nr="16" line="3385" col="7"/>
+  <Position name="GLIB_008" nr="3" line="3404" col="7"/>
+</Positions>

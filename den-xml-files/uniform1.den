@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="137" col="13"/>
+  <Position name="ORDINAL1" nr="8" line="312" col="11"/>
+  <Position name="TARSKI" nr="3" line="334" col="17"/>
+  <Position name="TARSKI" nr="3" line="350" col="17"/>
+  <Position name="TARSKI" nr="3" line="468" col="9"/>
+  <Position name="TARSKI" nr="3" line="493" col="9"/>
+  <Position name="TARSKI" nr="3" line="880" col="7"/>
+  <Position name="TARSKI" nr="3" line="1092" col="7"/>
+  <Position name="TARSKI" nr="3" line="1169" col="7"/>
+  <Position name="TARSKI" nr="3" line="1397" col="7"/>
+</Positions>

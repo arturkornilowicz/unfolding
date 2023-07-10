@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="COHSP_1" nr="4" line="146" col="9"/>
+  <Position name="TARSKI" nr="3" line="171" col="11"/>
+  <Position name="XBOOLE_0" nr="10" line="178" col="9"/>
+  <Position name="TARSKI" nr="3" line="179" col="9"/>
+  <Position name="TARSKI" nr="3" line="187" col="9"/>
+  <Position name="TARSKI" nr="3" line="238" col="9"/>
+  <Position name="TARSKI" nr="3" line="254" col="9"/>
+  <Position name="TARSKI" nr="3" line="488" col="7"/>
+  <Position name="TARSKI" nr="3" line="704" col="11"/>
+  <Position name="TARSKI" nr="3" line="722" col="11"/>
+  <Position name="TARSKI" nr="3" line="812" col="17"/>
+  <Position name="XBOOLE_0" nr="10" line="823" col="15"/>
+  <Position name="TARSKI" nr="3" line="824" col="15"/>
+  <Position name="TARSKI" nr="3" line="846" col="17"/>
+  <Position name="XBOOLE_0" nr="10" line="853" col="15"/>
+  <Position name="TARSKI" nr="3" line="854" col="15"/>
+  <Position name="TARSKI" nr="3" line="912" col="7"/>
+  <Position name="TARSKI" nr="3" line="920" col="9"/>
+  <Position name="TARSKI" nr="3" line="926" col="11"/>
+  <Position name="TARSKI" nr="3" line="950" col="7"/>
+  <Position name="ROUGHS_3" nr="5" line="1297" col="9"/>
+  <Position name="ROUGHS_3" nr="9" line="1314" col="7"/>
+  <Position name="ROUGHS_3" nr="6" line="1314" col="7"/>
+  <Position name="TARSKI" nr="3" line="1597" col="9"/>
+  <Position name="TARSKI" nr="3" line="1711" col="7"/>
+  <Position name="TARSKI" nr="3" line="1985" col="9"/>
+  <Position name="TARSKI" nr="3" line="2012" col="9"/>
+  <Position name="TARSKI" nr="3" line="2079" col="9"/>
+  <Position name="TARSKI" nr="3" line="2088" col="11"/>
+  <Position name="TARSKI" nr="3" line="2104" col="11"/>
+  <Position name="TARSKI" nr="3" line="2121" col="9"/>
+  <Position name="TARSKI" nr="3" line="2135" col="11"/>
+  <Position name="TARSKI" nr="3" line="2175" col="11"/>
+  <Position name="TARSKI" nr="3" line="2218" col="11"/>
+  <Position name="TARSKI" nr="3" line="2264" col="9"/>
+  <Position name="TARSKI" nr="3" line="2307" col="9"/>
+</Positions>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="497" col="9"/>
+  <Position name="TARSKI" nr="3" line="529" col="9"/>
+  <Position name="LIOUVIL1" nr="3" line="921" col="7"/>
+  <Position name="ASYMPT_0" nr="5" line="938" col="8"/>
+  <Position name="LIOUVIL1" nr="3" line="960" col="7"/>
+  <Position name="LIOUVIL1" nr="3" line="989" col="7"/>
+  <Position name="LIOUVIL1" nr="5" line="1185" col="7"/>
+  <Position name="RELAT_1" nr="19" line="1323" col="7"/>
+  <Position name="TARSKI" nr="3" line="1323" col="7"/>
+  <Position name="TARSKI" nr="3" line="1390" col="9"/>
+  <Position name="TARSKI" nr="3" line="1442" col="9"/>
+  <Position name="PARTFUN3" nr="4" line="1566" col="7"/>
+  <Position name="TARSKI" nr="3" line="1972" col="9"/>
+</Positions>

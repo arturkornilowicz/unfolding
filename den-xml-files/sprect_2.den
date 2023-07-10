@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="XBOOLE_0" nr="10" line="350" col="15"/>
+  <Position name="TARSKI" nr="3" line="350" col="15"/>
+  <Position name="TARSKI" nr="3" line="352" col="9"/>
+  <Position name="SPRECT_2" nr="1" line="625" col="5"/>
+  <Position name="SPRECT_2" nr="1" line="637" col="5"/>
+  <Position name="SPRECT_2" nr="1" line="646" col="7"/>
+  <Position name="SPRECT_2" nr="1" line="653" col="7"/>
+  <Position name="SPRECT_2" nr="1" line="671" col="5"/>
+  <Position name="SPRECT_2" nr="1" line="696" col="5"/>
+  <Position name="SPRECT_2" nr="1" line="712" col="5"/>
+  <Position name="SPRECT_2" nr="1" line="728" col="5"/>
+  <Position name="SPRECT_2" nr="1" line="744" col="5"/>
+  <Position name="SPRECT_2" nr="2" line="771" col="5"/>
+  <Position name="SPRECT_2" nr="1" line="771" col="5"/>
+  <Position name="SPRECT_2" nr="3" line="771" col="5"/>
+  <Position name="SPRECT_2" nr="1" line="771" col="5"/>
+  <Position name="GOBOARD4" nr="2" line="786" col="7"/>
+  <Position name="GOBOARD4" nr="2" line="801" col="7"/>
+  <Position name="GOBOARD4" nr="2" line="815" col="7"/>
+  <Position name="GOBOARD4" nr="2" line="830" col="7"/>
+</Positions>

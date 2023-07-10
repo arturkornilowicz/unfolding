@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="SUPINF_2" nr="11" line="719" col="5"/>
+  <Position name="SUPINF_2" nr="9" line="719" col="5"/>
+  <Position name="SUPINF_2" nr="11" line="731" col="5"/>
+  <Position name="SUPINF_2" nr="9" line="731" col="5"/>
+  <Position name="MESFUNC5" nr="2" line="759" col="5"/>
+  <Position name="MESFUNC5" nr="1" line="759" col="5"/>
+  <Position name="MESFUNC5" nr="2" line="770" col="5"/>
+  <Position name="MESFUNC5" nr="1" line="770" col="5"/>
+  <Position name="TARSKI" nr="3" line="1361" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="1685" col="13"/>
+  <Position name="TARSKI" nr="3" line="1687" col="7"/>
+</Positions>

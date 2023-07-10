@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="51" col="9"/>
+  <Position name="FUNCT_1" nr="13" line="117" col="9"/>
+  <Position name="FUNCT_2" nr="12" line="127" col="9"/>
+  <Position name="TARSKI" nr="3" line="166" col="9"/>
+  <Position name="TARSKI" nr="3" line="175" col="9"/>
+  <Position name="TARSKI" nr="3" line="189" col="5"/>
+  <Position name="FUNCT_1" nr="13" line="395" col="9"/>
+  <Position name="FUNCT_2" nr="12" line="405" col="9"/>
+  <Position name="TARSKI" nr="3" line="434" col="9"/>
+  <Position name="TARSKI" nr="3" line="447" col="9"/>
+  <Position name="TARSKI" nr="3" line="465" col="5"/>
+  <Position name="FUNCT_1" nr="4" line="495" col="7"/>
+  <Position name="TARSKI" nr="3" line="553" col="7"/>
+  <Position name="TARSKI" nr="3" line="1046" col="9"/>
+  <Position name="TARSKI" nr="3" line="1078" col="9"/>
+</Positions>

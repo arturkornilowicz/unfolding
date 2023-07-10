@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="XBOOLE_0" nr="10" line="69" col="12"/>
+  <Position name="TARSKI" nr="3" line="70" col="5"/>
+  <Position name="TARSKI" nr="3" line="90" col="5"/>
+  <Position name="TARSKI" nr="3" line="104" col="6"/>
+  <Position name="XBOOLE_0" nr="10" line="114" col="5"/>
+  <Position name="TARSKI" nr="3" line="167" col="9"/>
+  <Position name="RELAT_1" nr="3" line="187" col="5"/>
+  <Position name="TARSKI" nr="3" line="521" col="7"/>
+  <Position name="TARSKI" nr="3" line="534" col="7"/>
+  <Position name="CARD_1" nr="7" line="979" col="12"/>
+  <Position name="PARTFUN1" nr="2" line="987" col="12"/>
+  <Position name="RELAT_1" nr="19" line="1276" col="17"/>
+  <Position name="RELAT_1" nr="19" line="1281" col="17"/>
+  <Position name="TARSKI" nr="3" line="1775" col="9"/>
+  <Position name="TARSKI" nr="3" line="1875" col="9"/>
+  <Position name="TARSKI" nr="3" line="2060" col="9"/>
+  <Position name="AFINSQ_1" nr="12" line="2138" col="7"/>
+  <Position name="RELAT_1" nr="18" line="2152" col="11"/>
+  <Position name="ORDINAL1" nr="2" line="2175" col="13"/>
+  <Position name="TARSKI" nr="3" line="2179" col="8"/>
+  <Position name="ORDINAL1" nr="7" line="2184" col="7"/>
+  <Position name="ORDINAL1" nr="3" line="2185" col="5"/>
+  <Position name="XBOOLE_0" nr="10" line="2215" col="11"/>
+  <Position name="TARSKI" nr="3" line="2215" col="11"/>
+  <Position name="TARSKI" nr="3" line="2217" col="5"/>
+  <Position name="XBOOLE_0" nr="10" line="2235" col="12"/>
+  <Position name="TARSKI" nr="3" line="2236" col="7"/>
+  <Position name="AFINSQ_1" nr="12" line="2297" col="11"/>
+</Positions>

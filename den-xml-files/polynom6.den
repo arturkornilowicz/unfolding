@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="QUOFIELD" nr="23" line="63" col="8"/>
+  <Position name="MOD_4" nr="12" line="64" col="11"/>
+  <Position name="MOD_4" nr="8" line="64" col="11"/>
+  <Position name="FUNCT_2" nr="3" line="66" col="12"/>
+  <Position name="TARSKI" nr="3" line="216" col="11"/>
+  <Position name="VALUED_0" nr="12" line="276" col="11"/>
+  <Position name="TARSKI" nr="3" line="460" col="9"/>
+  <Position name="TARSKI" nr="3" line="484" col="9"/>
+  <Position name="TARSKI" nr="3" line="502" col="9"/>
+  <Position name="VALUED_0" nr="12" line="517" col="9"/>
+  <Position name="STRUCT_0" nr="18" line="664" col="10"/>
+  <Position name="VECTSP_1" nr="7" line="672" col="9"/>
+  <Position name="TARSKI" nr="3" line="720" col="11"/>
+  <Position name="TARSKI" nr="3" line="747" col="11"/>
+  <Position name="XBOOLE_0" nr="10" line="775" col="9"/>
+  <Position name="TARSKI" nr="3" line="776" col="9"/>
+  <Position name="QUOFIELD" nr="23" line="1734" col="6"/>
+  <Position name="VECTSP_1" nr="19" line="1737" col="7"/>
+  <Position name="MOD_4" nr="12" line="1778" col="5"/>
+  <Position name="MOD_4" nr="8" line="1778" col="5"/>
+  <Position name="RINGCAT1" nr="1" line="1778" col="5"/>
+  <Position name="TARSKI" nr="3" line="1826" col="11"/>
+  <Position name="FUNCT_1" nr="4" line="2246" col="7"/>
+  <Position name="FUNCT_2" nr="3" line="2286" col="10"/>
+  <Position name="XBOOLE_0" nr="10" line="2286" col="10"/>
+  <Position name="TARSKI" nr="3" line="2291" col="7"/>
+  <Position name="TARSKI" nr="3" line="2348" col="11"/>
+  <Position name="TARSKI" nr="3" line="2380" col="9"/>
+</Positions>

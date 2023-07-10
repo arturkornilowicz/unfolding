@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="82" col="9"/>
+  <Position name="FINSEQ_1" nr="18" line="129" col="11"/>
+  <Position name="COMPOS_0" nr="1" line="177" col="9"/>
+  <Position name="COMPOS_0" nr="5" line="446" col="9"/>
+  <Position name="TARSKI" nr="3" line="476" col="12"/>
+  <Position name="XBOOLE_0" nr="10" line="485" col="6"/>
+  <Position name="TARSKI" nr="3" line="486" col="5"/>
+  <Position name="XBOOLE_0" nr="10" line="521" col="11"/>
+  <Position name="TARSKI" nr="3" line="521" col="11"/>
+  <Position name="TARSKI" nr="3" line="525" col="5"/>
+  <Position name="XBOOLE_0" nr="10" line="560" col="11"/>
+  <Position name="TARSKI" nr="3" line="560" col="11"/>
+  <Position name="TARSKI" nr="3" line="563" col="5"/>
+  <Position name="COMPOS_0" nr="7" line="579" col="6"/>
+</Positions>

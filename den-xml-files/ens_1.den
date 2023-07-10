@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="99" col="5"/>
+  <Position name="TARSKI" nr="3" line="112" col="5"/>
+  <Position name="TARSKI" nr="3" line="170" col="5"/>
+  <Position name="TARSKI" nr="3" line="180" col="5"/>
+  <Position name="TARSKI" nr="3" line="395" col="5"/>
+  <Position name="RELAT_1" nr="2" line="626" col="9"/>
+  <Position name="CAT_1" nr="6" line="673" col="9"/>
+  <Position name="CAT_1" nr="7" line="680" col="9"/>
+  <Position name="CAT_1" nr="8" line="695" col="9"/>
+  <Position name="CAT_1" nr="9" line="726" col="13"/>
+  <Position name="CAT_1" nr="10" line="737" col="12"/>
+  <Position name="CAT_1" nr="19" line="939" col="5"/>
+  <Position name="CAT_1" nr="18" line="982" col="5"/>
+  <Position name="FUNCT_1" nr="4" line="1079" col="7"/>
+  <Position name="CAT_1" nr="14" line="1148" col="10"/>
+  <Position name="TARSKI" nr="3" line="1200" col="7"/>
+  <Position name="ENS_1" nr="8" line="1286" col="11"/>
+  <Position name="ENS_1" nr="8" line="1298" col="8"/>
+  <Position name="CAT_1" nr="15" line="1300" col="10"/>
+  <Position name="CAT_2" nr="4" line="1361" col="12"/>
+  <Position name="RELAT_1" nr="3" line="1369" col="11"/>
+</Positions>

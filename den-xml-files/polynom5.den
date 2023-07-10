@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="ALGSEQ_1" nr="1" line="793" col="8"/>
+  <Position name="ALGSEQ_1" nr="2" line="814" col="7"/>
+  <Position name="ALGSEQ_1" nr="2" line="842" col="9"/>
+  <Position name="ALGSEQ_1" nr="2" line="853" col="7"/>
+  <Position name="ALGSEQ_1" nr="1" line="1250" col="8"/>
+  <Position name="ALGSEQ_1" nr="2" line="1289" col="7"/>
+  <Position name="ALGSEQ_1" nr="2" line="1316" col="7"/>
+  <Position name="POLYNOM5" nr="8" line="2120" col="6"/>
+  <Position name="POLYNOM5" nr="7" line="2121" col="11"/>
+  <Position name="TARSKI" nr="3" line="2162" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="2186" col="11"/>
+  <Position name="TARSKI" nr="3" line="2188" col="7"/>
+  <Position name="ALGSEQ_1" nr="2" line="2284" col="9"/>
+  <Position name="ALGSEQ_1" nr="2" line="2296" col="7"/>
+  <Position name="TARSKI" nr="3" line="2414" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="2421" col="5"/>
+  <Position name="TARSKI" nr="3" line="2424" col="7"/>
+  <Position name="ALGSTR_0" nr="16" line="2734" col="7"/>
+  <Position name="ALGSTR_0" nr="11" line="2737" col="8"/>
+  <Position name="XXREAL_2" nr="9" line="3106" col="8"/>
+  <Position name="XXREAL_2" nr="2" line="3107" col="7"/>
+  <Position name="COMSEQ_2" nr="4" line="3147" col="8"/>
+</Positions>

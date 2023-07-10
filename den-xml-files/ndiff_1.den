@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="76" col="7"/>
+  <Position name="TARSKI" nr="3" line="88" col="7"/>
+  <Position name="TARSKI" nr="3" line="141" col="7"/>
+  <Position name="STRUCT_0" nr="15" line="247" col="10"/>
+  <Position name="NORMSP_1" nr="6" line="461" col="6"/>
+  <Position name="NORMSP_1" nr="6" line="676" col="6"/>
+  <Position name="NDIFF_1" nr="4" line="875" col="9"/>
+  <Position name="NDIFF_1" nr="5" line="934" col="10"/>
+  <Position name="NFCONT_1" nr="5" line="1201" col="9"/>
+  <Position name="NDIFF_1" nr="6" line="1783" col="8"/>
+  <Position name="NDIFF_1" nr="8" line="1798" col="8"/>
+  <Position name="NDIFF_1" nr="6" line="1813" col="6"/>
+  <Position name="TARSKI" nr="3" line="2088" col="7"/>
+  <Position name="TARSKI" nr="3" line="2141" col="7"/>
+  <Position name="NFCONT_1" nr="9" line="2170" col="12"/>
+  <Position name="TARSKI" nr="3" line="2200" col="7"/>
+  <Position name="TARSKI" nr="3" line="2890" col="11"/>
+  <Position name="XBOOLE_0" nr="10" line="2898" col="9"/>
+  <Position name="TARSKI" nr="3" line="2899" col="9"/>
+  <Position name="TARSKI" nr="3" line="2930" col="9"/>
+  <Position name="NDIFF_1" nr="8" line="2976" col="2"/>
+  <Position name="NDIFF_1" nr="6" line="2991" col="6"/>
+</Positions>

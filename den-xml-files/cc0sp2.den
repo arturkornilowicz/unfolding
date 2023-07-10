@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="CC0SP2" nr="1" line="86" col="5"/>
+  <Position name="CC0SP2" nr="1" line="137" col="5"/>
+  <Position name="TARSKI" nr="3" line="174" col="11"/>
+  <Position name="TARSKI" nr="3" line="262" col="9"/>
+  <Position name="TARSKI" nr="3" line="277" col="9"/>
+  <Position name="TARSKI" nr="3" line="293" col="11"/>
+  <Position name="TARSKI" nr="3" line="365" col="11"/>
+  <Position name="TARSKI" nr="3" line="382" col="13"/>
+  <Position name="TARSKI" nr="3" line="475" col="9"/>
+  <Position name="TARSKI" nr="3" line="489" col="9"/>
+  <Position name="TARSKI" nr="3" line="505" col="9"/>
+  <Position name="TARSKI" nr="3" line="526" col="11"/>
+  <Position name="TARSKI" nr="3" line="627" col="9"/>
+  <Position name="TARSKI" nr="3" line="644" col="11"/>
+  <Position name="TARSKI" nr="3" line="682" col="7"/>
+  <Position name="GROUP_1" nr="1" line="1130" col="6"/>
+  <Position name="TARSKI" nr="3" line="1611" col="13"/>
+  <Position name="TARSKI" nr="3" line="1880" col="5"/>
+  <Position name="TARSKI" nr="3" line="1948" col="9"/>
+</Positions>

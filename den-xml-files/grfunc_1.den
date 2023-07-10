@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="RELAT_1" nr="3" line="54" col="5"/>
+  <Position name="FUNCT_1" nr="4" line="199" col="5"/>
+  <Position name="XBOOLE_0" nr="7" line="235" col="8"/>
+  <Position name="XBOOLE_0" nr="7" line="295" col="8"/>
+  <Position name="FUNCT_1" nr="14" line="525" col="6"/>
+  <Position name="FUNCT_1" nr="11" line="542" col="11"/>
+</Positions>

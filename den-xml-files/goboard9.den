@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="JORDAN1" nr="1" line="149" col="5"/>
+  <Position name="SEQM_3" nr="10" line="253" col="8"/>
+  <Position name="SEQM_3" nr="10" line="275" col="8"/>
+  <Position name="GOBOARD5" nr="5" line="315" col="15"/>
+  <Position name="GOBOARD1" nr="9" line="315" col="15"/>
+  <Position name="GOBOARD5" nr="4" line="347" col="9"/>
+  <Position name="XBOOLE_0" nr="7" line="369" col="18"/>
+  <Position name="XBOOLE_0" nr="7" line="381" col="18"/>
+  <Position name="XBOOLE_0" nr="7" line="385" col="18"/>
+  <Position name="TARSKI" nr="3" line="549" col="9"/>
+  <Position name="TARSKI" nr="3" line="556" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="573" col="15"/>
+  <Position name="TARSKI" nr="3" line="573" col="15"/>
+  <Position name="TARSKI" nr="3" line="575" col="9"/>
+  <Position name="TARSKI" nr="3" line="615" col="9"/>
+  <Position name="TARSKI" nr="3" line="622" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="639" col="15"/>
+  <Position name="TARSKI" nr="3" line="639" col="15"/>
+  <Position name="TARSKI" nr="3" line="641" col="9"/>
+</Positions>

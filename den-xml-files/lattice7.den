@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="RELAT_2" nr="7" line="190" col="7"/>
+  <Position name="LATTICE7" nr="1" line="359" col="11"/>
+  <Position name="LATTICE7" nr="1" line="372" col="11"/>
+  <Position name="LATTICE7" nr="1" line="438" col="9"/>
+  <Position name="LATTICE7" nr="1" line="445" col="9"/>
+  <Position name="RELAT_2" nr="7" line="660" col="7"/>
+  <Position name="LATTICE7" nr="1" line="700" col="9"/>
+  <Position name="RELAT_2" nr="7" line="711" col="9"/>
+  <Position name="TARSKI" nr="3" line="813" col="9"/>
+  <Position name="TARSKI" nr="3" line="865" col="11"/>
+  <Position name="LATTICE7" nr="1" line="959" col="11"/>
+  <Position name="LATTICE7" nr="1" line="984" col="11"/>
+  <Position name="TARSKI" nr="3" line="1068" col="7"/>
+  <Position name="WAYBEL_0" nr="19" line="1080" col="9"/>
+  <Position name="LATTICE7" nr="1" line="1110" col="11"/>
+  <Position name="TARSKI" nr="3" line="1139" col="7"/>
+  <Position name="LATTICE7" nr="1" line="1159" col="13"/>
+  <Position name="LATTICE3" nr="9" line="1179" col="17"/>
+  <Position name="LATTICE7" nr="1" line="1206" col="13"/>
+  <Position name="WAYBEL_1" nr="1" line="1234" col="7"/>
+  <Position name="COHSP_1" nr="7" line="1267" col="7"/>
+  <Position name="COHSP_1" nr="7" line="1285" col="9"/>
+  <Position name="WAYBEL_1" nr="3" line="1310" col="9"/>
+  <Position name="COHSP_1" nr="7" line="1360" col="7"/>
+</Positions>

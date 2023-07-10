@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="MONOID_0" nr="2" line="636" col="7"/>
+  <Position name="NDIFF_5" nr="1" line="718" col="5"/>
+  <Position name="TARSKI" nr="3" line="1736" col="7"/>
+  <Position name="FUNCT_2" nr="8" line="2101" col="7"/>
+  <Position name="TARSKI" nr="3" line="2478" col="8"/>
+  <Position name="TARSKI" nr="3" line="2931" col="8"/>
+</Positions>

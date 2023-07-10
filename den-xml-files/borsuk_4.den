@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="CONNSP_1" nr="1" line="402" col="10"/>
+  <Position name="TARSKI" nr="3" line="490" col="5"/>
+  <Position name="STRUCT_0" nr="1" line="693" col="13"/>
+  <Position name="TARSKI" nr="3" line="746" col="7"/>
+  <Position name="TARSKI" nr="3" line="771" col="7"/>
+  <Position name="PARTFUN1" nr="4" line="1351" col="7"/>
+  <Position name="TARSKI" nr="3" line="1629" col="7"/>
+</Positions>

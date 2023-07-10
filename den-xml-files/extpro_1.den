@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="MEMSTR_0" nr="3" line="109" col="11"/>
+  <Position name="FUNCT_1" nr="9" line="109" col="11"/>
+  <Position name="EXTPRO_1" nr="4" line="178" col="5"/>
+  <Position name="EXTPRO_1" nr="3" line="178" col="5"/>
+  <Position name="MEMSTR_0" nr="6" line="241" col="13"/>
+  <Position name="EXTPRO_1" nr="11" line="649" col="6"/>
+  <Position name="EXTPRO_1" nr="8" line="653" col="7"/>
+  <Position name="EXTPRO_1" nr="10" line="728" col="5"/>
+  <Position name="EXTPRO_1" nr="14" line="900" col="7"/>
+  <Position name="EXTPRO_1" nr="14" line="938" col="7"/>
+  <Position name="EXTPRO_1" nr="8" line="1000" col="6"/>
+  <Position name="COMPOS_1" nr="12" line="1040" col="8"/>
+  <Position name="COMPOS_1" nr="12" line="1086" col="8"/>
+  <Position name="COMPOS_1" nr="12" line="1090" col="10"/>
+  <Position name="EXTPRO_1" nr="8" line="1196" col="7"/>
+  <Position name="EXTPRO_1" nr="8" line="1200" col="6"/>
+  <Position name="EXTPRO_1" nr="8" line="1355" col="5"/>
+  <Position name="EXTPRO_1" nr="8" line="1373" col="6"/>
+</Positions>

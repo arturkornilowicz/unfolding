@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="LATTICES" nr="6" line="1260" col="11"/>
+  <Position name="LATTICES" nr="4" line="1268" col="7"/>
+  <Position name="LATTAD_1" nr="5" line="1335" col="9"/>
+  <Position name="LATTICES" nr="4" line="1341" col="7"/>
+  <Position name="LATTICES" nr="7" line="2463" col="9"/>
+  <Position name="LATTICES" nr="8" line="2474" col="9"/>
+  <Position name="LATTICES" nr="6" line="2484" col="9"/>
+  <Position name="LATTICES" nr="5" line="2493" col="9"/>
+  <Position name="LATTICES" nr="9" line="2504" col="9"/>
+  <Position name="LATTICES" nr="4" line="2514" col="9"/>
+  <Position name="LATTAD_1" nr="3" line="2523" col="9"/>
+  <Position name="LATTICES" nr="11" line="2533" col="9"/>
+  <Position name="LATTAD_1" nr="4" line="2545" col="9"/>
+</Positions>

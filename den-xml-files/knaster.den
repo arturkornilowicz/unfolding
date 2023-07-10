@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="ABIAN" nr="3" line="140" col="9"/>
+  <Position name="ABIAN" nr="3" line="156" col="9"/>
+  <Position name="COHSP_1" nr="11" line="173" col="7"/>
+  <Position name="COHSP_1" nr="11" line="187" col="7"/>
+  <Position name="ABIAN" nr="4" line="256" col="9"/>
+  <Position name="ABIAN" nr="4" line="282" col="9"/>
+  <Position name="TARSKI" nr="3" line="320" col="7"/>
+  <Position name="TARSKI" nr="6" line="448" col="6"/>
+  <Position name="KNASTER" nr="6" line="783" col="9"/>
+  <Position name="KNASTER" nr="7" line="795" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="827" col="16"/>
+  <Position name="TARSKI" nr="3" line="828" col="9"/>
+  <Position name="LATTICE3" nr="10" line="850" col="9"/>
+  <Position name="LATTICE3" nr="11" line="889" col="9"/>
+  <Position name="ABIAN" nr="4" line="1046" col="10"/>
+  <Position name="LATTICE3" nr="17" line="1221" col="21"/>
+  <Position name="LATTICE3" nr="16" line="1372" col="21"/>
+  <Position name="LATTICE3" nr="17" line="1492" col="11"/>
+  <Position name="LATTICE3" nr="16" line="1566" col="11"/>
+  <Position name="FUNCT_1" nr="4" line="1643" col="9"/>
+  <Position name="TARSKI" nr="3" line="1669" col="9"/>
+  <Position name="FUNCT_1" nr="4" line="1712" col="9"/>
+  <Position name="TARSKI" nr="3" line="1738" col="9"/>
+  <Position name="LATTICE3" nr="17" line="1845" col="9"/>
+  <Position name="LATTICE3" nr="16" line="1886" col="9"/>
+  <Position name="KNASTER" nr="6" line="1921" col="9"/>
+  <Position name="KNASTER" nr="7" line="1951" col="9"/>
+  <Position name="TARSKI" nr="3" line="2002" col="5"/>
+  <Position name="LATTICE3" nr="18" line="2042" col="5"/>
+  <Position name="LATTICE3" nr="17" line="2048" col="7"/>
+  <Position name="LATTICE3" nr="17" line="2068" col="7"/>
+  <Position name="LATTICE3" nr="17" line="2090" col="7"/>
+  <Position name="LATTICE3" nr="17" line="2167" col="9"/>
+  <Position name="LATTICE3" nr="16" line="2211" col="9"/>
+  <Position name="KNASTER" nr="1" line="2268" col="7"/>
+  <Position name="QUANTAL1" nr="12" line="2276" col="5"/>
+</Positions>

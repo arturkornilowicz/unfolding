@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="73" col="7"/>
+  <Position name="ASYMPT_0" nr="2" line="203" col="10"/>
+  <Position name="ASYMPT_0" nr="5" line="210" col="10"/>
+  <Position name="ASYMPT_0" nr="4" line="218" col="10"/>
+  <Position name="ASYMPT_0" nr="6" line="226" col="10"/>
+  <Position name="ASYMPT_0" nr="4" line="243" col="8"/>
+  <Position name="ASYMPT_0" nr="2" line="258" col="10"/>
+  <Position name="ASYMPT_0" nr="5" line="265" col="10"/>
+  <Position name="ASYMPT_0" nr="4" line="284" col="8"/>
+  <Position name="ASYMPT_0" nr="2" line="309" col="10"/>
+  <Position name="ASYMPT_0" nr="2" line="336" col="10"/>
+  <Position name="ASYMPT_0" nr="2" line="356" col="10"/>
+  <Position name="ASYMPT_0" nr="4" line="377" col="10"/>
+  <Position name="ASYMPT_0" nr="2" line="427" col="8"/>
+  <Position name="ASYMPT_0" nr="4" line="444" col="8"/>
+  <Position name="ASYMPT_0" nr="8" line="618" col="8"/>
+  <Position name="FUNCT_1" nr="13" line="727" col="9"/>
+  <Position name="TARSKI" nr="3" line="1084" col="5"/>
+  <Position name="FUNCT_1" nr="13" line="1429" col="9"/>
+  <Position name="FUNCT_1" nr="13" line="2275" col="9"/>
+  <Position name="FUNCT_1" nr="13" line="2312" col="9"/>
+  <Position name="FUNCT_1" nr="13" line="2349" col="9"/>
+  <Position name="FUNCT_1" nr="13" line="2962" col="9"/>
+  <Position name="FUNCT_1" nr="13" line="3021" col="9"/>
+  <Position name="FUNCT_1" nr="13" line="3521" col="9"/>
+</Positions>

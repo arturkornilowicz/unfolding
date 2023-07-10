@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TOPALG_7" nr="1" line="82" col="11"/>
+  <Position name="FUNCT_2" nr="8" line="134" col="5"/>
+  <Position name="FUNCT_2" nr="8" line="160" col="7"/>
+  <Position name="FUNCT_2" nr="8" line="173" col="7"/>
+  <Position name="FUNCT_2" nr="8" line="187" col="7"/>
+  <Position name="BORSUK_2" nr="2" line="215" col="2"/>
+  <Position name="BORSUK_1" nr="1" line="218" col="9"/>
+  <Position name="TARSKI" nr="3" line="231" col="11"/>
+  <Position name="BORSUK_2" nr="2" line="298" col="2"/>
+  <Position name="TARSKI" nr="3" line="507" col="7"/>
+  <Position name="BORSUK_1" nr="1" line="526" col="7"/>
+  <Position name="BORSUK_2" nr="7" line="564" col="8"/>
+  <Position name="BORSUK_6" nr="11" line="579" col="16"/>
+  <Position name="FUNCT_2" nr="8" line="588" col="7"/>
+  <Position name="BORSUK_1" nr="1" line="646" col="7"/>
+  <Position name="TARSKI" nr="3" line="680" col="7"/>
+  <Position name="BORSUK_2" nr="7" line="746" col="8"/>
+  <Position name="BORSUK_6" nr="11" line="755" col="16"/>
+  <Position name="GROUP_1" nr="12" line="767" col="7"/>
+</Positions>

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="65" col="9"/>
+  <Position name="RELAT_1" nr="19" line="71" col="13"/>
+  <Position name="FUNCT_1" nr="11" line="406" col="13"/>
+  <Position name="FUNCT_1" nr="11" line="434" col="13"/>
+  <Position name="FUNCT_1" nr="11" line="462" col="13"/>
+  <Position name="NOMIN_7" nr="1" line="532" col="10"/>
+  <Position name="TARSKI" nr="3" line="537" col="7"/>
+  <Position name="NOMIN_3" nr="3" line="741" col="7"/>
+  <Position name="NOMIN_9" nr="14" line="798" col="11"/>
+  <Position name="NOMIN_8" nr="15" line="1182" col="7"/>
+  <Position name="TARSKI" nr="3" line="1301" col="11"/>
+  <Position name="NOMIN_9" nr="14" line="1529" col="12"/>
+  <Position name="NOMIN_3" nr="3" line="1756" col="7"/>
+  <Position name="NOMIN_9" nr="12" line="1805" col="11"/>
+  <Position name="NOMIN_8" nr="12" line="1805" col="11"/>
+  <Position name="NOMIN_7" nr="1" line="1808" col="16"/>
+</Positions>

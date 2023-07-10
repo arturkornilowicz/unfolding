@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="79" col="7"/>
+  <Position name="SCMPDS_4" nr="7" line="256" col="5"/>
+  <Position name="EXTPRO_1" nr="8" line="260" col="6"/>
+  <Position name="COMPOS_0" nr="12" line="306" col="10"/>
+  <Position name="SCMPDS_4" nr="7" line="455" col="5"/>
+  <Position name="EXTPRO_1" nr="8" line="459" col="6"/>
+  <Position name="COMPOS_1" nr="27" line="621" col="9"/>
+  <Position name="SCMPDS_4" nr="7" line="943" col="7"/>
+  <Position name="EXTPRO_1" nr="8" line="969" col="10"/>
+  <Position name="EXTPRO_1" nr="8" line="977" col="10"/>
+</Positions>

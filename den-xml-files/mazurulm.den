@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="XBOOLE_0" nr="10" line="76" col="13"/>
+  <Position name="TARSKI" nr="3" line="77" col="9"/>
+  <Position name="FUNCT_2" nr="8" line="209" col="7"/>
+  <Position name="FUNCT_2" nr="8" line="249" col="7"/>
+  <Position name="MAZURULM" nr="1" line="328" col="7"/>
+  <Position name="MAZURULM" nr="1" line="363" col="7"/>
+  <Position name="MAZURULM" nr="3" line="382" col="7"/>
+  <Position name="MAZURULM" nr="3" line="413" col="7"/>
+  <Position name="MAZURULM" nr="2" line="434" col="7"/>
+  <Position name="MAZURULM" nr="2" line="455" col="7"/>
+  <Position name="FUNCT_2" nr="8" line="487" col="7"/>
+  <Position name="FUNCT_2" nr="8" line="497" col="7"/>
+  <Position name="FUNCT_2" nr="4" line="514" col="11"/>
+  <Position name="MAZURULM" nr="1" line="590" col="7"/>
+  <Position name="XXREAL_2" nr="1" line="615" col="9"/>
+  <Position name="XXREAL_2" nr="1" line="681" col="9"/>
+  <Position name="MAZURULM" nr="3" line="1006" col="7"/>
+  <Position name="MAZURULM" nr="2" line="1094" col="7"/>
+  <Position name="FUNCT_2" nr="8" line="1124" col="9"/>
+</Positions>

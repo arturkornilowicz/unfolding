@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="XBOOLE_0" nr="10" line="625" col="11"/>
+  <Position name="TARSKI" nr="3" line="625" col="11"/>
+  <Position name="TARSKI" nr="3" line="627" col="5"/>
+  <Position name="TARSKI" nr="3" line="906" col="7"/>
+  <Position name="PBOOLE" nr="2" line="1001" col="5"/>
+  <Position name="TARSKI" nr="3" line="1013" col="9"/>
+  <Position name="MSATERM" nr="6" line="1133" col="11"/>
+  <Position name="PBOOLE" nr="13" line="1229" col="9"/>
+  <Position name="PBOOLE" nr="8" line="1236" col="7"/>
+  <Position name="MSATERM" nr="9" line="1296" col="11"/>
+  <Position name="MSATERM" nr="9" line="1331" col="11"/>
+  <Position name="MSATERM" nr="9" line="1419" col="11"/>
+  <Position name="MSATERM" nr="9" line="1518" col="5"/>
+  <Position name="MSATERM" nr="9" line="1530" col="11"/>
+</Positions>

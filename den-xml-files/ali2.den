@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="ALI2" nr="1" line="57" col="8"/>
+  <Position name="TOPS_2" nr="2" line="112" col="9"/>
+  <Position name="TARSKI" nr="3" line="130" col="11"/>
+  <Position name="FINSET_1" nr="3" line="171" col="12"/>
+  <Position name="ORDINAL1" nr="8" line="181" col="11"/>
+  <Position name="TARSKI" nr="3" line="219" col="17"/>
+  <Position name="TARSKI" nr="3" line="233" col="17"/>
+  <Position name="XBOOLE_0" nr="9" line="244" col="15"/>
+</Positions>

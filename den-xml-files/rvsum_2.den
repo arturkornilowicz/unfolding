@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="FINSEQ_1" nr="2" line="54" col="8"/>
+  <Position name="BINOP_1" nr="20" line="96" col="5"/>
+  <Position name="FINSEQ_1" nr="4" line="126" col="10"/>
+</Positions>

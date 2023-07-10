@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="510" col="9"/>
+  <Position name="TARSKI" nr="3" line="585" col="9"/>
+  <Position name="FSM_1" nr="8" line="791" col="5"/>
+  <Position name="FSM_1" nr="8" line="908" col="7"/>
+  <Position name="FSM_1" nr="9" line="1032" col="5"/>
+  <Position name="FSM_1" nr="10" line="1056" col="7"/>
+  <Position name="FSM_1" nr="10" line="1217" col="5"/>
+  <Position name="FSM_1" nr="11" line="1328" col="7"/>
+  <Position name="FSM_1" nr="11" line="1342" col="5"/>
+  <Position name="FSM_1" nr="11" line="1356" col="5"/>
+  <Position name="FSM_1" nr="11" line="1385" col="9"/>
+  <Position name="FSM_1" nr="11" line="1416" col="7"/>
+  <Position name="SETFAM_1" nr="2" line="1538" col="5"/>
+  <Position name="TARSKI" nr="3" line="1547" col="5"/>
+  <Position name="FSM_1" nr="10" line="1908" col="9"/>
+  <Position name="FSM_1" nr="19" line="2533" col="6"/>
+  <Position name="TARSKI" nr="3" line="2848" col="7"/>
+  <Position name="FSM_1" nr="20" line="2902" col="5"/>
+  <Position name="FSM_1" nr="22" line="2941" col="7"/>
+  <Position name="TARSKI" nr="3" line="3019" col="9"/>
+  <Position name="TARSKI" nr="3" line="3038" col="7"/>
+  <Position name="TARSKI" nr="3" line="3068" col="7"/>
+  <Position name="FSM_1" nr="9" line="3120" col="5"/>
+  <Position name="FSM_1" nr="9" line="3262" col="5"/>
+  <Position name="XBOOLE_0" nr="7" line="4064" col="9"/>
+  <Position name="FSM_1" nr="19" line="4102" col="8"/>
+  <Position name="FSM_1" nr="19" line="4171" col="6"/>
+</Positions>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="ALGSTR_0" nr="16" line="346" col="7"/>
+  <Position name="ALGSTR_0" nr="11" line="349" col="8"/>
+  <Position name="VECTSP_1" nr="19" line="441" col="12"/>
+  <Position name="LOPBAN_1" nr="5" line="448" col="12"/>
+  <Position name="LOPBAN_1" nr="5" line="519" col="9"/>
+  <Position name="VECTSP_1" nr="19" line="526" col="9"/>
+  <Position name="FUNCT_1" nr="13" line="533" col="7"/>
+  <Position name="LOPBAN_1" nr="5" line="558" col="11"/>
+  <Position name="VECTSP_1" nr="19" line="571" col="11"/>
+  <Position name="LOPBAN_1" nr="5" line="601" col="11"/>
+  <Position name="VECTSP_1" nr="19" line="613" col="11"/>
+  <Position name="LOPBAN_1" nr="5" line="761" col="7"/>
+  <Position name="VECTSP_1" nr="19" line="768" col="7"/>
+  <Position name="LOPBAN_1" nr="8" line="836" col="6"/>
+  <Position name="LOPBAN_1" nr="8" line="940" col="10"/>
+  <Position name="LOPBAN_1" nr="8" line="970" col="10"/>
+  <Position name="XXREAL_2" nr="10" line="1151" col="8"/>
+  <Position name="XXREAL_2" nr="1" line="1152" col="9"/>
+  <Position name="NORMSP_0" nr="6" line="1666" col="10"/>
+  <Position name="LOPBAN_1" nr="8" line="2003" col="8"/>
+</Positions>

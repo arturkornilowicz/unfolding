@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="RELAT_2" nr="8" line="102" col="9"/>
+  <Position name="RELAT_2" nr="1" line="120" col="9"/>
+  <Position name="RELAT_2" nr="3" line="129" col="9"/>
+  <Position name="RELSET_1" nr="2" line="154" col="7"/>
+  <Position name="T_0TOPSP" nr="1" line="457" col="6"/>
+  <Position name="TOPS_2" nr="5" line="459" col="3"/>
+</Positions>

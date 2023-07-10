@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="98" col="11"/>
+  <Position name="TARSKI" nr="3" line="110" col="13"/>
+  <Position name="XBOOLE_0" nr="10" line="273" col="11"/>
+  <Position name="TARSKI" nr="3" line="273" col="11"/>
+  <Position name="TARSKI" nr="3" line="275" col="5"/>
+  <Position name="TARSKI" nr="3" line="356" col="13"/>
+  <Position name="XBOOLE_0" nr="10" line="387" col="13"/>
+  <Position name="TARSKI" nr="3" line="387" col="13"/>
+  <Position name="TARSKI" nr="3" line="389" col="7"/>
+  <Position name="TARSKI" nr="3" line="491" col="14"/>
+  <Position name="TARSKI" nr="3" line="519" col="14"/>
+  <Position name="CONVEX1" nr="2" line="550" col="10"/>
+  <Position name="TARSKI" nr="3" line="603" col="12"/>
+  <Position name="TARSKI" nr="3" line="639" col="12"/>
+  <Position name="XBOOLE_0" nr="10" line="759" col="11"/>
+  <Position name="TARSKI" nr="3" line="759" col="11"/>
+  <Position name="TARSKI" nr="3" line="761" col="5"/>
+  <Position name="TARSKI" nr="3" line="792" col="5"/>
+  <Position name="TARSKI" nr="3" line="935" col="10"/>
+  <Position name="TARSKI" nr="3" line="1075" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="1105" col="5"/>
+  <Position name="TARSKI" nr="3" line="1106" col="5"/>
+  <Position name="TARSKI" nr="3" line="1180" col="5"/>
+  <Position name="TARSKI" nr="3" line="1329" col="7"/>
+  <Position name="TARSKI" nr="3" line="1393" col="7"/>
+  <Position name="TARSKI" nr="3" line="1475" col="8"/>
+  <Position name="XBOOLE_0" nr="10" line="1549" col="6"/>
+  <Position name="TARSKI" nr="3" line="1550" col="6"/>
+  <Position name="TARSKI" nr="3" line="1946" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="1975" col="5"/>
+  <Position name="TARSKI" nr="3" line="1976" col="5"/>
+  <Position name="TARSKI" nr="3" line="2193" col="13"/>
+  <Position name="TARSKI" nr="3" line="2227" col="13"/>
+  <Position name="TARSKI" nr="3" line="2366" col="11"/>
+  <Position name="TARSKI" nr="3" line="2392" col="11"/>
+  <Position name="TARSKI" nr="3" line="2628" col="13"/>
+</Positions>

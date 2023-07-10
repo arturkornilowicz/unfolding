@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="79" col="7"/>
+  <Position name="TARSKI" nr="3" line="92" col="7"/>
+  <Position name="WAYBEL33" nr="2" line="158" col="12"/>
+  <Position name="TARSKI" nr="3" line="218" col="7"/>
+  <Position name="TARSKI" nr="3" line="243" col="7"/>
+  <Position name="TARSKI" nr="3" line="254" col="9"/>
+  <Position name="TARSKI" nr="3" line="290" col="7"/>
+  <Position name="YELLOW_6" nr="9" line="328" col="8"/>
+  <Position name="WAYBEL_0" nr="11" line="398" col="7"/>
+  <Position name="WAYBEL_0" nr="11" line="401" col="6"/>
+  <Position name="TARSKI" nr="3" line="415" col="5"/>
+  <Position name="XBOOLE_0" nr="10" line="469" col="10"/>
+  <Position name="WAYBEL_0" nr="40" line="478" col="7"/>
+  <Position name="LATTICE3" nr="11" line="501" col="7"/>
+  <Position name="WAYBEL33" nr="2" line="530" col="12"/>
+  <Position name="WAYBEL33" nr="2" line="552" col="7"/>
+  <Position name="WAYBEL33" nr="2" line="552" col="7"/>
+  <Position name="WAYBEL33" nr="2" line="564" col="12"/>
+  <Position name="TARSKI" nr="3" line="834" col="5"/>
+  <Position name="TARSKI" nr="3" line="985" col="7"/>
+  <Position name="TARSKI" nr="3" line="1232" col="9"/>
+  <Position name="LATTICE3" nr="9" line="1253" col="9"/>
+  <Position name="TARSKI" nr="3" line="1344" col="5"/>
+  <Position name="TARSKI" nr="3" line="1354" col="7"/>
+  <Position name="TARSKI" nr="3" line="1385" col="7"/>
+  <Position name="YELLOW_9" nr="5" line="1423" col="5"/>
+  <Position name="YELLOW_9" nr="5" line="1423" col="5"/>
+  <Position name="YELLOW_9" nr="5" line="1431" col="11"/>
+  <Position name="PRE_TOPC" nr="2" line="1457" col="10"/>
+  <Position name="PRE_TOPC" nr="3" line="1461" col="8"/>
+  <Position name="PRE_TOPC" nr="2" line="1461" col="8"/>
+  <Position name="WAYBEL_7" nr="5" line="1515" col="5"/>
+</Positions>

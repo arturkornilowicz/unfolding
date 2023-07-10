@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="FUZZY_1" nr="2" line="355" col="5"/>
+  <Position name="TARSKI" nr="3" line="423" col="11"/>
+  <Position name="TARSKI" nr="3" line="430" col="9"/>
+  <Position name="RELAT_1" nr="3" line="507" col="9"/>
+  <Position name="TARSKI" nr="3" line="522" col="9"/>
+  <Position name="FUZZY_1" nr="2" line="1070" col="5"/>
+  <Position name="FUZZY_1" nr="2" line="1195" col="5"/>
+  <Position name="FUZZY_1" nr="2" line="1367" col="5"/>
+  <Position name="RELAT_1" nr="3" line="1415" col="9"/>
+  <Position name="TARSKI" nr="3" line="1428" col="9"/>
+</Positions>

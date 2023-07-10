@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="FIN_TOPO" nr="4" line="254" col="5"/>
+  <Position name="TARSKI" nr="3" line="329" col="7"/>
+  <Position name="TARSKI" nr="3" line="338" col="7"/>
+  <Position name="TARSKI" nr="3" line="356" col="7"/>
+  <Position name="TARSKI" nr="3" line="375" col="7"/>
+  <Position name="FIN_TOPO" nr="16" line="480" col="5"/>
+  <Position name="XBOOLE_0" nr="7" line="491" col="9"/>
+  <Position name="XBOOLE_0" nr="7" line="658" col="8"/>
+  <Position name="XBOOLE_0" nr="7" line="682" col="8"/>
+  <Position name="XBOOLE_0" nr="7" line="694" col="8"/>
+  <Position name="XBOOLE_0" nr="7" line="694" col="8"/>
+  <Position name="XBOOLE_0" nr="7" line="694" col="8"/>
+  <Position name="FINTOPO6" nr="1" line="864" col="8"/>
+  <Position name="FIN_TOPO" nr="16" line="907" col="7"/>
+  <Position name="FIN_TOPO" nr="16" line="1015" col="5"/>
+  <Position name="FIN_TOPO" nr="15" line="1215" col="9"/>
+  <Position name="FINTOPO6" nr="6" line="1447" col="11"/>
+  <Position name="TARSKI" nr="3" line="1569" col="9"/>
+  <Position name="FINTOPO6" nr="6" line="1719" col="13"/>
+  <Position name="FINTOPO6" nr="8" line="1791" col="9"/>
+  <Position name="FINTOPO6" nr="6" line="2075" col="16"/>
+  <Position name="FINTOPO6" nr="6" line="2170" col="14"/>
+  <Position name="FINTOPO6" nr="6" line="2276" col="16"/>
+  <Position name="FINTOPO6" nr="6" line="2369" col="16"/>
+  <Position name="FINTOPO6" nr="9" line="2477" col="9"/>
+  <Position name="FINTOPO6" nr="6" line="2533" col="20"/>
+  <Position name="FINTOPO6" nr="6" line="2671" col="20"/>
+  <Position name="TARSKI" nr="3" line="2823" col="11"/>
+  <Position name="XBOOLE_0" nr="10" line="2840" col="9"/>
+  <Position name="TARSKI" nr="3" line="2841" col="9"/>
+  <Position name="TARSKI" nr="3" line="2882" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="2897" col="7"/>
+  <Position name="TARSKI" nr="3" line="2898" col="7"/>
+  <Position name="TARSKI" nr="3" line="2935" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="2951" col="7"/>
+  <Position name="TARSKI" nr="3" line="2952" col="7"/>
+</Positions>

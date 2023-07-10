@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="FUNCT_2" nr="8" line="132" col="7"/>
+  <Position name="FUNCT_2" nr="8" line="151" col="7"/>
+  <Position name="TARSKI" nr="3" line="311" col="9"/>
+  <Position name="TARSKI" nr="3" line="319" col="9"/>
+  <Position name="CLVECT_1" nr="7" line="404" col="11"/>
+  <Position name="CLVECT_1" nr="2" line="596" col="9"/>
+  <Position name="CLVECT_1" nr="3" line="604" col="9"/>
+  <Position name="CLVECT_1" nr="4" line="612" col="9"/>
+  <Position name="CLVECT_1" nr="5" line="613" col="9"/>
+  <Position name="RLVECT_1" nr="2" line="625" col="7"/>
+  <Position name="RLVECT_1" nr="3" line="632" col="7"/>
+  <Position name="RLVECT_1" nr="4" line="638" col="7"/>
+  <Position name="ALGSTR_0" nr="16" line="641" col="9"/>
+  <Position name="ALGSTR_0" nr="11" line="646" col="10"/>
+  <Position name="VALUED_0" nr="20" line="1271" col="6"/>
+  <Position name="VALUED_0" nr="20" line="1290" col="6"/>
+  <Position name="VALUED_0" nr="20" line="1305" col="6"/>
+  <Position name="RLVECT_1" nr="2" line="1570" col="7"/>
+  <Position name="RLVECT_1" nr="3" line="1578" col="7"/>
+  <Position name="CLVECT_1" nr="2" line="1596" col="7"/>
+  <Position name="CLVECT_1" nr="3" line="1605" col="7"/>
+  <Position name="CLVECT_1" nr="4" line="1614" col="7"/>
+  <Position name="CLVECT_1" nr="5" line="1615" col="7"/>
+  <Position name="ALGSTR_0" nr="16" line="1621" col="7"/>
+  <Position name="ALGSTR_0" nr="11" line="1626" col="8"/>
+  <Position name="RLVECT_1" nr="4" line="1631" col="7"/>
+</Positions>

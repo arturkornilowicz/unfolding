@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="FINSEQ_1" nr="2" line="82" col="10"/>
+  <Position name="CARD_1" nr="7" line="124" col="13"/>
+  <Position name="CARD_1" nr="7" line="130" col="13"/>
+  <Position name="CARD_1" nr="7" line="141" col="13"/>
+  <Position name="FINSEQ_1" nr="17" line="152" col="12"/>
+  <Position name="FINSEQ_1" nr="17" line="172" col="13"/>
+  <Position name="FUNCT_2" nr="8" line="250" col="9"/>
+  <Position name="FUNCT_1" nr="10" line="287" col="7"/>
+  <Position name="FUNCT_1" nr="10" line="302" col="7"/>
+  <Position name="FUNCT_2" nr="8" line="317" col="7"/>
+  <Position name="FUNCT_2" nr="8" line="326" col="7"/>
+  <Position name="FUNCT_2" nr="8" line="343" col="9"/>
+  <Position name="FUNCT_2" nr="8" line="353" col="9"/>
+  <Position name="SEQ_2" nr="6" line="405" col="8"/>
+  <Position name="FUNCT_2" nr="8" line="466" col="9"/>
+  <Position name="FUNCT_2" nr="8" line="490" col="9"/>
+  <Position name="SEQ_2" nr="6" line="543" col="8"/>
+  <Position name="FUNCT_2" nr="8" line="604" col="9"/>
+  <Position name="SEQ_2" nr="3" line="623" col="7"/>
+  <Position name="SEQ_2" nr="3" line="642" col="7"/>
+  <Position name="SEQ_2" nr="4" line="662" col="7"/>
+  <Position name="SEQ_2" nr="4" line="682" col="7"/>
+  <Position name="FUNCT_2" nr="8" line="721" col="9"/>
+  <Position name="TARSKI" nr="3" line="805" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="826" col="7"/>
+  <Position name="FUNCT_1" nr="11" line="1094" col="12"/>
+  <Position name="FUNCT_1" nr="11" line="1116" col="12"/>
+  <Position name="TARSKI" nr="3" line="1132" col="9"/>
+  <Position name="RELAT_1" nr="19" line="1140" col="7"/>
+  <Position name="TARSKI" nr="3" line="1148" col="9"/>
+  <Position name="RELAT_1" nr="19" line="1156" col="7"/>
+  <Position name="CARD_1" nr="7" line="1198" col="13"/>
+  <Position name="CARD_1" nr="7" line="1204" col="13"/>
+  <Position name="TARSKI" nr="3" line="1243" col="7"/>
+  <Position name="FINSEQ_1" nr="17" line="1328" col="12"/>
+  <Position name="FUNCT_1" nr="4" line="1356" col="5"/>
+  <Position name="FUNCT_1" nr="4" line="1372" col="5"/>
+  <Position name="FINSEQ_1" nr="17" line="1562" col="14"/>
+</Positions>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="STRUCT_0" nr="5" line="65" col="9"/>
+  <Position name="TARSKI" nr="3" line="274" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="279" col="7"/>
+  <Position name="TARSKI" nr="3" line="280" col="7"/>
+  <Position name="RLVECT_1" nr="2" line="528" col="5"/>
+  <Position name="RLVECT_1" nr="3" line="538" col="5"/>
+  <Position name="RLVECT_1" nr="4" line="549" col="5"/>
+  <Position name="ALGSTR_0" nr="16" line="560" col="5"/>
+  <Position name="ALGSTR_0" nr="11" line="562" col="6"/>
+  <Position name="TARSKI" nr="3" line="645" col="9"/>
+  <Position name="TARSKI" nr="3" line="704" col="9"/>
+  <Position name="TARSKI" nr="3" line="1128" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="1137" col="7"/>
+  <Position name="TARSKI" nr="3" line="1138" col="7"/>
+  <Position name="FUNCT_1" nr="4" line="1150" col="7"/>
+</Positions>

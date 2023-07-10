@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="MATRIX_0" nr="1" line="59" col="8"/>
+  <Position name="MATRIX_0" nr="1" line="69" col="6"/>
+  <Position name="MATRIX_0" nr="1" line="84" col="6"/>
+  <Position name="MATRIX_0" nr="1" line="96" col="6"/>
+  <Position name="MATRIX_0" nr="1" line="113" col="8"/>
+  <Position name="MATRIX_0" nr="1" line="126" col="8"/>
+  <Position name="MATRIX_0" nr="1" line="154" col="8"/>
+  <Position name="MATRIX_0" nr="1" line="223" col="8"/>
+  <Position name="TARSKI" nr="3" line="238" col="7"/>
+  <Position name="MATRIX_0" nr="2" line="273" col="12"/>
+  <Position name="MATRIX_0" nr="2" line="302" col="12"/>
+  <Position name="MATRIX_0" nr="2" line="321" col="12"/>
+  <Position name="MATRIX_0" nr="2" line="341" col="12"/>
+  <Position name="TARSKI" nr="3" line="602" col="7"/>
+  <Position name="TARSKI" nr="3" line="612" col="9"/>
+  <Position name="TARSKI" nr="3" line="638" col="9"/>
+  <Position name="TARSKI" nr="3" line="730" col="7"/>
+  <Position name="TARSKI" nr="3" line="741" col="9"/>
+  <Position name="TARSKI" nr="3" line="770" col="9"/>
+  <Position name="XBOOLE_0" nr="7" line="1636" col="8"/>
+  <Position name="MATRIX_0" nr="1" line="2274" col="8"/>
+</Positions>

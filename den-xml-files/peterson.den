@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="ORDERS_2" nr="2" line="90" col="12"/>
+  <Position name="ORDERS_2" nr="3" line="92" col="12"/>
+  <Position name="PETERSON" nr="2" line="94" col="12"/>
+  <Position name="PETERSON" nr="13" line="365" col="9"/>
+  <Position name="PETERSON" nr="14" line="372" col="9"/>
+  <Position name="PETERSON" nr="15" line="378" col="9"/>
+  <Position name="PETERSON" nr="16" line="385" col="9"/>
+  <Position name="PETERSON" nr="17" line="394" col="9"/>
+  <Position name="TARSKI" nr="3" line="436" col="11"/>
+  <Position name="TARSKI" nr="3" line="455" col="11"/>
+  <Position name="TARSKI" nr="3" line="466" col="5"/>
+</Positions>

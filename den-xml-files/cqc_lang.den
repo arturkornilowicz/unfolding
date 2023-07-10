@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="125" col="9"/>
+  <Position name="TARSKI" nr="3" line="245" col="9"/>
+  <Position name="TARSKI" nr="3" line="294" col="9"/>
+  <Position name="RELAT_1" nr="19" line="304" col="7"/>
+  <Position name="TARSKI" nr="3" line="304" col="7"/>
+  <Position name="RELAT_1" nr="19" line="368" col="7"/>
+  <Position name="TARSKI" nr="3" line="368" col="7"/>
+</Positions>

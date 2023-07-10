@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="COMPOS_1" nr="13" line="150" col="8"/>
+  <Position name="TARSKI" nr="3" line="534" col="9"/>
+  <Position name="TARSKI" nr="3" line="544" col="9"/>
+  <Position name="EXTPRO_1" nr="14" line="676" col="5"/>
+  <Position name="EXTPRO_1" nr="10" line="741" col="7"/>
+  <Position name="EXTPRO_1" nr="11" line="847" col="7"/>
+</Positions>

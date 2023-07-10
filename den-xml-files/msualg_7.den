@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="LATTICE3" nr="18" line="388" col="7"/>
+  <Position name="LATTICE3" nr="17" line="398" col="9"/>
+  <Position name="XXREAL_2" nr="2" line="1023" col="15"/>
+  <Position name="TARSKI" nr="3" line="1137" col="7"/>
+  <Position name="TARSKI" nr="3" line="1163" col="7"/>
+  <Position name="TARSKI" nr="3" line="1673" col="7"/>
+  <Position name="TARSKI" nr="3" line="1699" col="7"/>
+</Positions>

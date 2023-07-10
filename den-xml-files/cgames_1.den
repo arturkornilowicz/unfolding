@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="189" col="11"/>
+  <Position name="TARSKI" nr="3" line="213" col="7"/>
+  <Position name="TARSKI" nr="3" line="242" col="5"/>
+  <Position name="CGAMES_1" nr="10" line="786" col="7"/>
+  <Position name="CGAMES_1" nr="11" line="838" col="7"/>
+  <Position name="TARSKI" nr="3" line="1045" col="9"/>
+  <Position name="CGAMES_1" nr="10" line="1080" col="7"/>
+  <Position name="CGAMES_1" nr="11" line="1091" col="7"/>
+  <Position name="CGAMES_1" nr="10" line="1112" col="7"/>
+  <Position name="CGAMES_1" nr="11" line="1132" col="7"/>
+  <Position name="TARSKI" nr="3" line="1294" col="11"/>
+  <Position name="TARSKI" nr="3" line="1329" col="15"/>
+  <Position name="TARSKI" nr="3" line="1341" col="7"/>
+  <Position name="TARSKI" nr="3" line="1365" col="5"/>
+  <Position name="FUNCT_1" nr="13" line="1562" col="11"/>
+  <Position name="PARTFUN1" nr="4" line="1580" col="13"/>
+  <Position name="TARSKI" nr="3" line="1604" col="9"/>
+  <Position name="TARSKI" nr="3" line="1620" col="9"/>
+</Positions>

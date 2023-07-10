@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="RELAT_2" nr="1" line="284" col="9"/>
+  <Position name="RELAT_2" nr="3" line="296" col="9"/>
+  <Position name="RELAT_2" nr="8" line="306" col="9"/>
+  <Position name="TARSKI" nr="3" line="386" col="11"/>
+  <Position name="RELAT_2" nr="1" line="462" col="7"/>
+  <Position name="ORDERS_1" nr="8" line="474" col="5"/>
+  <Position name="RELAT_2" nr="8" line="477" col="7"/>
+  <Position name="RELAT_2" nr="4" line="505" col="7"/>
+  <Position name="ORDERS_1" nr="9" line="555" col="11"/>
+  <Position name="RELAT_2" nr="6" line="561" col="7"/>
+  <Position name="DICKSON" nr="10" line="1550" col="5"/>
+  <Position name="DICKSON" nr="9" line="1570" col="13"/>
+  <Position name="DICKSON" nr="10" line="1619" col="5"/>
+  <Position name="DICKSON" nr="9" line="1625" col="8"/>
+  <Position name="DICKSON" nr="10" line="2046" col="5"/>
+  <Position name="DICKSON" nr="9" line="2071" col="13"/>
+  <Position name="DICKSON" nr="9" line="2180" col="10"/>
+  <Position name="TARSKI" nr="3" line="2503" col="11"/>
+  <Position name="TARSKI" nr="3" line="2517" col="13"/>
+  <Position name="TARSKI" nr="3" line="2643" col="13"/>
+  <Position name="TARSKI" nr="3" line="2657" col="15"/>
+  <Position name="DICKSON" nr="2" line="2693" col="5"/>
+  <Position name="TARSKI" nr="3" line="2738" col="9"/>
+  <Position name="TARSKI" nr="3" line="2752" col="11"/>
+  <Position name="DICKSON" nr="10" line="3970" col="7"/>
+  <Position name="DICKSON" nr="9" line="3984" col="14"/>
+  <Position name="RELAT_2" nr="4" line="4034" col="5"/>
+  <Position name="RELAT_2" nr="8" line="4078" col="5"/>
+</Positions>

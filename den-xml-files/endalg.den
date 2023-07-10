@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="FUNCT_1" nr="13" line="62" col="9"/>
+  <Position name="FUNCT_2" nr="12" line="72" col="9"/>
+  <Position name="TARSKI" nr="3" line="103" col="9"/>
+  <Position name="TARSKI" nr="3" line="113" col="9"/>
+  <Position name="TARSKI" nr="3" line="127" col="5"/>
+  <Position name="VECTSP_1" nr="6" line="235" col="9"/>
+  <Position name="TARSKI" nr="3" line="319" col="9"/>
+  <Position name="TARSKI" nr="3" line="328" col="9"/>
+  <Position name="VECTSP_1" nr="6" line="463" col="9"/>
+  <Position name="TARSKI" nr="3" line="518" col="7"/>
+  <Position name="TARSKI" nr="3" line="544" col="7"/>
+  <Position name="VECTSP_1" nr="8" line="572" col="7"/>
+  <Position name="GROUP_1" nr="13" line="597" col="10"/>
+  <Position name="TARSKI" nr="3" line="629" col="9"/>
+</Positions>

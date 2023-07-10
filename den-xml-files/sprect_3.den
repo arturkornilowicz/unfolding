@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="466" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="476" col="7"/>
+  <Position name="TARSKI" nr="3" line="477" col="7"/>
+  <Position name="TARSKI" nr="3" line="521" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="531" col="7"/>
+  <Position name="TARSKI" nr="3" line="532" col="7"/>
+  <Position name="TOPREAL4" nr="3" line="769" col="17"/>
+  <Position name="TOPREAL4" nr="3" line="780" col="18"/>
+  <Position name="TARSKI" nr="3" line="1210" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="1231" col="5"/>
+  <Position name="TARSKI" nr="3" line="1232" col="5"/>
+  <Position name="SEQM_3" nr="1" line="1286" col="7"/>
+  <Position name="TARSKI" nr="3" line="1350" col="7"/>
+  <Position name="SEQM_3" nr="1" line="1396" col="7"/>
+  <Position name="TARSKI" nr="3" line="1450" col="7"/>
+  <Position name="TARSKI" nr="3" line="2236" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="2246" col="7"/>
+  <Position name="TARSKI" nr="3" line="2247" col="7"/>
+  <Position name="SPRECT_2" nr="1" line="2313" col="9"/>
+  <Position name="SPRECT_2" nr="1" line="2319" col="7"/>
+  <Position name="SPRECT_2" nr="1" line="2352" col="5"/>
+  <Position name="SPRECT_2" nr="1" line="2484" col="5"/>
+  <Position name="SPRECT_2" nr="1" line="2519" col="5"/>
+  <Position name="TARSKI" nr="3" line="2575" col="5"/>
+  <Position name="XBOOLE_0" nr="10" line="2653" col="12"/>
+  <Position name="SPRECT_2" nr="1" line="2682" col="5"/>
+  <Position name="SPRECT_2" nr="1" line="2710" col="5"/>
+  <Position name="SPRECT_2" nr="1" line="2785" col="5"/>
+  <Position name="SPRECT_2" nr="1" line="2815" col="7"/>
+</Positions>

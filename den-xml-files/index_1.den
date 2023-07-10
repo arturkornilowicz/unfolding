@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="PBOOLE" nr="12" line="43" col="8"/>
+  <Position name="INDEX_1" nr="1" line="113" col="7"/>
+  <Position name="INDEX_1" nr="1" line="125" col="7"/>
+  <Position name="CAT_5" nr="4" line="159" col="7"/>
+  <Position name="INDEX_1" nr="1" line="184" col="7"/>
+  <Position name="FUNCT_1" nr="9" line="217" col="9"/>
+  <Position name="FUNCT_1" nr="9" line="267" col="9"/>
+  <Position name="INDEX_1" nr="4" line="383" col="8"/>
+  <Position name="INDEX_1" nr="5" line="467" col="10"/>
+  <Position name="INDEX_1" nr="6" line="467" col="10"/>
+  <Position name="FUNCT_1" nr="13" line="490" col="7"/>
+  <Position name="FUNCOP_1" nr="6" line="535" col="9"/>
+  <Position name="FUNCOP_1" nr="6" line="564" col="7"/>
+  <Position name="INDEX_1" nr="7" line="573" col="7"/>
+  <Position name="INDEX_1" nr="7" line="709" col="9"/>
+  <Position name="INDEX_1" nr="10" line="767" col="9"/>
+  <Position name="INDEX_1" nr="10" line="815" col="9"/>
+  <Position name="FUNCT_2" nr="7" line="836" col="10"/>
+  <Position name="TARSKI" nr="3" line="894" col="9"/>
+  <Position name="INDEX_1" nr="9" line="1035" col="15"/>
+  <Position name="INDEX_1" nr="9" line="1062" col="15"/>
+  <Position name="INDEX_1" nr="1" line="1185" col="7"/>
+  <Position name="FUNCOP_1" nr="6" line="1211" col="7"/>
+  <Position name="INDEX_1" nr="7" line="1227" col="7"/>
+  <Position name="INDEX_1" nr="9" line="1293" col="10"/>
+</Positions>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="STRUCT_0" nr="1" line="55" col="12"/>
+  <Position name="ALGSTR_0" nr="16" line="189" col="9"/>
+  <Position name="ALGSTR_0" nr="11" line="190" col="10"/>
+  <Position name="RLVECT_1" nr="6" line="193" col="12"/>
+  <Position name="RLVECT_1" nr="5" line="195" col="12"/>
+  <Position name="RLVECT_1" nr="7" line="197" col="12"/>
+  <Position name="RLVECT_1" nr="8" line="199" col="12"/>
+  <Position name="ALGSTR_0" nr="7" line="239" col="5"/>
+  <Position name="ALGSTR_0" nr="4" line="242" col="5"/>
+  <Position name="ALGSTR_0" nr="10" line="303" col="10"/>
+  <Position name="TARSKI" nr="3" line="1417" col="9"/>
+  <Position name="FUNCT_1" nr="4" line="1512" col="9"/>
+  <Position name="RLVECT_1" nr="13" line="2038" col="7"/>
+  <Position name="ALGSTR_0" nr="15" line="2049" col="7"/>
+  <Position name="ALGSTR_0" nr="10" line="2052" col="8"/>
+</Positions>

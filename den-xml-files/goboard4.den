@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="90" col="9"/>
+  <Position name="TARSKI" nr="3" line="522" col="17"/>
+  <Position name="TARSKI" nr="3" line="854" col="21"/>
+  <Position name="TARSKI" nr="3" line="1701" col="29"/>
+  <Position name="TARSKI" nr="3" line="2105" col="29"/>
+  <Position name="GOBOARD4" nr="1" line="2555" col="7"/>
+  <Position name="TARSKI" nr="3" line="2555" col="7"/>
+  <Position name="GOBOARD4" nr="2" line="2913" col="7"/>
+  <Position name="GOBOARD4" nr="2" line="2934" col="7"/>
+  <Position name="GOBOARD4" nr="2" line="2947" col="7"/>
+  <Position name="GOBOARD4" nr="2" line="2960" col="7"/>
+</Positions>

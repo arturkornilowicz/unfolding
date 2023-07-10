@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="PARTFUN3" nr="1" line="77" col="9"/>
+  <Position name="PARTFUN3" nr="2" line="91" col="9"/>
+  <Position name="PARTFUN3" nr="3" line="105" col="9"/>
+  <Position name="PARTFUN3" nr="4" line="119" col="9"/>
+  <Position name="TARSKI" nr="3" line="304" col="9"/>
+  <Position name="TARSKI" nr="3" line="545" col="6"/>
+  <Position name="TARSKI" nr="3" line="558" col="6"/>
+  <Position name="TARSKI" nr="3" line="585" col="6"/>
+  <Position name="TARSKI" nr="3" line="596" col="6"/>
+  <Position name="TARSKI" nr="3" line="631" col="6"/>
+  <Position name="TARSKI" nr="3" line="679" col="6"/>
+  <Position name="TARSKI" nr="3" line="698" col="6"/>
+  <Position name="TARSKI" nr="3" line="711" col="6"/>
+  <Position name="TARSKI" nr="3" line="725" col="6"/>
+  <Position name="TARSKI" nr="3" line="1407" col="6"/>
+  <Position name="XBOOLE_0" nr="10" line="1419" col="5"/>
+  <Position name="TARSKI" nr="3" line="1420" col="5"/>
+  <Position name="XBOOLE_0" nr="10" line="1467" col="10"/>
+  <Position name="TARSKI" nr="3" line="1467" col="10"/>
+  <Position name="TARSKI" nr="3" line="1469" col="5"/>
+  <Position name="TARSKI" nr="3" line="1788" col="8"/>
+  <Position name="TARSKI" nr="3" line="1809" col="7"/>
+  <Position name="TARSKI" nr="3" line="1946" col="6"/>
+  <Position name="BORSUK_1" nr="1" line="2126" col="5"/>
+  <Position name="TARSKI" nr="3" line="2139" col="5"/>
+</Positions>

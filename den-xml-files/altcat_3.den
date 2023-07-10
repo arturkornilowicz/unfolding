@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="ALTCAT_3" nr="6" line="304" col="2"/>
+  <Position name="ALTCAT_3" nr="7" line="340" col="5"/>
+  <Position name="ALTCAT_3" nr="8" line="367" col="5"/>
+  <Position name="ALTCAT_3" nr="7" line="392" col="5"/>
+  <Position name="ALTCAT_3" nr="8" line="414" col="5"/>
+  <Position name="ALTCAT_3" nr="8" line="428" col="7"/>
+  <Position name="ALTCAT_3" nr="7" line="437" col="7"/>
+  <Position name="TARSKI" nr="3" line="478" col="11"/>
+  <Position name="TARSKI" nr="3" line="495" col="11"/>
+  <Position name="ALTCAT_3" nr="7" line="521" col="9"/>
+  <Position name="ALTCAT_3" nr="7" line="561" col="9"/>
+  <Position name="ALTCAT_3" nr="8" line="641" col="9"/>
+  <Position name="TARSKI" nr="3" line="706" col="15"/>
+  <Position name="TARSKI" nr="3" line="724" col="15"/>
+  <Position name="ALTCAT_3" nr="8" line="781" col="13"/>
+  <Position name="ALTCAT_3" nr="8" line="822" col="13"/>
+  <Position name="ALTCAT_3" nr="8" line="855" col="5"/>
+  <Position name="ALTCAT_3" nr="7" line="881" col="5"/>
+  <Position name="ALTCAT_3" nr="2" line="959" col="6"/>
+  <Position name="ALTCAT_3" nr="3" line="991" col="6"/>
+  <Position name="ALTCAT_3" nr="9" line="1240" col="5"/>
+  <Position name="TARSKI" nr="3" line="1246" col="7"/>
+  <Position name="ALTCAT_3" nr="6" line="1275" col="9"/>
+  <Position name="ALTCAT_3" nr="10" line="1323" col="5"/>
+  <Position name="TARSKI" nr="3" line="1329" col="7"/>
+  <Position name="ALTCAT_3" nr="6" line="1359" col="9"/>
+  <Position name="ALTCAT_3" nr="12" line="1406" col="5"/>
+</Positions>

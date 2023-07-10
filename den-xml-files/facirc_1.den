@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="XTUPLE_0" nr="1" line="49" col="9"/>
+  <Position name="XTUPLE_0" nr="1" line="60" col="7"/>
+  <Position name="XTUPLE_0" nr="1" line="70" col="9"/>
+  <Position name="FACIRC_1" nr="2" line="124" col="7"/>
+  <Position name="FACIRC_1" nr="2" line="139" col="7"/>
+  <Position name="RELAT_1" nr="1" line="153" col="7"/>
+  <Position name="RELAT_1" nr="1" line="163" col="7"/>
+  <Position name="RELAT_1" nr="1" line="173" col="7"/>
+  <Position name="FACIRC_1" nr="2" line="186" col="10"/>
+  <Position name="RELAT_1" nr="1" line="188" col="10"/>
+  <Position name="FACIRC_1" nr="3" line="209" col="7"/>
+  <Position name="FACIRC_1" nr="3" line="219" col="7"/>
+  <Position name="FACIRC_1" nr="3" line="229" col="7"/>
+  <Position name="FACIRC_1" nr="3" line="241" col="8"/>
+  <Position name="FACIRC_1" nr="2" line="243" col="5"/>
+  <Position name="FACIRC_1" nr="3" line="260" col="7"/>
+  <Position name="TARSKI" nr="3" line="331" col="11"/>
+  <Position name="XBOOLE_0" nr="10" line="344" col="11"/>
+  <Position name="TARSKI" nr="3" line="344" col="11"/>
+  <Position name="TARSKI" nr="3" line="347" col="5"/>
+  <Position name="FACIRC_1" nr="2" line="402" col="8"/>
+  <Position name="FACIRC_1" nr="2" line="404" col="8"/>
+  <Position name="FACIRC_1" nr="2" line="406" col="5"/>
+  <Position name="FACIRC_1" nr="9" line="761" col="5"/>
+  <Position name="FACIRC_1" nr="9" line="763" col="5"/>
+  <Position name="FACIRC_1" nr="9" line="790" col="10"/>
+  <Position name="FACIRC_1" nr="9" line="806" col="5"/>
+  <Position name="CIRCCOMB" nr="10" line="1093" col="5"/>
+  <Position name="FACIRC_1" nr="2" line="1199" col="5"/>
+  <Position name="CIRCCOMB" nr="8" line="1274" col="7"/>
+  <Position name="MSAFREE2" nr="6" line="1283" col="7"/>
+  <Position name="CIRCUIT2" nr="6" line="1365" col="17"/>
+  <Position name="CIRCUIT2" nr="6" line="1443" col="17"/>
+  <Position name="TARSKI" nr="3" line="1528" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="1540" col="5"/>
+  <Position name="TARSKI" nr="3" line="1541" col="5"/>
+  <Position name="CIRCUIT2" nr="6" line="1773" col="17"/>
+  <Position name="FACIRC_1" nr="2" line="1896" col="7"/>
+  <Position name="CIRCUIT2" nr="6" line="2388" col="11"/>
+  <Position name="CIRCUIT2" nr="6" line="2577" col="17"/>
+</Positions>

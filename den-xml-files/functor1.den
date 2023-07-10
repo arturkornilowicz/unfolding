@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="FUNCTOR0" nr="6" line="221" col="11"/>
+  <Position name="FUNCTOR0" nr="30" line="257" col="11"/>
+  <Position name="FUNCTOR0" nr="7" line="281" col="11"/>
+  <Position name="MSUALG_3" nr="3" line="410" col="9"/>
+  <Position name="PBOOLE" nr="2" line="440" col="7"/>
+  <Position name="TARSKI" nr="3" line="442" col="7"/>
+  <Position name="PBOOLE" nr="2" line="473" col="7"/>
+  <Position name="TARSKI" nr="3" line="483" col="7"/>
+  <Position name="ALTCAT_2" nr="13" line="490" col="11"/>
+  <Position name="MSUALG_3" nr="3" line="532" col="7"/>
+  <Position name="FUNCTOR0" nr="32" line="549" col="4"/>
+  <Position name="FUNCTOR0" nr="30" line="570" col="5"/>
+  <Position name="MSUALG_3" nr="2" line="570" col="5"/>
+  <Position name="PZFMISC1" nr="3" line="829" col="7"/>
+</Positions>

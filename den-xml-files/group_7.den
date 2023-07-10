@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="PRALG_1" nr="12" line="59" col="7"/>
+  <Position name="GROUP_7" nr="1" line="74" col="7"/>
+  <Position name="PBOOLE" nr="13" line="112" col="7"/>
+  <Position name="STRUCT_0" nr="1" line="270" col="13"/>
+  <Position name="GROUP_7" nr="3" line="333" col="7"/>
+  <Position name="GROUP_7" nr="4" line="354" col="7"/>
+  <Position name="GROUP_7" nr="5" line="374" col="7"/>
+  <Position name="GROUP_7" nr="1" line="392" col="9"/>
+  <Position name="GROUP_7" nr="3" line="408" col="13"/>
+  <Position name="GROUP_7" nr="4" line="419" col="13"/>
+  <Position name="GROUP_7" nr="5" line="421" col="7"/>
+  <Position name="GROUP_1" nr="2" line="486" col="8"/>
+  <Position name="GROUP_1" nr="3" line="619" col="7"/>
+  <Position name="GROUP_1" nr="12" line="664" col="7"/>
+  <Position name="GROUP_1" nr="2" line="700" col="7"/>
+  <Position name="GROUP_1" nr="2" line="705" col="6"/>
+  <Position name="GROUP_1" nr="3" line="773" col="5"/>
+  <Position name="GROUP_1" nr="3" line="777" col="5"/>
+  <Position name="GROUP_1" nr="12" line="941" col="5"/>
+  <Position name="GROUP_1" nr="12" line="945" col="5"/>
+  <Position name="TARSKI" nr="3" line="1318" col="9"/>
+  <Position name="TARSKI" nr="3" line="1343" col="9"/>
+  <Position name="GROUP_1" nr="2" line="1570" col="10"/>
+  <Position name="XBOOLE_0" nr="10" line="1759" col="12"/>
+  <Position name="TARSKI" nr="3" line="1760" col="7"/>
+  <Position name="GROUP_7" nr="1" line="1840" col="7"/>
+  <Position name="GROUP_7" nr="6" line="1871" col="7"/>
+  <Position name="GROUP_7" nr="7" line="1892" col="7"/>
+  <Position name="GROUP_7" nr="8" line="1913" col="7"/>
+  <Position name="GROUP_7" nr="1" line="1990" col="7"/>
+  <Position name="GROUP_7" nr="6" line="2021" col="7"/>
+  <Position name="GROUP_7" nr="7" line="2042" col="7"/>
+  <Position name="GROUP_7" nr="8" line="2063" col="7"/>
+  <Position name="GROUP_7" nr="1" line="2151" col="7"/>
+  <Position name="GROUP_7" nr="6" line="2182" col="7"/>
+  <Position name="GROUP_7" nr="7" line="2203" col="7"/>
+  <Position name="GROUP_7" nr="8" line="2224" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="2672" col="12"/>
+  <Position name="TARSKI" nr="3" line="2673" col="7"/>
+  <Position name="FUNCT_1" nr="4" line="2695" col="7"/>
+  <Position name="GROUP_6" nr="11" line="2716" col="6"/>
+</Positions>

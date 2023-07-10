@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="STRUCT_0" nr="18" line="120" col="8"/>
+  <Position name="TARSKI" nr="3" line="134" col="5"/>
+  <Position name="TARSKI" nr="3" line="162" col="5"/>
+  <Position name="TOPREAL1" nr="5" line="203" col="9"/>
+  <Position name="FINSEQ_6" nr="12" line="393" col="10"/>
+  <Position name="XBOOLE_0" nr="10" line="480" col="5"/>
+  <Position name="TARSKI" nr="3" line="481" col="5"/>
+  <Position name="GOBOARD5" nr="4" line="560" col="9"/>
+  <Position name="TOPREAL1" nr="6" line="707" col="9"/>
+  <Position name="TARSKI" nr="3" line="844" col="11"/>
+  <Position name="XBOOLE_0" nr="10" line="884" col="9"/>
+  <Position name="TARSKI" nr="3" line="885" col="9"/>
+  <Position name="GOBOARD1" nr="9" line="999" col="9"/>
+  <Position name="GOBOARD1" nr="9" line="1123" col="7"/>
+  <Position name="GOBOARD5" nr="5" line="1199" col="16"/>
+  <Position name="SPRECT_2" nr="4" line="1440" col="7"/>
+  <Position name="FINSEQ_6" nr="12" line="1447" col="12"/>
+  <Position name="SPRECT_2" nr="4" line="1477" col="7"/>
+  <Position name="FINSEQ_6" nr="12" line="1516" col="14"/>
+</Positions>

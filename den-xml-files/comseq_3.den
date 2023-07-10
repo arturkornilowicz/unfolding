@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="SERIES_1" nr="4" line="84" col="6"/>
+  <Position name="SERIES_1" nr="2" line="84" col="6"/>
+  <Position name="COMSEQ_2" nr="5" line="84" col="6"/>
+  <Position name="VALUED_0" nr="9" line="457" col="7"/>
+  <Position name="VALUED_0" nr="9" line="465" col="7"/>
+  <Position name="COMSEQ_2" nr="5" line="1303" col="8"/>
+  <Position name="COMSEQ_2" nr="5" line="1349" col="8"/>
+  <Position name="COMSEQ_2" nr="5" line="1364" col="6"/>
+  <Position name="COMSEQ_3" nr="8" line="1863" col="8"/>
+  <Position name="COMSEQ_2" nr="5" line="1863" col="8"/>
+  <Position name="COMSEQ_3" nr="9" line="1890" col="6"/>
+  <Position name="SERIES_1" nr="2" line="1890" col="6"/>
+  <Position name="COMSEQ_2" nr="5" line="1890" col="6"/>
+  <Position name="COMSEQ_3" nr="8" line="2187" col="20"/>
+  <Position name="COMSEQ_3" nr="9" line="2240" col="10"/>
+  <Position name="COMSEQ_3" nr="9" line="2261" col="10"/>
+  <Position name="COMSEQ_3" nr="9" line="2283" col="10"/>
+  <Position name="COMSEQ_3" nr="9" line="2344" col="10"/>
+</Positions>

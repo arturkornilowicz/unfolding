@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="RINGCAT1" nr="1" line="66" col="5"/>
+  <Position name="RINGCAT1" nr="1" line="66" col="5"/>
+  <Position name="VECTSP_1" nr="19" line="73" col="7"/>
+  <Position name="RINGCAT1" nr="1" line="78" col="5"/>
+  <Position name="GROUP_6" nr="6" line="81" col="7"/>
+  <Position name="GROUP_1" nr="13" line="87" col="8"/>
+  <Position name="RINGCAT1" nr="1" line="122" col="8"/>
+  <Position name="GROUP_6" nr="6" line="125" col="7"/>
+  <Position name="GROUP_1" nr="13" line="129" col="8"/>
+  <Position name="RINGCAT1" nr="5" line="198" col="11"/>
+  <Position name="RINGCAT1" nr="1" line="198" col="11"/>
+  <Position name="VECTSP_1" nr="19" line="198" col="11"/>
+  <Position name="GROUP_6" nr="6" line="200" col="10"/>
+  <Position name="CAT_1" nr="9" line="1337" col="12"/>
+  <Position name="CAT_1" nr="10" line="1425" col="5"/>
+</Positions>

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="WELLORD2" nr="4" line="83" col="6"/>
+  <Position name="FUNCT_1" nr="4" line="86" col="7"/>
+  <Position name="TARSKI" nr="3" line="98" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="106" col="5"/>
+  <Position name="TARSKI" nr="3" line="107" col="5"/>
+  <Position name="CARD_3" nr="14" line="120" col="8"/>
+  <Position name="CARD_3" nr="14" line="121" col="12"/>
+  <Position name="TARSKI" nr="3" line="228" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="236" col="7"/>
+  <Position name="TARSKI" nr="3" line="237" col="7"/>
+  <Position name="TARSKI" nr="3" line="273" col="9"/>
+  <Position name="YELLOW_8" nr="1" line="286" col="11"/>
+  <Position name="CANTOR_1" nr="2" line="331" col="5"/>
+  <Position name="TARSKI" nr="3" line="331" col="5"/>
+  <Position name="TARSKI" nr="3" line="338" col="7"/>
+  <Position name="YELLOW_8" nr="2" line="412" col="5"/>
+  <Position name="YELLOW_8" nr="4" line="509" col="9"/>
+  <Position name="YELLOW_8" nr="5" line="561" col="5"/>
+  <Position name="PRE_TOPC" nr="1" line="664" col="13"/>
+  <Position name="YELLOW_8" nr="3" line="779" col="13"/>
+  <Position name="YELLOW_8" nr="5" line="789" col="8"/>
+  <Position name="COMPTS_1" nr="2" line="857" col="5"/>
+  <Position name="WAYBEL_3" nr="9" line="892" col="5"/>
+</Positions>

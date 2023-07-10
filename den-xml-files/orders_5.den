@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="PARTFUN3" nr="1" line="498" col="7"/>
+  <Position name="PARTFUN3" nr="2" line="512" col="7"/>
+  <Position name="PARTFUN3" nr="3" line="526" col="7"/>
+  <Position name="PARTFUN3" nr="4" line="540" col="7"/>
+  <Position name="ORDERS_2" nr="2" line="698" col="12"/>
+  <Position name="ORDERS_2" nr="3" line="700" col="12"/>
+  <Position name="ORDERS_2" nr="4" line="702" col="12"/>
+  <Position name="ORDERS_5" nr="1" line="717" col="13"/>
+  <Position name="ORDERS_5" nr="2" line="731" col="13"/>
+  <Position name="ORDERS_2" nr="1" line="734" col="12"/>
+  <Position name="XBOOLE_0" nr="10" line="1722" col="15"/>
+  <Position name="XBOOLE_0" nr="10" line="2233" col="11"/>
+  <Position name="XBOOLE_0" nr="10" line="3128" col="15"/>
+</Positions>

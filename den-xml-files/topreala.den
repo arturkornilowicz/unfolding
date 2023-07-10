@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="MONOID_0" nr="2" line="238" col="7"/>
+  <Position name="MONOID_0" nr="2" line="249" col="7"/>
+  <Position name="PRE_TOPC" nr="6" line="308" col="5"/>
+  <Position name="FUNCT_2" nr="3" line="379" col="5"/>
+  <Position name="T_0TOPSP" nr="2" line="385" col="5"/>
+  <Position name="XBOOLE_0" nr="10" line="397" col="11"/>
+  <Position name="TARSKI" nr="3" line="398" col="7"/>
+  <Position name="T_0TOPSP" nr="2" line="427" col="5"/>
+  <Position name="T_0TOPSP" nr="2" line="443" col="5"/>
+  <Position name="T_0TOPSP" nr="2" line="463" col="7"/>
+  <Position name="T_0TOPSP" nr="1" line="506" col="9"/>
+  <Position name="T_0TOPSP" nr="1" line="516" col="8"/>
+  <Position name="T_0TOPSP" nr="1" line="520" col="7"/>
+  <Position name="T_0TOPSP" nr="1" line="530" col="6"/>
+  <Position name="PARTFUN2" nr="1" line="569" col="8"/>
+  <Position name="FCONT_1" nr="2" line="596" col="5"/>
+  <Position name="RCOMP_1" nr="6" line="698" col="7"/>
+  <Position name="TMAP_1" nr="2" line="730" col="5"/>
+  <Position name="TARSKI" nr="3" line="821" col="7"/>
+  <Position name="TARSKI" nr="3" line="850" col="7"/>
+  <Position name="TARSKI" nr="3" line="902" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="912" col="5"/>
+  <Position name="TARSKI" nr="3" line="913" col="5"/>
+  <Position name="STRUCT_0" nr="1" line="958" col="11"/>
+  <Position name="FUNCT_2" nr="8" line="979" col="7"/>
+  <Position name="TARSKI" nr="3" line="1019" col="7"/>
+  <Position name="FUNCT_2" nr="3" line="1071" col="12"/>
+  <Position name="XBOOLE_0" nr="10" line="1071" col="12"/>
+  <Position name="TARSKI" nr="3" line="1072" col="7"/>
+  <Position name="T_0TOPSP" nr="1" line="1102" col="6"/>
+</Positions>

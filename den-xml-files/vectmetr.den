@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="607" col="11"/>
+  <Position name="XBOOLE_0" nr="10" line="622" col="9"/>
+  <Position name="TARSKI" nr="3" line="623" col="9"/>
+  <Position name="VECTMETR" nr="2" line="681" col="7"/>
+  <Position name="VECTMETR" nr="1" line="739" col="7"/>
+  <Position name="FUNCT_2" nr="3" line="767" col="10"/>
+  <Position name="VECTMETR" nr="3" line="768" col="5"/>
+  <Position name="FUNCT_2" nr="3" line="783" col="12"/>
+  <Position name="VECTMETR" nr="3" line="784" col="7"/>
+  <Position name="FUNCT_2" nr="3" line="862" col="11"/>
+  <Position name="VECTMETR" nr="3" line="863" col="5"/>
+  <Position name="FUNCT_2" nr="3" line="887" col="11"/>
+  <Position name="VECTMETR" nr="3" line="889" col="5"/>
+  <Position name="STRUCT_0" nr="1" line="932" col="12"/>
+  <Position name="ALGSTR_0" nr="16" line="1037" col="9"/>
+  <Position name="ALGSTR_0" nr="11" line="1038" col="10"/>
+  <Position name="ALGSTR_0" nr="16" line="1243" col="9"/>
+  <Position name="ALGSTR_0" nr="11" line="1246" col="10"/>
+</Positions>

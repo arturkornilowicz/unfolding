@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="120" col="5"/>
+  <Position name="BORSUK_1" nr="1" line="197" col="5"/>
+  <Position name="TOPS_2" nr="5" line="234" col="10"/>
+  <Position name="TARSKI" nr="3" line="292" col="9"/>
+  <Position name="TARSKI" nr="3" line="313" col="13"/>
+  <Position name="TOPREAL1" nr="1" line="505" col="7"/>
+  <Position name="TOPS_2" nr="5" line="590" col="10"/>
+  <Position name="TARSKI" nr="3" line="645" col="7"/>
+  <Position name="TOPREAL1" nr="1" line="738" col="6"/>
+</Positions>

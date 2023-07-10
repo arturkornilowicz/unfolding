@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="FUNCT_1" nr="11" line="167" col="11"/>
+  <Position name="RELAT_1" nr="18" line="222" col="12"/>
+  <Position name="PARTFUN1" nr="2" line="233" col="13"/>
+  <Position name="COMSEQ_2" nr="3" line="332" col="11"/>
+  <Position name="COMSEQ_2" nr="3" line="343" col="8"/>
+  <Position name="COMSEQ_2" nr="4" line="358" col="8"/>
+  <Position name="COMSEQ_2" nr="5" line="450" col="6"/>
+  <Position name="COMSEQ_2" nr="5" line="503" col="8"/>
+  <Position name="COMSEQ_2" nr="5" line="560" col="6"/>
+  <Position name="COMSEQ_2" nr="5" line="673" col="14"/>
+  <Position name="COMSEQ_2" nr="4" line="855" col="8"/>
+  <Position name="COMSEQ_2" nr="5" line="890" col="6"/>
+  <Position name="COMSEQ_2" nr="5" line="1035" col="6"/>
+  <Position name="COMSEQ_2" nr="5" line="1221" col="6"/>
+</Positions>

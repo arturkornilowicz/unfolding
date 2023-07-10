@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="MATRIXJ1" nr="6" line="853" col="7"/>
+  <Position name="MATRIXJ2" nr="2" line="981" col="7"/>
+  <Position name="MATRIXJ2" nr="3" line="989" col="7"/>
+  <Position name="MATRIXJ2" nr="2" line="1004" col="9"/>
+  <Position name="MATRIXJ2" nr="3" line="1064" col="9"/>
+  <Position name="MATRIXJ2" nr="4" line="1151" col="6"/>
+  <Position name="TARSKI" nr="3" line="1245" col="9"/>
+  <Position name="TARSKI" nr="3" line="2563" col="11"/>
+  <Position name="TARSKI" nr="3" line="2589" col="11"/>
+  <Position name="TARSKI" nr="3" line="2616" col="11"/>
+  <Position name="TARSKI" nr="3" line="2783" col="7"/>
+  <Position name="TARSKI" nr="3" line="3038" col="11"/>
+  <Position name="TARSKI" nr="3" line="3046" col="11"/>
+  <Position name="FUNCT_1" nr="4" line="3057" col="11"/>
+  <Position name="TARSKI" nr="3" line="3170" col="11"/>
+  <Position name="TARSKI" nr="3" line="3184" col="11"/>
+  <Position name="TARSKI" nr="3" line="3217" col="11"/>
+  <Position name="TARSKI" nr="3" line="3236" col="11"/>
+  <Position name="TARSKI" nr="3" line="3299" col="13"/>
+</Positions>

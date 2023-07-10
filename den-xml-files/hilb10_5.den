@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="264" col="7"/>
+  <Position name="PARTFUN3" nr="1" line="305" col="7"/>
+  <Position name="INT_6" nr="2" line="349" col="7"/>
+  <Position name="TARSKI" nr="3" line="477" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="482" col="5"/>
+  <Position name="TARSKI" nr="3" line="483" col="5"/>
+  <Position name="TARSKI" nr="3" line="648" col="11"/>
+  <Position name="TARSKI" nr="3" line="656" col="11"/>
+  <Position name="TARSKI" nr="3" line="1018" col="11"/>
+  <Position name="TARSKI" nr="3" line="1025" col="11"/>
+  <Position name="TARSKI" nr="3" line="1229" col="7"/>
+  <Position name="TARSKI" nr="3" line="1245" col="9"/>
+  <Position name="TARSKI" nr="3" line="1267" col="9"/>
+  <Position name="TARSKI" nr="3" line="1307" col="7"/>
+  <Position name="TARSKI" nr="3" line="1586" col="7"/>
+  <Position name="TARSKI" nr="3" line="1628" col="7"/>
+  <Position name="MEMBERED" nr="6" line="1733" col="9"/>
+  <Position name="TARSKI" nr="3" line="1791" col="11"/>
+  <Position name="TARSKI" nr="3" line="1833" col="9"/>
+  <Position name="MEMBERED" nr="11" line="1960" col="9"/>
+  <Position name="TARSKI" nr="3" line="2023" col="7"/>
+  <Position name="PARTFUN3" nr="1" line="2215" col="13"/>
+  <Position name="MEMBERED" nr="6" line="2318" col="9"/>
+  <Position name="TARSKI" nr="3" line="2374" col="11"/>
+  <Position name="TARSKI" nr="3" line="2416" col="9"/>
+  <Position name="MEMBERED" nr="11" line="2539" col="9"/>
+  <Position name="TARSKI" nr="3" line="2605" col="7"/>
+  <Position name="PARTFUN3" nr="1" line="2692" col="9"/>
+  <Position name="PARTFUN3" nr="1" line="2855" col="11"/>
+  <Position name="TARSKI" nr="3" line="2955" col="13"/>
+  <Position name="TARSKI" nr="3" line="2970" col="13"/>
+  <Position name="TARSKI" nr="3" line="2991" col="11"/>
+  <Position name="TARSKI" nr="3" line="3010" col="11"/>
+  <Position name="TARSKI" nr="3" line="3024" col="11"/>
+  <Position name="TARSKI" nr="3" line="3437" col="11"/>
+  <Position name="TARSKI" nr="3" line="3451" col="11"/>
+  <Position name="TARSKI" nr="3" line="3472" col="9"/>
+  <Position name="TARSKI" nr="3" line="3491" col="9"/>
+  <Position name="TARSKI" nr="3" line="3505" col="9"/>
+  <Position name="HILB10_5" nr="4" line="3896" col="6"/>
+  <Position name="TARSKI" nr="3" line="3987" col="7"/>
+  <Position name="TARSKI" nr="3" line="4009" col="7"/>
+</Positions>

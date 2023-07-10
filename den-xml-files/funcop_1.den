@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="FUNCT_1" nr="1" line="291" col="9"/>
+  <Position name="RELAT_1" nr="1" line="301" col="12"/>
+  <Position name="TARSKI" nr="3" line="1060" col="9"/>
+  <Position name="RELAT_1" nr="2" line="1083" col="5"/>
+  <Position name="FUNCOP_1" nr="6" line="1342" col="7"/>
+  <Position name="FUNCOP_1" nr="6" line="1371" col="9"/>
+  <Position name="FUNCT_1" nr="4" line="1465" col="7"/>
+  <Position name="FUNCOP_1" nr="6" line="1584" col="7"/>
+  <Position name="FUNCT_1" nr="10" line="1606" col="7"/>
+  <Position name="FUNCT_1" nr="10" line="1638" col="7"/>
+  <Position name="FUNCT_1" nr="11" line="1679" col="10"/>
+  <Position name="WELLORD1" nr="7" line="1745" col="11"/>
+  <Position name="WELLORD1" nr="8" line="1767" col="6"/>
+  <Position name="RELAT_1" nr="19" line="1793" col="12"/>
+  <Position name="PARTFUN1" nr="4" line="1884" col="10"/>
+  <Position name="PARTFUN1" nr="4" line="1898" col="5"/>
+  <Position name="FUNCT_1" nr="11" line="1926" col="11"/>
+</Positions>

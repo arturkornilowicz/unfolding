@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="VALUED_2" nr="28" line="126" col="11"/>
+  <Position name="VALUED_2" nr="28" line="166" col="11"/>
+  <Position name="VALUED_2" nr="28" line="210" col="11"/>
+  <Position name="FUNCT_2" nr="8" line="601" col="12"/>
+  <Position name="ALGSTR_0" nr="16" line="806" col="9"/>
+  <Position name="ALGSTR_0" nr="11" line="809" col="10"/>
+  <Position name="RLVECT_1" nr="4" line="816" col="9"/>
+  <Position name="GROUP_1" nr="1" line="885" col="8"/>
+  <Position name="ALGSTR_0" nr="16" line="937" col="9"/>
+  <Position name="ALGSTR_0" nr="11" line="938" col="10"/>
+  <Position name="VECTSP_1" nr="2" line="944" col="7"/>
+  <Position name="ALGSTR_0" nr="16" line="956" col="7"/>
+  <Position name="ALGSTR_0" nr="11" line="959" col="8"/>
+  <Position name="STRUCT_0" nr="1" line="986" col="12"/>
+  <Position name="GROUP_1" nr="1" line="1023" col="8"/>
+  <Position name="RLVECT_1" nr="4" line="1052" col="44"/>
+  <Position name="ALGSTR_0" nr="16" line="1058" col="9"/>
+  <Position name="ALGSTR_0" nr="11" line="1061" col="10"/>
+  <Position name="VECTSP_1" nr="4" line="1066" col="44"/>
+  <Position name="RLVECT_1" nr="6" line="1074" col="6"/>
+</Positions>

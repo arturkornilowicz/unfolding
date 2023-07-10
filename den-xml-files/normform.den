@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="NORMFORM" nr="1" line="72" col="8"/>
+  <Position name="NORMFORM" nr="1" line="72" col="8"/>
+  <Position name="NORMFORM" nr="1" line="80" col="8"/>
+  <Position name="NORMFORM" nr="1" line="80" col="8"/>
+  <Position name="NORMFORM" nr="1" line="81" col="9"/>
+  <Position name="BINOP_1" nr="4" line="235" col="5"/>
+  <Position name="BINOP_1" nr="2" line="242" col="5"/>
+  <Position name="BINOP_1" nr="3" line="249" col="5"/>
+  <Position name="NORMFORM" nr="1" line="316" col="3"/>
+  <Position name="TARSKI" nr="3" line="401" col="9"/>
+  <Position name="NORMFORM" nr="1" line="466" col="8"/>
+  <Position name="TARSKI" nr="3" line="539" col="9"/>
+  <Position name="TARSKI" nr="3" line="672" col="5"/>
+  <Position name="XBOOLE_0" nr="10" line="717" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="795" col="10"/>
+  <Position name="XBOOLE_0" nr="10" line="909" col="10"/>
+  <Position name="XBOOLE_0" nr="10" line="975" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="1016" col="10"/>
+  <Position name="LATTICES" nr="10" line="1242" col="12"/>
+  <Position name="LATTICES" nr="4" line="1242" col="12"/>
+  <Position name="LATTICES" nr="5" line="1243" col="12"/>
+  <Position name="LATTICES" nr="8" line="1245" col="12"/>
+  <Position name="LATTICES" nr="6" line="1246" col="12"/>
+  <Position name="LATTICES" nr="7" line="1247" col="12"/>
+  <Position name="LATTICES" nr="9" line="1249" col="7"/>
+  <Position name="LATTICES" nr="11" line="1262" col="9"/>
+  <Position name="LATTICES" nr="13" line="1271" col="10"/>
+</Positions>

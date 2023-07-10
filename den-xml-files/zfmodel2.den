@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="61" col="9"/>
+  <Position name="TARSKI" nr="3" line="86" col="9"/>
+  <Position name="TARSKI" nr="3" line="114" col="9"/>
+  <Position name="TARSKI" nr="3" line="223" col="11"/>
+  <Position name="XBOOLE_0" nr="10" line="236" col="9"/>
+  <Position name="TARSKI" nr="3" line="237" col="9"/>
+  <Position name="TARSKI" nr="3" line="262" col="13"/>
+  <Position name="XBOOLE_0" nr="10" line="270" col="11"/>
+  <Position name="TARSKI" nr="3" line="271" col="11"/>
+  <Position name="XBOOLE_0" nr="10" line="313" col="17"/>
+  <Position name="TARSKI" nr="3" line="315" col="11"/>
+  <Position name="XBOOLE_0" nr="10" line="336" col="15"/>
+  <Position name="TARSKI" nr="3" line="338" col="9"/>
+  <Position name="FUNCT_2" nr="8" line="590" col="5"/>
+  <Position name="FUNCT_2" nr="8" line="899" col="5"/>
+  <Position name="ZF_MODEL" nr="5" line="916" col="10"/>
+  <Position name="ZF_MODEL" nr="5" line="918" col="7"/>
+  <Position name="ZF_MODEL" nr="5" line="932" col="8"/>
+  <Position name="ZF_MODEL" nr="5" line="934" col="5"/>
+  <Position name="TARSKI" nr="3" line="1200" col="7"/>
+  <Position name="ZFMODEL1" nr="3" line="1226" col="7"/>
+  <Position name="ZFMODEL1" nr="3" line="1230" col="7"/>
+  <Position name="ZFMODEL1" nr="3" line="1243" col="6"/>
+  <Position name="TARSKI" nr="3" line="1247" col="7"/>
+  <Position name="ZF_MODEL" nr="5" line="1282" col="7"/>
+  <Position name="ZFMODEL1" nr="3" line="1541" col="7"/>
+  <Position name="ZFMODEL1" nr="3" line="1545" col="7"/>
+  <Position name="TARSKI" nr="3" line="1560" col="7"/>
+  <Position name="ZFMODEL1" nr="3" line="1572" col="6"/>
+  <Position name="ZFMODEL1" nr="4" line="1654" col="7"/>
+  <Position name="ZFMODEL1" nr="4" line="1658" col="7"/>
+  <Position name="ZFMODEL1" nr="4" line="1683" col="6"/>
+  <Position name="TARSKI" nr="3" line="1690" col="7"/>
+  <Position name="TARSKI" nr="3" line="1971" col="7"/>
+  <Position name="ZFMODEL1" nr="4" line="1985" col="6"/>
+  <Position name="ZFMODEL1" nr="3" line="2067" col="6"/>
+</Positions>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="MEMSTR_0" nr="3" line="138" col="11"/>
+  <Position name="FUNCT_1" nr="9" line="138" col="11"/>
+  <Position name="FUNCT_1" nr="11" line="225" col="6"/>
+  <Position name="MEMSTR_0" nr="6" line="242" col="16"/>
+  <Position name="FUNCT_1" nr="14" line="324" col="8"/>
+  <Position name="FUNCT_1" nr="14" line="503" col="11"/>
+  <Position name="MEMSTR_0" nr="11" line="583" col="11"/>
+  <Position name="MEMSTR_0" nr="11" line="599" col="12"/>
+  <Position name="MEMSTR_0" nr="11" line="632" col="10"/>
+  <Position name="MEMSTR_0" nr="11" line="838" col="9"/>
+  <Position name="MEMSTR_0" nr="11" line="850" col="11"/>
+  <Position name="MEMSTR_0" nr="11" line="1436" col="10"/>
+  <Position name="MEMSTR_0" nr="17" line="1555" col="6"/>
+</Positions>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="RLTOPSP1" nr="8" line="1038" col="9"/>
+  <Position name="TARSKI" nr="3" line="1057" col="11"/>
+  <Position name="RLTOPSP1" nr="9" line="1111" col="9"/>
+  <Position name="TARSKI" nr="3" line="1137" col="13"/>
+  <Position name="RLVECT_1" nr="2" line="1246" col="9"/>
+  <Position name="RLVECT_1" nr="3" line="1254" col="9"/>
+  <Position name="RLVECT_1" nr="4" line="1264" col="9"/>
+  <Position name="ALGSTR_0" nr="16" line="1272" col="9"/>
+  <Position name="ALGSTR_0" nr="11" line="1275" col="10"/>
+  <Position name="PRE_TOPC" nr="10" line="1374" col="7"/>
+</Positions>

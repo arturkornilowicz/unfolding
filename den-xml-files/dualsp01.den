@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="RLVECT_1" nr="2" line="171" col="10"/>
+  <Position name="RLVECT_1" nr="3" line="178" col="11"/>
+  <Position name="RLVECT_1" nr="4" line="182" col="10"/>
+  <Position name="ALGSTR_0" nr="16" line="186" col="7"/>
+  <Position name="ALGSTR_0" nr="11" line="191" col="8"/>
+  <Position name="RLVECT_1" nr="6" line="199" col="11"/>
+  <Position name="RLVECT_1" nr="5" line="206" col="11"/>
+  <Position name="RLVECT_1" nr="7" line="213" col="11"/>
+  <Position name="RLVECT_1" nr="8" line="215" col="6"/>
+  <Position name="HAHNBAN" nr="2" line="288" col="8"/>
+  <Position name="HAHNBAN" nr="3" line="296" col="8"/>
+  <Position name="VECTSP_1" nr="19" line="311" col="7"/>
+  <Position name="HAHNBAN1" nr="8" line="318" col="7"/>
+  <Position name="HAHNBAN" nr="2" line="425" col="6"/>
+  <Position name="HAHNBAN" nr="3" line="430" col="6"/>
+  <Position name="FUNCT_1" nr="13" line="498" col="7"/>
+  <Position name="HAHNBAN" nr="2" line="518" col="8"/>
+  <Position name="HAHNBAN" nr="3" line="534" col="8"/>
+  <Position name="HAHNBAN" nr="2" line="554" col="8"/>
+  <Position name="HAHNBAN" nr="3" line="565" col="8"/>
+  <Position name="DUALSP01" nr="9" line="748" col="6"/>
+  <Position name="DUALSP01" nr="9" line="857" col="10"/>
+  <Position name="DUALSP01" nr="9" line="885" col="10"/>
+  <Position name="XXREAL_2" nr="10" line="1048" col="6"/>
+  <Position name="XXREAL_2" nr="1" line="1049" col="5"/>
+  <Position name="DUALSP01" nr="9" line="1741" col="8"/>
+  <Position name="HAHNBAN" nr="1" line="1972" col="9"/>
+  <Position name="HAHNBAN" nr="6" line="1980" col="9"/>
+</Positions>

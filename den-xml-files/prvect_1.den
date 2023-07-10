@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="ALGSTR_0" nr="16" line="109" col="7"/>
+  <Position name="ALGSTR_0" nr="11" line="111" col="8"/>
+  <Position name="BINOP_1" nr="3" line="130" col="5"/>
+  <Position name="ALGSTR_0" nr="16" line="381" col="9"/>
+  <Position name="ALGSTR_0" nr="11" line="383" col="10"/>
+  <Position name="STRUCT_0" nr="1" line="495" col="13"/>
+  <Position name="VECTSP_1" nr="13" line="697" col="9"/>
+  <Position name="VECTSP_1" nr="14" line="718" col="9"/>
+  <Position name="VECTSP_1" nr="15" line="737" col="9"/>
+  <Position name="VECTSP_1" nr="16" line="750" col="9"/>
+  <Position name="FUNCOP_1" nr="6" line="855" col="7"/>
+  <Position name="FUNCOP_1" nr="6" line="864" col="7"/>
+  <Position name="BINOP_1" nr="2" line="1056" col="5"/>
+  <Position name="BINOP_1" nr="3" line="1075" col="5"/>
+  <Position name="FINSEQOP" nr="1" line="1149" col="5"/>
+  <Position name="PRVECT_1" nr="10" line="1220" col="7"/>
+  <Position name="ALGSTR_0" nr="16" line="1539" col="9"/>
+  <Position name="ALGSTR_0" nr="11" line="1541" col="10"/>
+</Positions>

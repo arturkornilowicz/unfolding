@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="SPPOL_1" nr="3" line="356" col="5"/>
+  <Position name="SPPOL_1" nr="2" line="384" col="5"/>
+  <Position name="TARSKI" nr="3" line="465" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="473" col="5"/>
+  <Position name="TARSKI" nr="3" line="474" col="5"/>
+  <Position name="TARSKI" nr="3" line="493" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="501" col="5"/>
+  <Position name="TARSKI" nr="3" line="502" col="5"/>
+  <Position name="TARSKI" nr="3" line="521" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="529" col="5"/>
+  <Position name="TARSKI" nr="3" line="530" col="5"/>
+  <Position name="TARSKI" nr="3" line="549" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="557" col="5"/>
+  <Position name="TARSKI" nr="3" line="558" col="5"/>
+  <Position name="XBOOLE_0" nr="7" line="733" col="8"/>
+  <Position name="XBOOLE_0" nr="7" line="754" col="8"/>
+  <Position name="SEQM_3" nr="1" line="901" col="9"/>
+  <Position name="SEQM_3" nr="1" line="939" col="9"/>
+  <Position name="TOPREAL1" nr="5" line="1017" col="9"/>
+  <Position name="TOPREAL1" nr="6" line="1099" col="9"/>
+  <Position name="GOBOARD5" nr="4" line="1124" col="9"/>
+  <Position name="XBOOLE_0" nr="7" line="1160" col="18"/>
+  <Position name="XBOOLE_0" nr="7" line="1165" col="18"/>
+  <Position name="XBOOLE_0" nr="7" line="1170" col="18"/>
+  <Position name="GOBOARD5" nr="5" line="1336" col="9"/>
+  <Position name="GOBOARD1" nr="9" line="1336" col="9"/>
+  <Position name="XXREAL_2" nr="10" line="1525" col="10"/>
+  <Position name="XXREAL_2" nr="1" line="1526" col="9"/>
+  <Position name="XXREAL_2" nr="9" line="1531" col="10"/>
+  <Position name="XXREAL_2" nr="2" line="1532" col="9"/>
+  <Position name="SPRECT_1" nr="2" line="2097" col="8"/>
+  <Position name="JORDAN1" nr="2" line="2239" col="10"/>
+  <Position name="XBOOLE_0" nr="7" line="2242" col="11"/>
+</Positions>

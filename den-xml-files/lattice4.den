@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="LATTICE4" nr="1" line="145" col="9"/>
+  <Position name="LATTICE4" nr="2" line="151" col="7"/>
+  <Position name="LATTICES" nr="3" line="181" col="12"/>
+  <Position name="LATTICES" nr="11" line="410" col="7"/>
+  <Position name="FILTER_0" nr="6" line="711" col="7"/>
+  <Position name="LATTICES" nr="20" line="776" col="9"/>
+  <Position name="LATTICE4" nr="10" line="879" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="916" col="12"/>
+  <Position name="TARSKI" nr="3" line="929" col="9"/>
+  <Position name="TARSKI" nr="3" line="1071" col="7"/>
+  <Position name="TARSKI" nr="3" line="1122" col="9"/>
+  <Position name="TARSKI" nr="3" line="1145" col="9"/>
+  <Position name="TARSKI" nr="3" line="1184" col="9"/>
+  <Position name="TARSKI" nr="3" line="1222" col="7"/>
+  <Position name="TARSKI" nr="3" line="1237" col="7"/>
+  <Position name="TARSKI" nr="3" line="1250" col="9"/>
+  <Position name="TARSKI" nr="3" line="1257" col="11"/>
+  <Position name="LATTICE4" nr="10" line="1268" col="7"/>
+</Positions>

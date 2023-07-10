@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="VECTSP_1" nr="6" line="86" col="7"/>
+  <Position name="RLVECT_1" nr="4" line="105" col="9"/>
+  <Position name="ALGSTR_0" nr="16" line="114" col="9"/>
+  <Position name="ALGSTR_0" nr="11" line="118" col="10"/>
+  <Position name="ALGSTR_0" nr="38" line="129" col="9"/>
+  <Position name="ALGSTR_0" nr="27" line="135" col="10"/>
+  <Position name="COMPTRIG" nr="2" line="1019" col="11"/>
+</Positions>

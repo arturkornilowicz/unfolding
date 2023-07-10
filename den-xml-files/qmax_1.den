@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="QMAX_1" nr="11" line="419" col="8"/>
+  <Position name="QMAX_1" nr="10" line="421" col="5"/>
+  <Position name="QMAX_1" nr="10" line="433" col="5"/>
+  <Position name="QMAX_1" nr="10" line="456" col="5"/>
+  <Position name="QMAX_1" nr="10" line="537" col="5"/>
+  <Position name="RELAT_2" nr="8" line="755" col="7"/>
+  <Position name="RELAT_2" nr="4" line="772" col="7"/>
+  <Position name="QMAX_1" nr="6" line="801" col="7"/>
+  <Position name="RELAT_2" nr="1" line="811" col="7"/>
+</Positions>

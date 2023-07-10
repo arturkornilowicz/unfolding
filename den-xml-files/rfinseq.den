@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="CLASSES1" nr="10" line="87" col="5"/>
+  <Position name="CLASSES1" nr="10" line="139" col="5"/>
+  <Position name="TARSKI" nr="3" line="159" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="168" col="7"/>
+  <Position name="TARSKI" nr="3" line="169" col="7"/>
+  <Position name="TARSKI" nr="3" line="216" col="13"/>
+  <Position name="TARSKI" nr="3" line="230" col="13"/>
+  <Position name="TARSKI" nr="3" line="358" col="11"/>
+  <Position name="SEQM_3" nr="4" line="1081" col="7"/>
+  <Position name="RFINSEQ" nr="3" line="1122" col="7"/>
+  <Position name="RFINSEQ" nr="3" line="1170" col="5"/>
+  <Position name="TARSKI" nr="3" line="1689" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="1702" col="5"/>
+  <Position name="TARSKI" nr="3" line="1703" col="5"/>
+  <Position name="XBOOLE_0" nr="10" line="1724" col="9"/>
+  <Position name="TARSKI" nr="3" line="1725" col="5"/>
+  <Position name="CLASSES1" nr="10" line="1748" col="5"/>
+</Positions>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="71" col="7"/>
+  <Position name="TARSKI" nr="3" line="78" col="7"/>
+  <Position name="TARSKI" nr="3" line="97" col="5"/>
+  <Position name="TARSKI" nr="3" line="294" col="9"/>
+  <Position name="PARTIT1" nr="1" line="312" col="8"/>
+  <Position name="TARSKI" nr="3" line="315" col="9"/>
+  <Position name="TARSKI" nr="3" line="354" col="9"/>
+  <Position name="TARSKI" nr="3" line="383" col="9"/>
+  <Position name="TARSKI" nr="3" line="429" col="7"/>
+  <Position name="TARSKI" nr="3" line="449" col="7"/>
+  <Position name="PARTIT1" nr="1" line="485" col="6"/>
+  <Position name="TARSKI" nr="3" line="561" col="11"/>
+  <Position name="TARSKI" nr="3" line="581" col="11"/>
+  <Position name="TARSKI" nr="3" line="899" col="9"/>
+  <Position name="TARSKI" nr="3" line="909" col="9"/>
+  <Position name="TARSKI" nr="3" line="963" col="9"/>
+  <Position name="RELAT_1" nr="2" line="1154" col="7"/>
+  <Position name="TARSKI" nr="3" line="1233" col="9"/>
+  <Position name="TARSKI" nr="3" line="1246" col="9"/>
+  <Position name="TARSKI" nr="3" line="1258" col="9"/>
+  <Position name="RELAT_1" nr="3" line="1438" col="7"/>
+  <Position name="TARSKI" nr="3" line="1478" col="9"/>
+  <Position name="TARSKI" nr="3" line="1489" col="9"/>
+  <Position name="TARSKI" nr="3" line="1507" col="9"/>
+  <Position name="TARSKI" nr="3" line="1591" col="9"/>
+  <Position name="TARSKI" nr="3" line="1975" col="7"/>
+  <Position name="TARSKI" nr="3" line="1987" col="7"/>
+  <Position name="RELAT_1" nr="3" line="2043" col="7"/>
+  <Position name="RELAT_1" nr="3" line="2059" col="7"/>
+  <Position name="RELAT_1" nr="3" line="2072" col="7"/>
+</Positions>

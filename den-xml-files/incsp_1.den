@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="INCSP_1" nr="4" line="129" col="5"/>
+  <Position name="INCSP_1" nr="4" line="148" col="5"/>
+  <Position name="INCSP_1" nr="5" line="164" col="5"/>
+  <Position name="INCSP_1" nr="5" line="181" col="5"/>
+  <Position name="INCSP_1" nr="5" line="198" col="5"/>
+  <Position name="INCSP_1" nr="4" line="216" col="7"/>
+  <Position name="INCSP_1" nr="5" line="237" col="7"/>
+  <Position name="INCSP_1" nr="4" line="257" col="5"/>
+  <Position name="INCSP_1" nr="5" line="269" col="5"/>
+  <Position name="INCSP_1" nr="6" line="283" col="6"/>
+  <Position name="INCSP_1" nr="4" line="284" col="5"/>
+  <Position name="INCSP_1" nr="7" line="297" col="6"/>
+  <Position name="INCSP_1" nr="5" line="298" col="5"/>
+  <Position name="TARSKI" nr="3" line="390" col="9"/>
+  <Position name="TARSKI" nr="3" line="401" col="9"/>
+  <Position name="TARSKI" nr="3" line="411" col="9"/>
+  <Position name="INCSP_1" nr="8" line="423" col="11"/>
+  <Position name="INCSP_1" nr="9" line="444" col="11"/>
+  <Position name="INCSP_1" nr="10" line="506" col="11"/>
+  <Position name="INCSP_1" nr="11" line="543" col="11"/>
+  <Position name="INCSP_1" nr="12" line="559" col="11"/>
+  <Position name="INCSP_1" nr="13" line="692" col="11"/>
+  <Position name="INCSP_1" nr="14" line="756" col="11"/>
+  <Position name="INCSP_1" nr="15" line="798" col="11"/>
+  <Position name="INCSP_1" nr="16" line="881" col="12"/>
+  <Position name="INCSP_1" nr="17" line="925" col="11"/>
+  <Position name="INCSP_1" nr="6" line="969" col="6"/>
+  <Position name="INCSP_1" nr="7" line="978" col="6"/>
+  <Position name="INCSP_1" nr="6" line="985" col="7"/>
+  <Position name="INCSP_1" nr="6" line="1015" col="7"/>
+  <Position name="INCSP_1" nr="7" line="1030" col="7"/>
+  <Position name="INCSP_1" nr="6" line="1761" col="7"/>
+</Positions>

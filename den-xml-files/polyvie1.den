@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="RELAT_1" nr="19" line="86" col="13"/>
+  <Position name="FUNCT_2" nr="8" line="174" col="7"/>
+  <Position name="FUNCT_2" nr="8" line="199" col="7"/>
+  <Position name="FUNCT_2" nr="8" line="225" col="7"/>
+  <Position name="POLYNOM5" nr="7" line="281" col="14"/>
+  <Position name="TARSKI" nr="3" line="296" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="303" col="7"/>
+  <Position name="TARSKI" nr="3" line="304" col="7"/>
+  <Position name="FINSEQ_1" nr="17" line="510" col="12"/>
+  <Position name="FINSEQ_1" nr="17" line="550" col="2"/>
+  <Position name="FINSEQ_1" nr="17" line="587" col="13"/>
+  <Position name="FINSEQ_1" nr="17" line="673" col="2"/>
+  <Position name="FUNCT_1" nr="11" line="770" col="2"/>
+</Positions>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="MARGREL1" nr="16" line="958" col="7"/>
+  <Position name="TARSKI" nr="3" line="958" col="7"/>
+  <Position name="MARGREL1" nr="16" line="969" col="7"/>
+  <Position name="TARSKI" nr="3" line="969" col="7"/>
+  <Position name="FUNCT_2" nr="8" line="1066" col="7"/>
+  <Position name="FUNCT_2" nr="8" line="1076" col="5"/>
+</Positions>

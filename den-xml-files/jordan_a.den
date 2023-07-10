@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="105" col="7"/>
+  <Position name="TARSKI" nr="3" line="118" col="9"/>
+  <Position name="TARSKI" nr="3" line="152" col="9"/>
+  <Position name="TARSKI" nr="3" line="205" col="7"/>
+  <Position name="TARSKI" nr="3" line="218" col="9"/>
+  <Position name="TARSKI" nr="3" line="252" col="9"/>
+  <Position name="PSCOMP_1" nr="3" line="364" col="7"/>
+  <Position name="JORDAN_A" nr="2" line="428" col="7"/>
+  <Position name="TARSKI" nr="3" line="451" col="7"/>
+  <Position name="TARSKI" nr="3" line="1216" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="1222" col="5"/>
+  <Position name="TARSKI" nr="3" line="1416" col="7"/>
+  <Position name="TARSKI" nr="3" line="1785" col="9"/>
+  <Position name="TARSKI" nr="3" line="1793" col="9"/>
+  <Position name="TARSKI" nr="3" line="1839" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="1862" col="5"/>
+  <Position name="TARSKI" nr="3" line="1865" col="7"/>
+</Positions>

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="RLTOPSP1" nr="6" line="55" col="5"/>
+  <Position name="TARSKI" nr="3" line="59" col="5"/>
+  <Position name="RLTOPSP1" nr="6" line="104" col="7"/>
+  <Position name="CIRCLED1" nr="1" line="157" col="5"/>
+  <Position name="CIRCLED1" nr="1" line="210" col="5"/>
+  <Position name="CIRCLED1" nr="1" line="226" col="5"/>
+  <Position name="CIRCLED1" nr="1" line="236" col="5"/>
+  <Position name="CIRCLED1" nr="1" line="253" col="5"/>
+  <Position name="TARSKI" nr="3" line="318" col="9"/>
+  <Position name="TARSKI" nr="3" line="336" col="5"/>
+  <Position name="TARSKI" nr="3" line="356" col="5"/>
+  <Position name="TARSKI" nr="3" line="364" col="5"/>
+  <Position name="TARSKI" nr="3" line="408" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="463" col="5"/>
+  <Position name="CIRCLED1" nr="4" line="558" col="8"/>
+  <Position name="CIRCLED1" nr="4" line="609" col="8"/>
+</Positions>

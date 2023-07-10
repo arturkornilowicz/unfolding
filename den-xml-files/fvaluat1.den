@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="FVALUAT1" nr="3" line="356" col="7"/>
+  <Position name="FVALUAT1" nr="3" line="368" col="7"/>
+  <Position name="IDEAL_1" nr="3" line="559" col="9"/>
+  <Position name="FVALUAT1" nr="8" line="1200" col="12"/>
+  <Position name="FUNCT_2" nr="8" line="1256" col="8"/>
+  <Position name="FUNCT_2" nr="8" line="1427" col="7"/>
+  <Position name="FUNCT_2" nr="8" line="1441" col="7"/>
+  <Position name="TARSKI" nr="3" line="1483" col="7"/>
+  <Position name="RLVECT_1" nr="2" line="1607" col="15"/>
+  <Position name="RLVECT_1" nr="3" line="1615" col="16"/>
+  <Position name="RLVECT_1" nr="4" line="1622" col="15"/>
+  <Position name="ALGSTR_0" nr="16" line="1627" col="12"/>
+  <Position name="ALGSTR_0" nr="11" line="1636" col="15"/>
+  <Position name="ALGSTR_0" nr="11" line="1643" col="15"/>
+  <Position name="GROUP_1" nr="12" line="1650" col="15"/>
+  <Position name="GROUP_1" nr="3" line="1658" col="16"/>
+  <Position name="VECTSP_1" nr="7" line="1673" col="15"/>
+  <Position name="STRUCT_0" nr="8" line="1677" col="14"/>
+  <Position name="XXREAL_2" nr="2" line="1712" col="7"/>
+  <Position name="VECTSP_2" nr="1" line="1812" col="7"/>
+  <Position name="TARSKI" nr="3" line="1873" col="9"/>
+  <Position name="IDEAL_1" nr="1" line="1895" col="15"/>
+  <Position name="IDEAL_1" nr="2" line="1907" col="15"/>
+  <Position name="IDEAL_1" nr="3" line="1909" col="9"/>
+  <Position name="TARSKI" nr="3" line="1977" col="9"/>
+  <Position name="XXREAL_2" nr="2" line="2037" col="9"/>
+  <Position name="TARSKI" nr="3" line="2067" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="2099" col="7"/>
+  <Position name="REALSET1" nr="1" line="2112" col="7"/>
+  <Position name="RMOD_2" nr="1" line="2138" col="21"/>
+  <Position name="VECTSP_1" nr="19" line="2216" col="9"/>
+  <Position name="FVALUAT1" nr="16" line="2220" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="2308" col="12"/>
+  <Position name="TARSKI" nr="3" line="2309" col="9"/>
+  <Position name="SUBSET_1" nr="6" line="2349" col="12"/>
+  <Position name="RING_1" nr="2" line="2371" col="12"/>
+  <Position name="RING_1" nr="1" line="2372" col="7"/>
+  <Position name="SUBSET_1" nr="6" line="2412" col="14"/>
+  <Position name="RING_1" nr="4" line="2413" col="7"/>
+  <Position name="RING_1" nr="3" line="2414" col="7"/>
+  <Position name="TARSKI" nr="3" line="2453" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="2460" col="7"/>
+  <Position name="TARSKI" nr="3" line="2461" col="7"/>
+</Positions>

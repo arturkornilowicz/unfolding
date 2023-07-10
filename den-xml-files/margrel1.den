@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="CARD_3" nr="10" line="62" col="7"/>
+  <Position name="FINSEQ_1" nr="18" line="111" col="7"/>
+  <Position name="MARGREL1" nr="1" line="119" col="7"/>
+  <Position name="MARGREL1" nr="5" line="214" col="8"/>
+  <Position name="MARGREL1" nr="4" line="220" col="8"/>
+  <Position name="MARGREL1" nr="16" line="692" col="12"/>
+  <Position name="MARGREL1" nr="12" line="705" col="13"/>
+  <Position name="MARGREL1" nr="12" line="711" col="13"/>
+  <Position name="MARGREL1" nr="16" line="730" col="9"/>
+  <Position name="TARSKI" nr="3" line="730" col="9"/>
+  <Position name="MARGREL1" nr="16" line="784" col="9"/>
+  <Position name="TARSKI" nr="3" line="784" col="9"/>
+  <Position name="MARGREL1" nr="21" line="913" col="12"/>
+  <Position name="TARSKI" nr="3" line="936" col="9"/>
+  <Position name="TARSKI" nr="3" line="944" col="9"/>
+  <Position name="MARGREL1" nr="22" line="952" col="9"/>
+  <Position name="TARSKI" nr="3" line="989" col="7"/>
+  <Position name="TARSKI" nr="3" line="997" col="7"/>
+  <Position name="MARGREL1" nr="22" line="1005" col="7"/>
+  <Position name="TARSKI" nr="3" line="1026" col="7"/>
+  <Position name="TARSKI" nr="3" line="1034" col="7"/>
+  <Position name="MARGREL1" nr="23" line="1087" col="9"/>
+  <Position name="MARGREL1" nr="24" line="1099" col="9"/>
+  <Position name="FUNCT_1" nr="9" line="1111" col="9"/>
+  <Position name="TARSKI" nr="3" line="1234" col="7"/>
+  <Position name="TARSKI" nr="3" line="1255" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="1262" col="5"/>
+  <Position name="TARSKI" nr="3" line="1264" col="5"/>
+</Positions>

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="AMI_WSTD" nr="1" line="73" col="7"/>
+  <Position name="AMI_WSTD" nr="1" line="77" col="7"/>
+  <Position name="AMI_WSTD" nr="1" line="81" col="6"/>
+  <Position name="AMI_WSTD" nr="1" line="225" col="8"/>
+  <Position name="AMI_WSTD" nr="1" line="421" col="12"/>
+  <Position name="AMI_WSTD" nr="3" line="531" col="6"/>
+  <Position name="AMI_WSTD" nr="2" line="795" col="5"/>
+  <Position name="AMI_WSTD" nr="8" line="961" col="5"/>
+  <Position name="AMISTD_1" nr="9" line="1062" col="5"/>
+  <Position name="AMI_WSTD" nr="10" line="1098" col="5"/>
+  <Position name="TARSKI" nr="3" line="1217" col="9"/>
+  <Position name="TARSKI" nr="3" line="1268" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="1318" col="12"/>
+  <Position name="TARSKI" nr="3" line="1319" col="7"/>
+  <Position name="AMI_WSTD" nr="12" line="1419" col="10"/>
+  <Position name="AMI_WSTD" nr="13" line="1420" col="12"/>
+  <Position name="AMI_WSTD" nr="12" line="1457" col="10"/>
+  <Position name="AMI_WSTD" nr="13" line="1458" col="12"/>
+  <Position name="AMI_WSTD" nr="1" line="1530" col="6"/>
+</Positions>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="ABIAN" nr="3" line="80" col="11"/>
+  <Position name="ABIAN" nr="3" line="88" col="10"/>
+  <Position name="ORDEQ_01" nr="1" line="101" col="8"/>
+  <Position name="ABIAN" nr="3" line="105" col="2"/>
+  <Position name="NFCONT_2" nr="3" line="169" col="8"/>
+  <Position name="ORDEQ_01" nr="1" line="187" col="8"/>
+  <Position name="ABIAN" nr="4" line="188" col="10"/>
+  <Position name="ORDEQ_01" nr="1" line="210" col="8"/>
+  <Position name="ABIAN" nr="4" line="217" col="12"/>
+  <Position name="RLSUB_1" nr="1" line="417" col="7"/>
+  <Position name="NORMSP_0" nr="6" line="741" col="10"/>
+  <Position name="INTEGR15" nr="15" line="1228" col="5"/>
+  <Position name="INTEGR15" nr="16" line="1244" col="5"/>
+  <Position name="FDIFF_1" nr="2" line="1484" col="10"/>
+</Positions>

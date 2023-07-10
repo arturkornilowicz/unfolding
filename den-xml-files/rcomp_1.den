@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="69" col="9"/>
+  <Position name="TARSKI" nr="3" line="80" col="9"/>
+  <Position name="TARSKI" nr="3" line="111" col="9"/>
+  <Position name="TARSKI" nr="3" line="120" col="9"/>
+  <Position name="SEQ_2" nr="3" line="249" col="8"/>
+  <Position name="SEQ_2" nr="8" line="265" col="5"/>
+  <Position name="SEQ_2" nr="4" line="266" col="8"/>
+  <Position name="TARSKI" nr="3" line="534" col="11"/>
+  <Position name="TARSKI" nr="3" line="594" col="11"/>
+  <Position name="SEQ_2" nr="4" line="623" col="10"/>
+  <Position name="SEQ_2" nr="3" line="649" col="10"/>
+  <Position name="TARSKI" nr="3" line="717" col="7"/>
+  <Position name="TARSKI" nr="3" line="789" col="7"/>
+  <Position name="TARSKI" nr="3" line="1029" col="7"/>
+  <Position name="TARSKI" nr="3" line="1257" col="9"/>
+  <Position name="TARSKI" nr="3" line="1268" col="9"/>
+  <Position name="TARSKI" nr="3" line="1301" col="9"/>
+  <Position name="TARSKI" nr="3" line="1312" col="9"/>
+</Positions>

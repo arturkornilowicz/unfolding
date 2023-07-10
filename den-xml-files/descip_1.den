@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="CARD_1" nr="7" line="51" col="13"/>
+  <Position name="MARGREL1" nr="16" line="601" col="11"/>
+  <Position name="FUNCT_1" nr="4" line="1190" col="9"/>
+  <Position name="FUNCT_2" nr="4" line="1200" col="7"/>
+  <Position name="FUNCT_2" nr="3" line="1201" col="12"/>
+</Positions>

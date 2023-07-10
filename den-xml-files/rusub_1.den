@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="BHSP_1" nr="2" line="383" col="11"/>
+  <Position name="ALGSTR_0" nr="16" line="442" col="11"/>
+  <Position name="ALGSTR_0" nr="11" line="450" col="12"/>
+  <Position name="RUSUB_1" nr="1" line="483" col="10"/>
+  <Position name="RUSUB_1" nr="1" line="527" col="11"/>
+  <Position name="RUSUB_1" nr="1" line="587" col="11"/>
+  <Position name="TARSKI" nr="3" line="610" col="7"/>
+  <Position name="ALGSTR_0" nr="16" line="829" col="9"/>
+  <Position name="ALGSTR_0" nr="11" line="834" col="10"/>
+  <Position name="BHSP_1" nr="2" line="874" col="9"/>
+  <Position name="TARSKI" nr="3" line="980" col="9"/>
+  <Position name="TARSKI" nr="3" line="987" col="9"/>
+  <Position name="TARSKI" nr="3" line="1004" col="7"/>
+  <Position name="TARSKI" nr="3" line="1015" col="7"/>
+  <Position name="TARSKI" nr="3" line="1089" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="1099" col="5"/>
+  <Position name="TARSKI" nr="3" line="1100" col="5"/>
+  <Position name="TARSKI" nr="3" line="1123" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="1130" col="7"/>
+  <Position name="TARSKI" nr="3" line="1131" col="7"/>
+  <Position name="TARSKI" nr="3" line="1178" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="1186" col="5"/>
+  <Position name="TARSKI" nr="3" line="1187" col="5"/>
+  <Position name="TARSKI" nr="3" line="1250" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="1262" col="7"/>
+  <Position name="TARSKI" nr="3" line="1263" col="7"/>
+  <Position name="TARSKI" nr="3" line="1317" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="1330" col="7"/>
+  <Position name="TARSKI" nr="3" line="1331" col="7"/>
+  <Position name="TARSKI" nr="3" line="1391" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="1405" col="5"/>
+  <Position name="TARSKI" nr="3" line="1406" col="5"/>
+  <Position name="TARSKI" nr="3" line="1655" col="11"/>
+  <Position name="XBOOLE_0" nr="10" line="1667" col="9"/>
+  <Position name="TARSKI" nr="3" line="1668" col="9"/>
+</Positions>

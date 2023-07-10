@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="194" col="9"/>
+  <Position name="POLYNOM3" nr="1" line="330" col="8"/>
+  <Position name="POLYNOM3" nr="1" line="467" col="6"/>
+  <Position name="RELAT_2" nr="8" line="489" col="9"/>
+  <Position name="RELAT_2" nr="4" line="504" col="9"/>
+  <Position name="RELAT_1" nr="2" line="526" col="7"/>
+  <Position name="TARSKI" nr="3" line="593" col="9"/>
+  <Position name="TARSKI" nr="3" line="600" col="11"/>
+  <Position name="TARSKI" nr="3" line="685" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="694" col="7"/>
+  <Position name="TARSKI" nr="3" line="695" col="7"/>
+  <Position name="TARSKI" nr="3" line="777" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="803" col="7"/>
+  <Position name="TARSKI" nr="3" line="804" col="7"/>
+  <Position name="TARSKI" nr="3" line="835" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="848" col="7"/>
+  <Position name="TARSKI" nr="3" line="849" col="7"/>
+  <Position name="TARSKI" nr="3" line="876" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="885" col="7"/>
+  <Position name="TARSKI" nr="3" line="886" col="7"/>
+  <Position name="ALGSEQ_1" nr="1" line="1548" col="8"/>
+  <Position name="ALGSEQ_1" nr="2" line="1572" col="5"/>
+  <Position name="FUNCT_2" nr="8" line="1587" col="7"/>
+  <Position name="ALGSEQ_1" nr="1" line="1619" col="8"/>
+  <Position name="FUNCT_2" nr="8" line="1633" col="5"/>
+  <Position name="ALGSEQ_1" nr="1" line="1671" col="8"/>
+  <Position name="ALGSEQ_1" nr="1" line="1722" col="8"/>
+  <Position name="ALGSEQ_1" nr="1" line="1822" col="8"/>
+  <Position name="RLVECT_1" nr="2" line="3038" col="7"/>
+  <Position name="RLVECT_1" nr="3" line="3051" col="7"/>
+  <Position name="RLVECT_1" nr="4" line="3062" col="7"/>
+  <Position name="ALGSTR_0" nr="16" line="3071" col="7"/>
+  <Position name="ALGSTR_0" nr="11" line="3074" col="8"/>
+  <Position name="GROUP_1" nr="12" line="3087" col="7"/>
+  <Position name="GROUP_1" nr="3" line="3100" col="7"/>
+  <Position name="VECTSP_1" nr="7" line="3192" col="7"/>
+</Positions>

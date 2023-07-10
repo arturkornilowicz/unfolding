@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="ORDINAL1" nr="8" line="161" col="7"/>
+  <Position name="XBOOLE_0" nr="9" line="173" col="11"/>
+  <Position name="TARSKI" nr="3" line="177" col="7"/>
+  <Position name="XBOOLE_0" nr="8" line="289" col="9"/>
+  <Position name="STRUCT_0" nr="1" line="333" col="12"/>
+  <Position name="ORDERS_2" nr="2" line="407" col="7"/>
+  <Position name="RELAT_2" nr="1" line="407" col="7"/>
+  <Position name="FIN_TOPO" nr="4" line="418" col="5"/>
+  <Position name="SETFAM_1" nr="11" line="438" col="5"/>
+  <Position name="TARSKI" nr="3" line="438" col="5"/>
+  <Position name="TARSKI" nr="3" line="637" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="650" col="7"/>
+  <Position name="TARSKI" nr="3" line="651" col="7"/>
+  <Position name="FIN_TOPO" nr="13" line="664" col="5"/>
+  <Position name="TARSKI" nr="3" line="700" col="9"/>
+  <Position name="TARSKI" nr="3" line="716" col="9"/>
+  <Position name="TARSKI" nr="3" line="732" col="5"/>
+  <Position name="TARSKI" nr="3" line="749" col="5"/>
+  <Position name="FIN_TOPO" nr="16" line="842" col="7"/>
+  <Position name="TARSKI" nr="3" line="1080" col="5"/>
+</Positions>

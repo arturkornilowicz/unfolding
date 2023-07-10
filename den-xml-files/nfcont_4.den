@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="136" col="11"/>
+  <Position name="TARSKI" nr="3" line="146" col="11"/>
+  <Position name="FCONT_1" nr="1" line="624" col="5"/>
+  <Position name="TARSKI" nr="3" line="630" col="7"/>
+  <Position name="NFCONT_4" nr="5" line="1435" col="3"/>
+  <Position name="NFCONT_3" nr="2" line="1602" col="7"/>
+</Positions>

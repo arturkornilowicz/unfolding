@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="RLVECT_1" nr="3" line="188" col="12"/>
+  <Position name="RLVECT_1" nr="4" line="195" col="12"/>
+  <Position name="ALGSTR_0" nr="11" line="203" col="12"/>
+  <Position name="ALGSTR_0" nr="16" line="206" col="9"/>
+  <Position name="RLVECT_1" nr="2" line="211" col="12"/>
+  <Position name="VECTSP_1" nr="14" line="368" col="9"/>
+  <Position name="VECTSP_1" nr="13" line="392" col="9"/>
+  <Position name="VECTSP_1" nr="15" line="420" col="9"/>
+  <Position name="VECTSP_1" nr="16" line="440" col="9"/>
+</Positions>

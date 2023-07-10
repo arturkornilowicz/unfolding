@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="FUNCT_1" nr="11" line="93" col="12"/>
+  <Position name="RELAT_1" nr="19" line="105" col="12"/>
+  <Position name="TARSKI" nr="3" line="105" col="12"/>
+  <Position name="TARSKI" nr="3" line="128" col="33"/>
+  <Position name="NORMSP_0" nr="5" line="224" col="6"/>
+</Positions>

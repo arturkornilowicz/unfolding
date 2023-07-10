@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="INT_7" nr="1" line="491" col="7"/>
+  <Position name="TARSKI" nr="3" line="594" col="7"/>
+  <Position name="TARSKI" nr="3" line="1006" col="7"/>
+  <Position name="TARSKI" nr="3" line="1731" col="7"/>
+  <Position name="TARSKI" nr="3" line="1776" col="7"/>
+  <Position name="REALSET1" nr="4" line="1939" col="9"/>
+  <Position name="GROUP_1" nr="3" line="1995" col="7"/>
+  <Position name="GROUP_1" nr="12" line="2040" col="7"/>
+  <Position name="TARSKI" nr="3" line="2277" col="15"/>
+  <Position name="TARSKI" nr="3" line="2490" col="7"/>
+  <Position name="TARSKI" nr="3" line="2691" col="7"/>
+</Positions>

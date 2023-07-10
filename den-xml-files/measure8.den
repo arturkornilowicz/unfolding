@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="PROB_2" nr="2" line="181" col="7"/>
+  <Position name="PROB_2" nr="2" line="238" col="7"/>
+  <Position name="TARSKI" nr="3" line="555" col="9"/>
+  <Position name="TARSKI" nr="3" line="627" col="9"/>
+  <Position name="TARSKI" nr="3" line="1022" col="7"/>
+  <Position name="TARSKI" nr="3" line="1048" col="7"/>
+  <Position name="TARSKI" nr="3" line="1501" col="7"/>
+  <Position name="TARSKI" nr="3" line="2550" col="11"/>
+</Positions>

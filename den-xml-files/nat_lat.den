@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="LATTICES" nr="10" line="147" col="10"/>
+  <Position name="LATTICES" nr="4" line="147" col="10"/>
+  <Position name="LATTICES" nr="5" line="147" col="10"/>
+  <Position name="LATTICES" nr="8" line="147" col="10"/>
+  <Position name="LATTICES" nr="6" line="147" col="10"/>
+  <Position name="LATTICES" nr="7" line="147" col="10"/>
+  <Position name="LATTICES" nr="9" line="147" col="10"/>
+  <Position name="XBOOLE_0" nr="10" line="280" col="10"/>
+  <Position name="TARSKI" nr="3" line="282" col="7"/>
+  <Position name="NAT_LAT" nr="12" line="529" col="10"/>
+</Positions>

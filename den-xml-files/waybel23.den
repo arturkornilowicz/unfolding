@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="51" col="7"/>
+  <Position name="TARSKI" nr="3" line="68" col="7"/>
+  <Position name="TARSKI" nr="3" line="93" col="9"/>
+  <Position name="TARSKI" nr="3" line="133" col="5"/>
+  <Position name="TARSKI" nr="3" line="157" col="5"/>
+  <Position name="XBOOLE_0" nr="10" line="185" col="15"/>
+  <Position name="TARSKI" nr="3" line="186" col="5"/>
+  <Position name="TARSKI" nr="3" line="215" col="5"/>
+  <Position name="LATTICE3" nr="9" line="243" col="11"/>
+  <Position name="TARSKI" nr="3" line="312" col="7"/>
+  <Position name="TARSKI" nr="3" line="337" col="7"/>
+  <Position name="TARSKI" nr="3" line="362" col="7"/>
+  <Position name="TARSKI" nr="3" line="385" col="7"/>
+  <Position name="TARSKI" nr="3" line="410" col="5"/>
+  <Position name="TARSKI" nr="3" line="432" col="5"/>
+  <Position name="WAYBEL23" nr="3" line="526" col="19"/>
+  <Position name="WAYBEL23" nr="4" line="531" col="19"/>
+  <Position name="WAYBEL23" nr="8" line="1259" col="15"/>
+  <Position name="WAYBEL23" nr="9" line="1265" col="12"/>
+  <Position name="YELLOW_0" nr="4" line="1309" col="6"/>
+  <Position name="TARSKI" nr="3" line="1424" col="11"/>
+  <Position name="TARSKI" nr="3" line="1546" col="7"/>
+  <Position name="TARSKI" nr="3" line="2119" col="11"/>
+  <Position name="LATTICE3" nr="9" line="2166" col="13"/>
+  <Position name="TARSKI" nr="3" line="2196" col="13"/>
+  <Position name="LATTICE3" nr="9" line="2238" col="13"/>
+  <Position name="TARSKI" nr="3" line="2265" col="13"/>
+  <Position name="TARSKI" nr="3" line="2353" col="11"/>
+  <Position name="TARSKI" nr="3" line="2373" col="11"/>
+  <Position name="XBOOLE_0" nr="10" line="2419" col="12"/>
+  <Position name="TARSKI" nr="3" line="2420" col="7"/>
+  <Position name="TARSKI" nr="3" line="2497" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="2506" col="5"/>
+  <Position name="TARSKI" nr="3" line="2510" col="7"/>
+  <Position name="LATTICE3" nr="9" line="2594" col="13"/>
+  <Position name="LATTICE3" nr="9" line="2624" col="11"/>
+  <Position name="TARSKI" nr="3" line="2640" col="11"/>
+  <Position name="YELLOW_0" nr="17" line="2662" col="7"/>
+  <Position name="TARSKI" nr="3" line="2750" col="7"/>
+  <Position name="TARSKI" nr="3" line="2762" col="7"/>
+  <Position name="TARSKI" nr="3" line="2807" col="7"/>
+</Positions>

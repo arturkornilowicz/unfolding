@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="CARD_LAR" nr="5" line="342" col="7"/>
+  <Position name="CARD_LAR" nr="7" line="418" col="5"/>
+  <Position name="CARD_LAR" nr="5" line="553" col="5"/>
+  <Position name="TARSKI" nr="3" line="591" col="7"/>
+  <Position name="CARD_LAR" nr="5" line="711" col="5"/>
+  <Position name="TARSKI" nr="3" line="800" col="11"/>
+  <Position name="TARSKI" nr="3" line="1028" col="9"/>
+  <Position name="TARSKI" nr="3" line="1036" col="9"/>
+  <Position name="TARSKI" nr="3" line="1240" col="7"/>
+  <Position name="ORDINAL1" nr="8" line="1389" col="7"/>
+  <Position name="CLASSES1" nr="2" line="1431" col="8"/>
+  <Position name="CLASSES1" nr="1" line="1431" col="8"/>
+  <Position name="TARSKI" nr="3" line="1472" col="13"/>
+</Positions>

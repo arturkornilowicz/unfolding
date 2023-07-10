@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="FUNCT_2" nr="8" line="83" col="5"/>
+  <Position name="FUNCT_2" nr="8" line="93" col="5"/>
+  <Position name="FUNCT_2" nr="8" line="103" col="5"/>
+  <Position name="FUNCT_2" nr="8" line="114" col="5"/>
+  <Position name="FUNCT_2" nr="8" line="126" col="5"/>
+  <Position name="FUNCT_2" nr="8" line="138" col="5"/>
+  <Position name="FUNCT_2" nr="8" line="150" col="5"/>
+  <Position name="FUNCT_2" nr="8" line="238" col="7"/>
+  <Position name="BVFUNC_1" nr="12" line="461" col="5"/>
+  <Position name="BVFUNC_1" nr="12" line="530" col="5"/>
+  <Position name="BVFUNC_1" nr="12" line="574" col="5"/>
+</Positions>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="68" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="76" col="7"/>
+  <Position name="TARSKI" nr="3" line="77" col="7"/>
+  <Position name="XXREAL_2" nr="1" line="193" col="7"/>
+  <Position name="TARSKI" nr="3" line="1004" col="9"/>
+  <Position name="TARSKI" nr="3" line="1082" col="9"/>
+  <Position name="XXREAL_2" nr="2" line="1466" col="9"/>
+  <Position name="MEASURE4" nr="1" line="1481" col="15"/>
+  <Position name="XXREAL_2" nr="2" line="1495" col="7"/>
+  <Position name="VALUED_0" nr="19" line="1504" col="15"/>
+  <Position name="TARSKI" nr="3" line="1510" col="7"/>
+</Positions>

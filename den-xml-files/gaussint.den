@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="GAUSSINT" nr="1" line="81" col="12"/>
+  <Position name="ALGSTR_0" nr="11" line="341" col="10"/>
+  <Position name="ALGSTR_0" nr="11" line="454" col="10"/>
+  <Position name="GROUP_1" nr="12" line="537" col="7"/>
+  <Position name="STRUCT_0" nr="1" line="560" col="12"/>
+  <Position name="ALGSTR_0" nr="11" line="613" col="10"/>
+  <Position name="GAUSSINT" nr="10" line="868" col="12"/>
+  <Position name="TARSKI" nr="3" line="1376" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="1405" col="12"/>
+  <Position name="TARSKI" nr="3" line="1406" col="7"/>
+  <Position name="ALGSTR_0" nr="11" line="1562" col="10"/>
+  <Position name="ALGSTR_0" nr="11" line="1676" col="10"/>
+</Positions>

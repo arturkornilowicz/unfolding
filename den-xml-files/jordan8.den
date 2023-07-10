@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="GOBOARD1" nr="9" line="55" col="5"/>
+  <Position name="GOBOARD1" nr="9" line="70" col="10"/>
+  <Position name="GOBOARD1" nr="9" line="146" col="12"/>
+  <Position name="GOBOARD5" nr="5" line="457" col="5"/>
+  <Position name="TOPREAL1" nr="5" line="460" col="7"/>
+  <Position name="SEQM_3" nr="10" line="492" col="8"/>
+  <Position name="GOBOARD1" nr="4" line="732" col="9"/>
+  <Position name="SEQM_3" nr="10" line="736" col="9"/>
+  <Position name="GOBOARD1" nr="5" line="761" col="9"/>
+  <Position name="SEQM_3" nr="10" line="765" col="9"/>
+  <Position name="GOBOARD1" nr="6" line="801" col="9"/>
+  <Position name="SEQM_3" nr="1" line="805" col="9"/>
+  <Position name="GOBOARD1" nr="7" line="838" col="7"/>
+  <Position name="SEQM_3" nr="1" line="842" col="7"/>
+  <Position name="XBOOLE_0" nr="7" line="990" col="8"/>
+  <Position name="XBOOLE_0" nr="7" line="1057" col="8"/>
+  <Position name="XBOOLE_0" nr="7" line="1122" col="8"/>
+  <Position name="XBOOLE_0" nr="7" line="1187" col="8"/>
+</Positions>

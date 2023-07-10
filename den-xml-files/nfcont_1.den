@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="92" col="9"/>
+  <Position name="TARSKI" nr="3" line="110" col="7"/>
+  <Position name="TARSKI" nr="3" line="241" col="9"/>
+  <Position name="TARSKI" nr="3" line="352" col="9"/>
+  <Position name="NFCONT_1" nr="5" line="730" col="2"/>
+  <Position name="NFCONT_1" nr="7" line="1013" col="11"/>
+  <Position name="NFCONT_1" nr="7" line="1023" col="9"/>
+  <Position name="NFCONT_1" nr="8" line="1041" col="11"/>
+  <Position name="NFCONT_1" nr="8" line="1051" col="9"/>
+  <Position name="NFCONT_1" nr="7" line="1066" col="2"/>
+  <Position name="NFCONT_1" nr="5" line="1080" col="2"/>
+  <Position name="NFCONT_1" nr="7" line="1108" col="8"/>
+  <Position name="NFCONT_1" nr="5" line="1116" col="11"/>
+  <Position name="NFCONT_1" nr="8" line="1262" col="2"/>
+  <Position name="NFCONT_1" nr="6" line="1271" col="13"/>
+  <Position name="NFCONT_1" nr="7" line="1504" col="10"/>
+  <Position name="NFCONT_1" nr="7" line="1595" col="10"/>
+  <Position name="NFCONT_1" nr="8" line="1642" col="10"/>
+  <Position name="NFCONT_1" nr="9" line="1684" col="10"/>
+  <Position name="NFCONT_1" nr="9" line="1714" col="2"/>
+  <Position name="NFCONT_1" nr="9" line="1763" col="2"/>
+  <Position name="NFCONT_1" nr="9" line="1803" col="2"/>
+  <Position name="NFCONT_1" nr="10" line="1862" col="2"/>
+  <Position name="NFCONT_1" nr="9" line="1906" col="8"/>
+</Positions>

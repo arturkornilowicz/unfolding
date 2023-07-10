@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="STRUCT_0" nr="1" line="53" col="12"/>
+  <Position name="RLVECT_1" nr="2" line="103" col="7"/>
+  <Position name="RLVECT_1" nr="3" line="110" col="7"/>
+  <Position name="RLVECT_1" nr="4" line="117" col="7"/>
+  <Position name="ALGSTR_0" nr="16" line="122" col="5"/>
+  <Position name="ALGSTR_0" nr="11" line="123" col="6"/>
+  <Position name="SYMSP_1" nr="1" line="328" col="12"/>
+</Positions>

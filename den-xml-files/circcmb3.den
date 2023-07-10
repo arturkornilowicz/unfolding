@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="CIRCCMB3" nr="3" line="98" col="9"/>
+  <Position name="CIRCCMB3" nr="2" line="100" col="7"/>
+  <Position name="CIRCCMB3" nr="1" line="101" col="8"/>
+  <Position name="TARSKI" nr="3" line="491" col="7"/>
+  <Position name="TARSKI" nr="3" line="495" col="9"/>
+  <Position name="TARSKI" nr="3" line="512" col="7"/>
+  <Position name="CIRCCMB3" nr="3" line="846" col="8"/>
+  <Position name="TARSKI" nr="3" line="1083" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="1096" col="7"/>
+  <Position name="TARSKI" nr="3" line="1097" col="7"/>
+  <Position name="CIRCCMB3" nr="9" line="1163" col="6"/>
+  <Position name="CIRCCMB3" nr="10" line="1232" col="8"/>
+  <Position name="CIRCCOMB" nr="3" line="1377" col="9"/>
+  <Position name="MSAFREE2" nr="11" line="1409" col="7"/>
+  <Position name="FINSET_1" nr="5" line="1409" col="7"/>
+  <Position name="CIRCCOMB" nr="10" line="1442" col="7"/>
+  <Position name="CIRCCMB3" nr="9" line="1532" col="10"/>
+  <Position name="REWRITE1" nr="16" line="1593" col="7"/>
+  <Position name="TARSKI" nr="3" line="1638" col="7"/>
+  <Position name="TARSKI" nr="3" line="1645" col="7"/>
+  <Position name="TARSKI" nr="3" line="1652" col="7"/>
+  <Position name="TARSKI" nr="3" line="1700" col="11"/>
+  <Position name="TARSKI" nr="3" line="1834" col="7"/>
+  <Position name="CIRCCMB3" nr="3" line="1847" col="6"/>
+  <Position name="CIRCUIT2" nr="6" line="1868" col="17"/>
+  <Position name="TARSKI" nr="3" line="1987" col="7"/>
+  <Position name="TARSKI" nr="3" line="2045" col="7"/>
+  <Position name="FACIRC_1" nr="3" line="3073" col="7"/>
+  <Position name="CIRCCMB3" nr="11" line="3113" col="23"/>
+  <Position name="RELAT_1" nr="1" line="3161" col="7"/>
+  <Position name="RELAT_1" nr="1" line="3175" col="7"/>
+  <Position name="CIRCCMB3" nr="11" line="3194" col="23"/>
+  <Position name="CIRCCMB3" nr="11" line="3220" col="23"/>
+  <Position name="CIRCCMB3" nr="11" line="3227" col="23"/>
+  <Position name="CIRCCMB3" nr="11" line="3271" col="23"/>
+  <Position name="CIRCCMB3" nr="11" line="3277" col="23"/>
+  <Position name="CIRCCMB3" nr="11" line="3335" col="23"/>
+  <Position name="CIRCCMB3" nr="11" line="3341" col="23"/>
+</Positions>

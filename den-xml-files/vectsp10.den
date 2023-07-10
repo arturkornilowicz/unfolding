@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="ALGSTR_0" nr="16" line="111" col="7"/>
+  <Position name="ALGSTR_0" nr="11" line="116" col="8"/>
+  <Position name="TARSKI" nr="3" line="279" col="7"/>
+  <Position name="VECTSP_5" nr="4" line="504" col="11"/>
+  <Position name="TARSKI" nr="3" line="702" col="9"/>
+  <Position name="RLVECT_1" nr="4" line="913" col="9"/>
+  <Position name="ALGSTR_0" nr="16" line="925" col="9"/>
+  <Position name="ALGSTR_0" nr="11" line="936" col="10"/>
+  <Position name="RLVECT_1" nr="2" line="976" col="9"/>
+  <Position name="RLVECT_1" nr="3" line="992" col="9"/>
+  <Position name="VECTSP_1" nr="19" line="1185" col="7"/>
+  <Position name="HAHNBAN1" nr="8" line="1207" col="7"/>
+  <Position name="HAHNBAN1" nr="9" line="1258" col="11"/>
+  <Position name="HAHNBAN1" nr="9" line="1274" col="10"/>
+  <Position name="FUNCT_1" nr="10" line="1286" col="7"/>
+  <Position name="VECTSP_1" nr="19" line="1389" col="9"/>
+  <Position name="HAHNBAN1" nr="8" line="1396" col="9"/>
+  <Position name="VECTSP_1" nr="19" line="1480" col="9"/>
+  <Position name="HAHNBAN1" nr="8" line="1487" col="9"/>
+  <Position name="TARSKI" nr="3" line="1650" col="9"/>
+  <Position name="VECTSP_4" nr="1" line="1698" col="5"/>
+  <Position name="TARSKI" nr="3" line="1733" col="11"/>
+  <Position name="TARSKI" nr="3" line="1944" col="9"/>
+  <Position name="VECTSP10" nr="10" line="1960" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="1960" col="7"/>
+  <Position name="TARSKI" nr="3" line="1963" col="9"/>
+</Positions>

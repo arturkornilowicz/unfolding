@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="FUNCT_1" nr="1" line="50" col="7"/>
+  <Position name="RELAT_1" nr="1" line="68" col="7"/>
+  <Position name="WAYBEL_0" nr="19" line="143" col="7"/>
+  <Position name="TARSKI" nr="3" line="157" col="5"/>
+  <Position name="WELLFND1" nr="1" line="173" col="5"/>
+  <Position name="WELLFND1" nr="2" line="211" col="7"/>
+  <Position name="WELLORD1" nr="3" line="211" col="7"/>
+  <Position name="XBOOLE_0" nr="7" line="217" col="10"/>
+  <Position name="WELLFND1" nr="3" line="239" col="7"/>
+  <Position name="WELLORD1" nr="3" line="239" col="7"/>
+  <Position name="TARSKI" nr="3" line="255" col="9"/>
+  <Position name="WELLFND1" nr="1" line="287" col="13"/>
+  <Position name="WELLFND1" nr="3" line="289" col="7"/>
+  <Position name="WELLORD1" nr="3" line="289" col="7"/>
+  <Position name="WELLFND1" nr="3" line="327" col="7"/>
+  <Position name="WELLORD1" nr="3" line="327" col="7"/>
+  <Position name="WELLFND1" nr="3" line="359" col="7"/>
+  <Position name="WELLORD1" nr="3" line="359" col="7"/>
+  <Position name="XBOOLE_0" nr="7" line="379" col="12"/>
+  <Position name="WELLFND1" nr="2" line="415" col="5"/>
+  <Position name="WELLORD1" nr="3" line="415" col="5"/>
+  <Position name="TARSKI" nr="3" line="696" col="9"/>
+  <Position name="TARSKI" nr="3" line="711" col="9"/>
+  <Position name="TARSKI" nr="3" line="764" col="11"/>
+  <Position name="TARSKI" nr="3" line="779" col="11"/>
+  <Position name="WELLFND1" nr="1" line="835" col="11"/>
+  <Position name="WELLFND1" nr="5" line="858" col="7"/>
+  <Position name="WELLFND1" nr="2" line="864" col="5"/>
+  <Position name="WELLORD1" nr="3" line="864" col="5"/>
+  <Position name="XBOOLE_0" nr="7" line="881" col="8"/>
+  <Position name="WELLFND1" nr="5" line="956" col="7"/>
+  <Position name="WELLFND1" nr="5" line="1007" col="7"/>
+  <Position name="TARSKI" nr="3" line="1145" col="7"/>
+</Positions>

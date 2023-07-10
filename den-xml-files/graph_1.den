@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="GRAPH_1" nr="11" line="377" col="12"/>
+  <Position name="GRAPH_1" nr="14" line="479" col="10"/>
+  <Position name="TARSKI" nr="3" line="507" col="9"/>
+  <Position name="FUNCT_1" nr="4" line="569" col="7"/>
+  <Position name="GRAPH_1" nr="17" line="630" col="8"/>
+  <Position name="TARSKI" nr="3" line="1117" col="7"/>
+  <Position name="GRAPH_1" nr="24" line="1913" col="11"/>
+  <Position name="GRAPH_1" nr="18" line="1913" col="11"/>
+  <Position name="TARSKI" nr="3" line="2087" col="9"/>
+  <Position name="TARSKI" nr="3" line="2165" col="7"/>
+</Positions>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="BINOP_1" nr="3" line="221" col="12"/>
+  <Position name="BINOP_1" nr="2" line="224" col="7"/>
+  <Position name="BINOP_1" nr="7" line="251" col="10"/>
+  <Position name="BINOP_1" nr="7" line="255" col="9"/>
+  <Position name="BINOP_1" nr="5" line="255" col="9"/>
+  <Position name="BINOP_1" nr="6" line="255" col="9"/>
+  <Position name="BINOP_1" nr="11" line="359" col="10"/>
+  <Position name="BINOP_1" nr="11" line="364" col="9"/>
+  <Position name="BINOP_1" nr="9" line="364" col="9"/>
+  <Position name="BINOP_1" nr="10" line="364" col="9"/>
+  <Position name="FUNCT_1" nr="10" line="519" col="5"/>
+</Positions>

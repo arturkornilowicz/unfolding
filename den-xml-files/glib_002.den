@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="GLIB_002" nr="2" line="109" col="10"/>
+  <Position name="TARSKI" nr="3" line="500" col="5"/>
+  <Position name="GLIB_002" nr="12" line="2261" col="7"/>
+  <Position name="GLIB_002" nr="13" line="2280" col="7"/>
+  <Position name="GLIB_002" nr="14" line="2298" col="7"/>
+  <Position name="GLIB_002" nr="15" line="2336" col="7"/>
+  <Position name="GLIB_002" nr="16" line="2353" col="7"/>
+  <Position name="GLIB_002" nr="17" line="2370" col="7"/>
+  <Position name="GLIB_002" nr="12" line="2392" col="7"/>
+  <Position name="GLIB_002" nr="14" line="2404" col="7"/>
+  <Position name="GLIB_002" nr="14" line="2461" col="7"/>
+  <Position name="TARSKI" nr="3" line="2894" col="5"/>
+  <Position name="TARSKI" nr="3" line="2940" col="5"/>
+  <Position name="TARSKI" nr="3" line="2957" col="7"/>
+  <Position name="GLIB_002" nr="10" line="3111" col="5"/>
+</Positions>

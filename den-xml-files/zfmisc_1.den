@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="39" col="5"/>
+  <Position name="TARSKI" nr="3" line="47" col="5"/>
+  <Position name="TARSKI" nr="3" line="115" col="9"/>
+  <Position name="TARSKI" nr="3" line="222" col="5"/>
+  <Position name="XBOOLE_0" nr="7" line="256" col="8"/>
+  <Position name="TARSKI" nr="3" line="269" col="7"/>
+  <Position name="XBOOLE_0" nr="7" line="273" col="5"/>
+  <Position name="XBOOLE_0" nr="10" line="273" col="5"/>
+  <Position name="TARSKI" nr="3" line="503" col="9"/>
+  <Position name="TARSKI" nr="3" line="648" col="5"/>
+  <Position name="XBOOLE_0" nr="7" line="737" col="8"/>
+  <Position name="TARSKI" nr="3" line="867" col="5"/>
+  <Position name="TARSKI" nr="3" line="885" col="5"/>
+  <Position name="XBOOLE_0" nr="9" line="906" col="9"/>
+  <Position name="TARSKI" nr="3" line="926" col="5"/>
+  <Position name="TARSKI" nr="3" line="942" col="5"/>
+  <Position name="TARSKI" nr="3" line="950" col="7"/>
+  <Position name="TARSKI" nr="3" line="973" col="5"/>
+  <Position name="TARSKI" nr="3" line="987" col="5"/>
+  <Position name="TARSKI" nr="3" line="1001" col="7"/>
+  <Position name="TARSKI" nr="3" line="1017" col="5"/>
+  <Position name="TARSKI" nr="3" line="1074" col="5"/>
+  <Position name="TARSKI" nr="3" line="1089" col="7"/>
+  <Position name="TARSKI" nr="3" line="1153" col="5"/>
+  <Position name="TARSKI" nr="3" line="1162" col="7"/>
+  <Position name="TARSKI" nr="3" line="1356" col="5"/>
+  <Position name="TARSKI" nr="3" line="1370" col="7"/>
+  <Position name="TARSKI" nr="3" line="1378" col="5"/>
+  <Position name="TARSKI" nr="3" line="1507" col="7"/>
+  <Position name="TARSKI" nr="3" line="1586" col="7"/>
+  <Position name="TARSKI" nr="3" line="1894" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="1898" col="5"/>
+  <Position name="TARSKI" nr="3" line="1901" col="7"/>
+  <Position name="TARSKI" nr="3" line="1935" col="9"/>
+  <Position name="TARSKI" nr="3" line="2044" col="7"/>
+  <Position name="XBOOLE_0" nr="7" line="2048" col="5"/>
+  <Position name="XBOOLE_0" nr="10" line="2048" col="5"/>
+  <Position name="ZFMISC_1" nr="10" line="2150" col="7"/>
+  <Position name="ZFMISC_1" nr="10" line="2283" col="5"/>
+  <Position name="ZFMISC_1" nr="10" line="2293" col="7"/>
+  <Position name="ZFMISC_1" nr="10" line="2446" col="6"/>
+</Positions>

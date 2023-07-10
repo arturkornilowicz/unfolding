@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="POLNOT_1" nr="16" line="212" col="5"/>
+  <Position name="TARSKI" nr="3" line="375" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="381" col="7"/>
+  <Position name="TARSKI" nr="3" line="382" col="7"/>
+  <Position name="TARSKI" nr="3" line="723" col="9"/>
+  <Position name="TARSKI" nr="3" line="746" col="9"/>
+  <Position name="TARSKI" nr="3" line="769" col="9"/>
+  <Position name="GRZLOG_1" nr="30" line="865" col="5"/>
+  <Position name="GRZLOG_1" nr="30" line="957" col="5"/>
+  <Position name="GRZLOG_1" nr="30" line="973" col="5"/>
+  <Position name="GRZLOG_1" nr="32" line="1077" col="6"/>
+  <Position name="GRZLOG_1" nr="32" line="1135" col="6"/>
+  <Position name="GRZLOG_1" nr="30" line="1140" col="5"/>
+  <Position name="GRZLOG_1" nr="33" line="1201" col="5"/>
+</Positions>

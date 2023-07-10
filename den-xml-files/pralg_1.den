@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="XBOOLE_0" nr="10" line="168" col="14"/>
+  <Position name="TARSKI" nr="3" line="170" col="9"/>
+  <Position name="MARGREL1" nr="22" line="191" col="9"/>
+  <Position name="MARGREL1" nr="21" line="203" col="9"/>
+  <Position name="MARGREL1" nr="1" line="203" col="9"/>
+  <Position name="MARGREL1" nr="24" line="339" col="7"/>
+  <Position name="FUNCT_1" nr="9" line="355" col="7"/>
+  <Position name="MARGREL1" nr="23" line="371" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="430" col="10"/>
+  <Position name="TARSKI" nr="3" line="431" col="5"/>
+  <Position name="FUNCT_1" nr="4" line="446" col="5"/>
+  <Position name="UNIALG_2" nr="7" line="578" col="11"/>
+  <Position name="UNIALG_2" nr="3" line="615" col="7"/>
+  <Position name="TARSKI" nr="3" line="776" col="9"/>
+  <Position name="PRALG_1" nr="10" line="1028" col="7"/>
+  <Position name="PBOOLE" nr="13" line="1216" col="7"/>
+  <Position name="PRALG_1" nr="18" line="1424" col="5"/>
+  <Position name="TARSKI" nr="3" line="1565" col="11"/>
+  <Position name="TARSKI" nr="3" line="1574" col="13"/>
+  <Position name="TARSKI" nr="3" line="1607" col="11"/>
+  <Position name="TARSKI" nr="3" line="1616" col="13"/>
+  <Position name="TARSKI" nr="3" line="1787" col="17"/>
+  <Position name="MARGREL1" nr="21" line="1848" col="9"/>
+  <Position name="MARGREL1" nr="1" line="1848" col="9"/>
+  <Position name="MARGREL1" nr="22" line="1858" col="9"/>
+</Positions>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="VECTSP_1" nr="19" line="84" col="11"/>
+  <Position name="LOPBAN_1" nr="5" line="94" col="11"/>
+  <Position name="RLSUB_1" nr="1" line="504" col="12"/>
+  <Position name="TARSKI" nr="3" line="705" col="8"/>
+  <Position name="FUNCT_2" nr="8" line="757" col="8"/>
+  <Position name="TARSKI" nr="3" line="816" col="9"/>
+  <Position name="LOPBAN_1" nr="8" line="928" col="13"/>
+</Positions>

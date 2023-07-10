@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="POLYNOM1" nr="5" line="56" col="16"/>
+  <Position name="TARSKI" nr="3" line="86" col="15"/>
+  <Position name="POLYNOM1" nr="5" line="93" col="17"/>
+  <Position name="ALGSEQ_1" nr="1" line="103" col="8"/>
+  <Position name="TARSKI" nr="3" line="384" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="392" col="7"/>
+  <Position name="TARSKI" nr="3" line="395" col="9"/>
+</Positions>

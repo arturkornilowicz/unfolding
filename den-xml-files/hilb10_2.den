@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="150" col="9"/>
+  <Position name="TARSKI" nr="3" line="201" col="7"/>
+  <Position name="TARSKI" nr="3" line="213" col="7"/>
+  <Position name="VALUED_0" nr="12" line="231" col="7"/>
+  <Position name="VALUED_0" nr="12" line="240" col="7"/>
+  <Position name="VALUED_0" nr="12" line="256" col="7"/>
+  <Position name="TARSKI" nr="3" line="295" col="9"/>
+  <Position name="RELAT_1" nr="19" line="302" col="7"/>
+  <Position name="TARSKI" nr="3" line="310" col="9"/>
+  <Position name="RELAT_1" nr="19" line="317" col="7"/>
+  <Position name="TARSKI" nr="3" line="324" col="9"/>
+  <Position name="RELAT_1" nr="19" line="333" col="7"/>
+  <Position name="TARSKI" nr="3" line="344" col="9"/>
+  <Position name="RELAT_1" nr="19" line="377" col="7"/>
+  <Position name="TARSKI" nr="3" line="712" col="9"/>
+  <Position name="TARSKI" nr="3" line="737" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="750" col="9"/>
+  <Position name="TARSKI" nr="3" line="751" col="5"/>
+  <Position name="TARSKI" nr="3" line="777" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="784" col="5"/>
+  <Position name="TARSKI" nr="3" line="785" col="5"/>
+  <Position name="TARSKI" nr="3" line="1070" col="7"/>
+  <Position name="TARSKI" nr="3" line="1081" col="7"/>
+  <Position name="FUNCT_1" nr="4" line="1100" col="7"/>
+  <Position name="TARSKI" nr="3" line="1418" col="7"/>
+  <Position name="TARSKI" nr="3" line="1434" col="7"/>
+  <Position name="FUNCT_1" nr="4" line="1595" col="7"/>
+  <Position name="TARSKI" nr="3" line="1608" col="7"/>
+  <Position name="TARSKI" nr="3" line="1618" col="7"/>
+  <Position name="FUNCT_1" nr="4" line="1765" col="7"/>
+  <Position name="TARSKI" nr="3" line="1782" col="7"/>
+  <Position name="TARSKI" nr="3" line="1794" col="7"/>
+  <Position name="TARSKI" nr="3" line="1862" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="1870" col="5"/>
+  <Position name="TARSKI" nr="3" line="1871" col="5"/>
+  <Position name="TARSKI" nr="3" line="2119" col="9"/>
+  <Position name="HILB10_2" nr="6" line="2180" col="8"/>
+  <Position name="HILB10_2" nr="6" line="2196" col="8"/>
+  <Position name="HILB10_2" nr="6" line="2271" col="11"/>
+  <Position name="HILB10_2" nr="6" line="2385" col="11"/>
+</Positions>

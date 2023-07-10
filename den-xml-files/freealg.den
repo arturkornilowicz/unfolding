@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="FREEALG" nr="2" line="101" col="10"/>
+  <Position name="FREEALG" nr="2" line="109" col="12"/>
+  <Position name="TARSKI" nr="3" line="150" col="5"/>
+  <Position name="FREEALG" nr="4" line="185" col="10"/>
+  <Position name="FREEALG" nr="4" line="193" col="5"/>
+  <Position name="XBOOLE_0" nr="10" line="197" col="8"/>
+  <Position name="TARSKI" nr="3" line="452" col="7"/>
+  <Position name="TARSKI" nr="3" line="477" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="491" col="5"/>
+  <Position name="TARSKI" nr="3" line="492" col="5"/>
+  <Position name="XBOOLE_0" nr="10" line="515" col="16"/>
+  <Position name="TARSKI" nr="3" line="516" col="5"/>
+  <Position name="DTCONSTR" nr="5" line="542" col="9"/>
+  <Position name="TARSKI" nr="3" line="567" col="11"/>
+  <Position name="DTCONSTR" nr="5" line="601" col="9"/>
+  <Position name="TARSKI" nr="3" line="614" col="11"/>
+  <Position name="TARSKI" nr="3" line="718" col="11"/>
+  <Position name="XBOOLE_0" nr="10" line="722" col="9"/>
+  <Position name="TARSKI" nr="3" line="724" col="9"/>
+  <Position name="MARGREL1" nr="1" line="752" col="9"/>
+  <Position name="TARSKI" nr="3" line="926" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="960" col="15"/>
+  <Position name="TARSKI" nr="3" line="974" col="13"/>
+  <Position name="TARSKI" nr="3" line="1021" col="9"/>
+  <Position name="FREEALG" nr="5" line="1088" col="5"/>
+  <Position name="TARSKI" nr="3" line="1268" col="11"/>
+  <Position name="XBOOLE_0" nr="10" line="1272" col="9"/>
+  <Position name="TARSKI" nr="3" line="1274" col="9"/>
+  <Position name="MARGREL1" nr="1" line="1302" col="9"/>
+  <Position name="UNIALG_2" nr="11" line="1483" col="6"/>
+  <Position name="TARSKI" nr="3" line="1533" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="1554" col="15"/>
+  <Position name="TARSKI" nr="3" line="1568" col="13"/>
+  <Position name="TARSKI" nr="3" line="1615" col="9"/>
+  <Position name="FREEALG" nr="5" line="1662" col="5"/>
+</Positions>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="SCMPDS_4" nr="7" line="456" col="5"/>
+  <Position name="EXTPRO_1" nr="8" line="462" col="6"/>
+  <Position name="EXTPRO_1" nr="8" line="536" col="5"/>
+  <Position name="SCMPDS_4" nr="6" line="609" col="7"/>
+  <Position name="SCMPDS_4" nr="9" line="669" col="7"/>
+  <Position name="SCMPDS_4" nr="9" line="844" col="7"/>
+</Positions>

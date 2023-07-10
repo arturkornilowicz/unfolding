@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="655" col="9"/>
+  <Position name="LATTICES" nr="4" line="795" col="7"/>
+  <Position name="LATTICES" nr="8" line="802" col="7"/>
+  <Position name="LATTICES" nr="5" line="820" col="7"/>
+  <Position name="LATTICES" nr="6" line="835" col="7"/>
+  <Position name="LATTICES" nr="9" line="842" col="7"/>
+  <Position name="LATTICES" nr="7" line="860" col="7"/>
+  <Position name="LATTICES" nr="13" line="879" col="8"/>
+  <Position name="LATTICES" nr="14" line="892" col="8"/>
+  <Position name="LATTICES" nr="19" line="906" col="7"/>
+  <Position name="LATTICES" nr="18" line="929" col="10"/>
+  <Position name="TARSKI" nr="3" line="984" col="9"/>
+  <Position name="TARSKI" nr="3" line="1008" col="7"/>
+  <Position name="LATTICES" nr="4" line="1182" col="7"/>
+  <Position name="LATTICES" nr="8" line="1189" col="7"/>
+  <Position name="LATTICES" nr="9" line="1205" col="7"/>
+  <Position name="LATTICES" nr="5" line="1217" col="7"/>
+  <Position name="LATTICES" nr="7" line="1227" col="7"/>
+  <Position name="LATTICES" nr="6" line="1246" col="7"/>
+  <Position name="LATTICES" nr="14" line="1257" col="8"/>
+  <Position name="LATTICES" nr="11" line="1266" col="7"/>
+  <Position name="LATTICES" nr="19" line="1291" col="7"/>
+  <Position name="LATTICES" nr="18" line="1314" col="10"/>
+  <Position name="LATTICES" nr="13" line="1345" col="8"/>
+  <Position name="TARSKI" nr="3" line="1377" col="9"/>
+  <Position name="TARSKI" nr="3" line="1401" col="7"/>
+  <Position name="LATTICES" nr="4" line="1570" col="7"/>
+  <Position name="LATTICES" nr="8" line="1577" col="7"/>
+  <Position name="LATTICES" nr="9" line="1589" col="7"/>
+  <Position name="LATTICES" nr="7" line="1605" col="7"/>
+  <Position name="LATTICES" nr="5" line="1615" col="7"/>
+  <Position name="LATTICES" nr="6" line="1634" col="7"/>
+  <Position name="LATTICES" nr="14" line="1645" col="8"/>
+  <Position name="LATTICES" nr="11" line="1655" col="7"/>
+  <Position name="LATTICES" nr="19" line="1684" col="7"/>
+  <Position name="LATTICES" nr="18" line="1704" col="10"/>
+  <Position name="LATTICES" nr="13" line="1737" col="8"/>
+  <Position name="NAT_LAT" nr="12" line="1807" col="10"/>
+  <Position name="NAT_LAT" nr="12" line="1858" col="10"/>
+</Positions>

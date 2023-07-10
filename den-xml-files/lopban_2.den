@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="GROUP_1" nr="1" line="476" col="8"/>
+  <Position name="ALGSTR_0" nr="16" line="542" col="7"/>
+  <Position name="ALGSTR_0" nr="11" line="543" col="11"/>
+  <Position name="GROUP_1" nr="1" line="600" col="8"/>
+  <Position name="RLVECT_1" nr="2" line="699" col="8"/>
+  <Position name="RLVECT_1" nr="3" line="705" col="8"/>
+  <Position name="RLVECT_1" nr="4" line="712" col="8"/>
+  <Position name="ALGSTR_0" nr="16" line="718" col="8"/>
+  <Position name="ALGSTR_0" nr="11" line="723" col="9"/>
+  <Position name="GROUP_1" nr="3" line="728" col="8"/>
+  <Position name="VECTSP_1" nr="4" line="738" col="8"/>
+  <Position name="VECTSP_1" nr="2" line="745" col="8"/>
+  <Position name="RLVECT_1" nr="5" line="754" col="8"/>
+  <Position name="RLVECT_1" nr="6" line="762" col="8"/>
+  <Position name="RLVECT_1" nr="7" line="770" col="8"/>
+  <Position name="FUNCSDOM" nr="9" line="778" col="8"/>
+  <Position name="STRUCT_0" nr="1" line="897" col="12"/>
+  <Position name="GROUP_1" nr="1" line="939" col="8"/>
+  <Position name="NORMSP_0" nr="6" line="1033" col="10"/>
+  <Position name="ALGSTR_0" nr="16" line="1055" col="7"/>
+  <Position name="ALGSTR_0" nr="11" line="1056" col="11"/>
+  <Position name="LOPBAN_2" nr="9" line="1147" col="9"/>
+  <Position name="LOPBAN_2" nr="12" line="1158" col="7"/>
+  <Position name="LOPBAN_2" nr="11" line="1164" col="9"/>
+  <Position name="VECTSP_1" nr="8" line="1171" col="9"/>
+  <Position name="VECTSP_1" nr="3" line="1178" col="9"/>
+</Positions>

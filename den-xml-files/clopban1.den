@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="ALGSTR_0" nr="11" line="288" col="8"/>
+  <Position name="VECTSP_1" nr="19" line="439" col="12"/>
+  <Position name="CLOPBAN1" nr="3" line="446" col="12"/>
+  <Position name="CLOPBAN1" nr="3" line="517" col="9"/>
+  <Position name="VECTSP_1" nr="19" line="524" col="9"/>
+  <Position name="FUNCT_1" nr="13" line="531" col="7"/>
+  <Position name="CLOPBAN1" nr="3" line="554" col="11"/>
+  <Position name="VECTSP_1" nr="19" line="567" col="11"/>
+  <Position name="CLOPBAN1" nr="3" line="594" col="11"/>
+  <Position name="VECTSP_1" nr="19" line="607" col="11"/>
+  <Position name="CLOPBAN1" nr="3" line="760" col="7"/>
+  <Position name="VECTSP_1" nr="19" line="767" col="7"/>
+  <Position name="CLOPBAN1" nr="6" line="835" col="6"/>
+  <Position name="CLOPBAN1" nr="6" line="939" col="10"/>
+  <Position name="CLOPBAN1" nr="6" line="968" col="10"/>
+  <Position name="XXREAL_2" nr="10" line="1151" col="8"/>
+  <Position name="XXREAL_2" nr="1" line="1152" col="9"/>
+  <Position name="CLOPBAN1" nr="6" line="2017" col="8"/>
+</Positions>

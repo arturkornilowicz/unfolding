@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="116" col="7"/>
+  <Position name="MSAFREE2" nr="6" line="230" col="9"/>
+  <Position name="MSAFREE2" nr="10" line="567" col="8"/>
+  <Position name="MSAFREE2" nr="10" line="567" col="8"/>
+  <Position name="MSAFREE2" nr="13" line="670" col="9"/>
+  <Position name="MSAFREE2" nr="11" line="680" col="9"/>
+  <Position name="FINSET_1" nr="5" line="680" col="9"/>
+  <Position name="MSUALG_2" nr="6" line="727" col="13"/>
+  <Position name="MSUALG_2" nr="5" line="728" col="13"/>
+  <Position name="TARSKI" nr="3" line="728" col="13"/>
+  <Position name="PBOOLE" nr="2" line="771" col="11"/>
+  <Position name="MSAFREE2" nr="6" line="843" col="9"/>
+  <Position name="MSAFREE2" nr="10" line="879" col="6"/>
+  <Position name="MSAFREE2" nr="10" line="879" col="6"/>
+  <Position name="FINSET_1" nr="5" line="890" col="9"/>
+  <Position name="FUNCT_1" nr="4" line="916" col="13"/>
+</Positions>

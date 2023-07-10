@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="MESFUNC5" nr="2" line="259" col="5"/>
+  <Position name="MESFUNC5" nr="1" line="259" col="5"/>
+  <Position name="MESFUNC5" nr="2" line="271" col="5"/>
+  <Position name="MESFUNC5" nr="1" line="271" col="5"/>
+  <Position name="TARSKI" nr="3" line="532" col="7"/>
+  <Position name="TARSKI" nr="3" line="576" col="7"/>
+  <Position name="TARSKI" nr="3" line="1641" col="7"/>
+  <Position name="TARSKI" nr="3" line="1771" col="7"/>
+  <Position name="FINSEQ_1" nr="4" line="1905" col="5"/>
+  <Position name="TARSKI" nr="3" line="1905" col="5"/>
+  <Position name="XBOOLE_0" nr="10" line="2128" col="13"/>
+  <Position name="TARSKI" nr="3" line="2130" col="7"/>
+  <Position name="TARSKI" nr="3" line="2477" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="2741" col="9"/>
+  <Position name="TARSKI" nr="3" line="2742" col="5"/>
+  <Position name="FINSEQ_1" nr="4" line="6035" col="7"/>
+  <Position name="TARSKI" nr="3" line="6035" col="7"/>
+  <Position name="TARSKI" nr="3" line="6199" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="6251" col="7"/>
+  <Position name="TARSKI" nr="3" line="6252" col="7"/>
+  <Position name="TARSKI" nr="3" line="6905" col="9"/>
+  <Position name="TARSKI" nr="3" line="7579" col="11"/>
+</Positions>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="PRE_TOPC" nr="4" line="302" col="13"/>
+  <Position name="PRE_TOPC" nr="4" line="325" col="13"/>
+  <Position name="TMAP_1" nr="2" line="1371" col="5"/>
+  <Position name="TMAP_1" nr="2" line="1404" col="5"/>
+  <Position name="BORSUK_1" nr="1" line="1426" col="7"/>
+  <Position name="XBOOLE_0" nr="7" line="2793" col="8"/>
+</Positions>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="CLOPBAN3" nr="1" line="87" col="8"/>
+  <Position name="CLVECT_1" nr="15" line="87" col="8"/>
+  <Position name="CLVECT_1" nr="15" line="267" col="6"/>
+  <Position name="CLVECT_1" nr="15" line="338" col="6"/>
+  <Position name="CLVECT_1" nr="15" line="415" col="6"/>
+  <Position name="CLOPBAN3" nr="3" line="434" col="6"/>
+  <Position name="SERIES_1" nr="2" line="434" col="6"/>
+  <Position name="SEQ_2" nr="6" line="434" col="6"/>
+  <Position name="CLOPBAN3" nr="3" line="880" col="11"/>
+  <Position name="CLOPBAN3" nr="3" line="908" col="11"/>
+  <Position name="CLOPBAN3" nr="3" line="939" col="11"/>
+  <Position name="CLOPBAN3" nr="3" line="1042" col="11"/>
+  <Position name="VECTSP_1" nr="6" line="1127" col="7"/>
+</Positions>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="112" col="5"/>
+  <Position name="TARSKI" nr="3" line="177" col="7"/>
+  <Position name="TARSKI" nr="3" line="182" col="5"/>
+  <Position name="TARSKI" nr="3" line="234" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="262" col="5"/>
+  <Position name="TARSKI" nr="3" line="263" col="5"/>
+  <Position name="TARSKI" nr="3" line="752" col="13"/>
+  <Position name="TARSKI" nr="3" line="781" col="17"/>
+  <Position name="TARSKI" nr="3" line="961" col="17"/>
+  <Position name="TARSKI" nr="3" line="1097" col="17"/>
+  <Position name="TARSKI" nr="3" line="1229" col="13"/>
+  <Position name="TARSKI" nr="3" line="1258" col="17"/>
+  <Position name="TARSKI" nr="3" line="1439" col="17"/>
+  <Position name="TARSKI" nr="3" line="1578" col="17"/>
+  <Position name="LIMFUNC3" nr="2" line="1998" col="7"/>
+  <Position name="LIMFUNC3" nr="3" line="2032" col="7"/>
+  <Position name="LIMFUNC3" nr="3" line="2066" col="7"/>
+  <Position name="LIMFUNC3" nr="2" line="2097" col="5"/>
+  <Position name="LIMFUNC3" nr="2" line="2262" col="10"/>
+  <Position name="LIMFUNC3" nr="3" line="2342" col="10"/>
+  <Position name="TARSKI" nr="3" line="2633" col="13"/>
+  <Position name="TARSKI" nr="3" line="2665" col="17"/>
+  <Position name="TARSKI" nr="3" line="2850" col="17"/>
+  <Position name="TARSKI" nr="3" line="2991" col="17"/>
+  <Position name="TARSKI" nr="3" line="3574" col="13"/>
+  <Position name="TARSKI" nr="3" line="3587" col="13"/>
+  <Position name="TARSKI" nr="3" line="3672" col="13"/>
+  <Position name="TARSKI" nr="3" line="3685" col="13"/>
+  <Position name="TARSKI" nr="3" line="3841" col="11"/>
+  <Position name="TARSKI" nr="3" line="3924" col="11"/>
+  <Position name="TARSKI" nr="3" line="3960" col="9"/>
+  <Position name="LIMFUNC3" nr="2" line="4060" col="5"/>
+  <Position name="TARSKI" nr="3" line="4081" col="7"/>
+  <Position name="LIMFUNC3" nr="3" line="4160" col="5"/>
+  <Position name="TARSKI" nr="3" line="4181" col="7"/>
+</Positions>

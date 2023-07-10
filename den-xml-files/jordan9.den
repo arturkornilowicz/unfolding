@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="XBOOLE_0" nr="10" line="811" col="12"/>
+  <Position name="GOBRD13" nr="6" line="2038" col="31"/>
+  <Position name="GOBRD13" nr="6" line="2096" col="31"/>
+  <Position name="GOBRD13" nr="6" line="2151" col="31"/>
+  <Position name="GOBRD13" nr="6" line="2209" col="31"/>
+  <Position name="GOBRD13" nr="8" line="2270" col="31"/>
+  <Position name="GOBRD13" nr="8" line="2328" col="31"/>
+  <Position name="GOBRD13" nr="8" line="2385" col="31"/>
+  <Position name="GOBRD13" nr="8" line="2440" col="31"/>
+  <Position name="GOBRD13" nr="7" line="2500" col="31"/>
+  <Position name="GOBRD13" nr="7" line="2556" col="31"/>
+  <Position name="GOBRD13" nr="7" line="2613" col="31"/>
+  <Position name="GOBRD13" nr="7" line="2668" col="31"/>
+  <Position name="TARSKI" nr="3" line="2798" col="9"/>
+  <Position name="SEQM_3" nr="10" line="4576" col="10"/>
+  <Position name="GOBOARD5" nr="4" line="4595" col="9"/>
+  <Position name="TARSKI" nr="3" line="5662" col="11"/>
+</Positions>

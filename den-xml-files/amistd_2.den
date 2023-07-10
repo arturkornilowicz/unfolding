@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="XBOOLE_0" nr="10" line="152" col="15"/>
+  <Position name="TARSKI" nr="3" line="152" col="15"/>
+  <Position name="TARSKI" nr="3" line="155" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="193" col="13"/>
+  <Position name="TARSKI" nr="3" line="193" col="13"/>
+  <Position name="TARSKI" nr="3" line="195" col="7"/>
+  <Position name="AMISTD_2" nr="2" line="210" col="6"/>
+  <Position name="AMISTD_2" nr="1" line="211" col="12"/>
+  <Position name="AMISTD_2" nr="2" line="245" col="9"/>
+  <Position name="AMISTD_2" nr="1" line="248" col="16"/>
+  <Position name="COMPOS_0" nr="8" line="301" col="5"/>
+  <Position name="COMPOS_0" nr="8" line="323" col="16"/>
+  <Position name="COMPOS_0" nr="8" line="339" col="16"/>
+  <Position name="AMISTD_2" nr="3" line="391" col="5"/>
+  <Position name="AMISTD_2" nr="3" line="415" col="5"/>
+  <Position name="AMISTD_2" nr="4" line="432" col="9"/>
+  <Position name="AMISTD_2" nr="3" line="432" col="9"/>
+  <Position name="AMISTD_1" nr="9" line="534" col="7"/>
+  <Position name="TARSKI" nr="3" line="541" col="7"/>
+</Positions>

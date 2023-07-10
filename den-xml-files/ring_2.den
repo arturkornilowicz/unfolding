@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="RELAT_1" nr="19" line="73" col="10"/>
+  <Position name="RING_2" nr="1" line="187" col="13"/>
+  <Position name="RING_2" nr="2" line="189" col="8"/>
+  <Position name="VECTSP_1" nr="19" line="352" col="5"/>
+  <Position name="GROUP_6" nr="6" line="368" col="4"/>
+  <Position name="RING_2" nr="4" line="458" col="11"/>
+  <Position name="RING_2" nr="4" line="465" col="11"/>
+  <Position name="RING_2" nr="4" line="468" col="11"/>
+  <Position name="RING_2" nr="4" line="475" col="11"/>
+  <Position name="RING_2" nr="4" line="478" col="11"/>
+  <Position name="RING_2" nr="4" line="481" col="11"/>
+  <Position name="FUNCT_2" nr="8" line="739" col="4"/>
+  <Position name="IDEAL_1" nr="1" line="839" col="6"/>
+  <Position name="IDEAL_1" nr="2" line="856" col="6"/>
+  <Position name="IDEAL_1" nr="3" line="873" col="6"/>
+  <Position name="GROUP_1" nr="12" line="1239" col="4"/>
+  <Position name="IDEAL_1" nr="28" line="1943" col="7"/>
+  <Position name="RING_2" nr="12" line="2393" col="17"/>
+  <Position name="RING_2" nr="11" line="2394" col="25"/>
+  <Position name="RING_2" nr="14" line="2722" col="7"/>
+  <Position name="INT_3" nr="9" line="3060" col="5"/>
+</Positions>

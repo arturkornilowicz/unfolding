@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="62" col="7"/>
+  <Position name="MSUHOM_1" nr="1" line="162" col="11"/>
+  <Position name="MSUALG_3" nr="7" line="520" col="5"/>
+  <Position name="MSUALG_3" nr="8" line="582" col="8"/>
+  <Position name="MSUALG_3" nr="3" line="583" col="5"/>
+  <Position name="MSUALG_3" nr="9" line="607" col="13"/>
+  <Position name="MSUALG_3" nr="2" line="612" col="5"/>
+  <Position name="ALG_1" nr="1" line="634" col="9"/>
+</Positions>

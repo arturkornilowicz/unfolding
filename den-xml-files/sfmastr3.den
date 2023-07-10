@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="SCMFSA7B" nr="2" line="78" col="5"/>
+  <Position name="TARSKI" nr="3" line="743" col="5"/>
+  <Position name="SCMFSA9A" nr="4" line="935" col="7"/>
+  <Position name="SCMFSA9A" nr="4" line="991" col="7"/>
+  <Position name="TARSKI" nr="3" line="1242" col="5"/>
+  <Position name="TARSKI" nr="3" line="2638" col="5"/>
+</Positions>

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="262" col="7"/>
+  <Position name="TARSKI" nr="3" line="299" col="7"/>
+  <Position name="TARSKI" nr="3" line="350" col="7"/>
+  <Position name="TARSKI" nr="3" line="387" col="7"/>
+  <Position name="TARSKI" nr="3" line="420" col="7"/>
+  <Position name="TARSKI" nr="3" line="510" col="9"/>
+  <Position name="TARSKI" nr="3" line="561" col="9"/>
+  <Position name="RLVECT_3" nr="1" line="668" col="5"/>
+  <Position name="TARSKI" nr="3" line="700" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="707" col="7"/>
+  <Position name="TARSKI" nr="3" line="708" col="7"/>
+  <Position name="RLVECT_3" nr="1" line="723" col="5"/>
+  <Position name="RLVECT_3" nr="1" line="749" col="5"/>
+  <Position name="TARSKI" nr="3" line="815" col="9"/>
+  <Position name="RLVECT_3" nr="1" line="840" col="5"/>
+  <Position name="TARSKI" nr="3" line="962" col="9"/>
+  <Position name="RLSUB_1" nr="1" line="984" col="9"/>
+  <Position name="TARSKI" nr="3" line="1039" col="7"/>
+  <Position name="TARSKI" nr="3" line="1103" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="1108" col="5"/>
+  <Position name="TARSKI" nr="3" line="1110" col="5"/>
+  <Position name="TARSKI" nr="3" line="1261" col="9"/>
+  <Position name="TARSKI" nr="3" line="1294" col="9"/>
+  <Position name="TARSKI" nr="3" line="1303" col="9"/>
+  <Position name="RLVECT_2" nr="9" line="1314" col="9"/>
+  <Position name="TARSKI" nr="3" line="1411" col="9"/>
+  <Position name="RLVECT_3" nr="1" line="1423" col="9"/>
+  <Position name="TARSKI" nr="3" line="1482" col="11"/>
+  <Position name="RLVECT_3" nr="1" line="1524" col="7"/>
+  <Position name="TARSKI" nr="3" line="1550" col="13"/>
+  <Position name="TARSKI" nr="3" line="1576" col="13"/>
+  <Position name="RLVECT_2" nr="9" line="1586" col="13"/>
+  <Position name="TARSKI" nr="3" line="1618" col="13"/>
+  <Position name="TARSKI" nr="3" line="1659" col="9"/>
+  <Position name="RLVECT_3" nr="1" line="1671" col="9"/>
+  <Position name="TARSKI" nr="3" line="1730" col="11"/>
+  <Position name="TARSKI" nr="3" line="1748" col="9"/>
+  <Position name="TARSKI" nr="3" line="1783" col="11"/>
+  <Position name="RLVECT_3" nr="1" line="1804" col="7"/>
+  <Position name="TARSKI" nr="3" line="1829" col="13"/>
+  <Position name="TARSKI" nr="3" line="1854" col="13"/>
+  <Position name="RLVECT_2" nr="9" line="1864" col="13"/>
+  <Position name="TARSKI" nr="3" line="1896" col="13"/>
+</Positions>

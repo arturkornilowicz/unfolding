@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="80" col="9"/>
+  <Position name="CAT_1" nr="7" line="252" col="11"/>
+  <Position name="CAT_1" nr="9" line="254" col="6"/>
+  <Position name="CAT_1" nr="8" line="267" col="11"/>
+  <Position name="CAT_1" nr="10" line="270" col="5"/>
+  <Position name="CAT_1" nr="6" line="283" col="11"/>
+  <Position name="CAT_1" nr="20" line="900" col="9"/>
+  <Position name="CAT_1" nr="20" line="911" col="6"/>
+  <Position name="CAT_1" nr="19" line="930" col="5"/>
+  <Position name="CAT_1" nr="20" line="958" col="6"/>
+  <Position name="CAT_1" nr="20" line="972" col="7"/>
+  <Position name="CAT_1" nr="19" line="975" col="5"/>
+  <Position name="CAT_1" nr="18" line="1008" col="5"/>
+  <Position name="CAT_1" nr="20" line="1036" col="6"/>
+  <Position name="CAT_1" nr="20" line="1050" col="7"/>
+  <Position name="CAT_1" nr="18" line="1053" col="5"/>
+  <Position name="CAT_1" nr="20" line="1117" col="7"/>
+  <Position name="CAT_1" nr="20" line="1119" col="7"/>
+  <Position name="CAT_1" nr="20" line="1121" col="6"/>
+  <Position name="CAT_1" nr="21" line="1182" col="10"/>
+  <Position name="CAT_1" nr="25" line="1492" col="10"/>
+  <Position name="CAT_1" nr="26" line="1559" col="5"/>
+  <Position name="CAT_1" nr="27" line="1582" col="5"/>
+  <Position name="TARSKI" nr="3" line="1600" col="5"/>
+  <Position name="CAT_1" nr="26" line="1674" col="5"/>
+  <Position name="CAT_1" nr="27" line="1721" col="5"/>
+  <Position name="TARSKI" nr="3" line="1748" col="11"/>
+  <Position name="XBOOLE_0" nr="10" line="1754" col="5"/>
+  <Position name="TARSKI" nr="3" line="1755" col="4"/>
+</Positions>

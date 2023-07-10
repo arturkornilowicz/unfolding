@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="51" col="9"/>
+  <Position name="TARSKI" nr="3" line="250" col="7"/>
+  <Position name="ZF_LANG" nr="9" line="290" col="10"/>
+  <Position name="ZF_LANG" nr="40" line="1343" col="6"/>
+  <Position name="ZF_LANG" nr="40" line="1402" col="8"/>
+  <Position name="ZF_LANG" nr="41" line="1416" col="5"/>
+  <Position name="ZF_LANG" nr="41" line="1425" col="8"/>
+  <Position name="ZF_LANG" nr="41" line="1471" col="8"/>
+  <Position name="ZF_LANG" nr="41" line="1500" col="8"/>
+  <Position name="ZF_LANG" nr="41" line="1500" col="8"/>
+  <Position name="ZF_LANG" nr="40" line="1527" col="8"/>
+  <Position name="ZF_LANG" nr="41" line="1608" col="5"/>
+  <Position name="ZF_LANG" nr="41" line="1673" col="8"/>
+  <Position name="ZF_LANG" nr="40" line="1689" col="6"/>
+  <Position name="ZF_LANG" nr="41" line="1725" col="8"/>
+  <Position name="ZF_LANG" nr="40" line="1748" col="8"/>
+  <Position name="ZF_LANG" nr="41" line="1780" col="8"/>
+  <Position name="ZF_LANG" nr="40" line="1796" col="6"/>
+  <Position name="TARSKI" nr="3" line="1950" col="5"/>
+</Positions>

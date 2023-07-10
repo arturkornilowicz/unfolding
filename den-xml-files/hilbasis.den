@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="132" col="7"/>
+  <Position name="TARSKI" nr="3" line="596" col="9"/>
+  <Position name="TARSKI" nr="3" line="1567" col="13"/>
+  <Position name="TARSKI" nr="3" line="1677" col="11"/>
+  <Position name="VECTSP_1" nr="19" line="1779" col="9"/>
+  <Position name="GROUP_6" nr="6" line="1814" col="9"/>
+  <Position name="TARSKI" nr="3" line="1991" col="13"/>
+  <Position name="TARSKI" nr="3" line="2640" col="11"/>
+  <Position name="IDEAL_1" nr="8" line="2886" col="13"/>
+  <Position name="IDEAL_1" nr="26" line="3138" col="5"/>
+  <Position name="TARSKI" nr="3" line="3186" col="7"/>
+  <Position name="TARSKI" nr="3" line="3201" col="7"/>
+</Positions>

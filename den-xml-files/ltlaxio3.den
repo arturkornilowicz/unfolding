@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="152" col="9"/>
+  <Position name="TARSKI" nr="3" line="157" col="11"/>
+  <Position name="TARSKI" nr="3" line="183" col="7"/>
+  <Position name="TARSKI" nr="3" line="504" col="9"/>
+  <Position name="TARSKI" nr="3" line="518" col="11"/>
+  <Position name="TARSKI" nr="3" line="531" col="11"/>
+  <Position name="TARSKI" nr="3" line="542" col="9"/>
+  <Position name="TARSKI" nr="3" line="659" col="9"/>
+  <Position name="TARSKI" nr="3" line="693" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="697" col="7"/>
+  <Position name="TARSKI" nr="3" line="700" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="718" col="13"/>
+  <Position name="TARSKI" nr="3" line="718" col="13"/>
+  <Position name="TARSKI" nr="3" line="720" col="7"/>
+  <Position name="TARSKI" nr="3" line="732" col="7"/>
+  <Position name="TARSKI" nr="3" line="828" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="838" col="7"/>
+  <Position name="TARSKI" nr="3" line="848" col="9"/>
+  <Position name="TARSKI" nr="3" line="1259" col="9"/>
+  <Position name="FINSET_1" nr="6" line="1277" col="7"/>
+  <Position name="LTLAXIO1" nr="16" line="1353" col="9"/>
+  <Position name="LTLAXIO1" nr="16" line="1380" col="9"/>
+  <Position name="LTLAXIO1" nr="14" line="1421" col="10"/>
+  <Position name="LTLAXIO1" nr="16" line="1498" col="9"/>
+  <Position name="LTLAXIO1" nr="16" line="1541" col="9"/>
+  <Position name="LTLAXIO1" nr="16" line="1597" col="11"/>
+  <Position name="LTLAXIO1" nr="16" line="1638" col="12"/>
+  <Position name="LTLAXIO1" nr="16" line="1663" col="12"/>
+  <Position name="TARSKI" nr="3" line="1924" col="10"/>
+  <Position name="TARSKI" nr="3" line="2018" col="14"/>
+</Positions>

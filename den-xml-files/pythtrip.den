@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="INT_2" nr="3" line="60" col="11"/>
+  <Position name="PYTHTRIP" nr="1" line="80" col="7"/>
+  <Position name="ABIAN" nr="1" line="334" col="7"/>
+  <Position name="INT_1" nr="3" line="334" col="7"/>
+  <Position name="PYTHTRIP" nr="2" line="659" col="7"/>
+  <Position name="ORDINAL1" nr="16" line="838" col="13"/>
+  <Position name="ORDINAL1" nr="16" line="855" col="13"/>
+  <Position name="PYTHTRIP" nr="7" line="900" col="7"/>
+  <Position name="ORDINAL1" nr="16" line="926" col="11"/>
+</Positions>

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="PRE_TOPC" nr="6" line="151" col="5"/>
+  <Position name="SEQFUNC" nr="12" line="349" col="10"/>
+  <Position name="TIETZE" nr="1" line="405" col="5"/>
+  <Position name="SEQFUNC" nr="11" line="542" col="10"/>
+  <Position name="TARSKI" nr="3" line="624" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="671" col="15"/>
+  <Position name="TARSKI" nr="3" line="671" col="15"/>
+  <Position name="TARSKI" nr="3" line="673" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="693" col="11"/>
+  <Position name="TARSKI" nr="3" line="693" col="11"/>
+  <Position name="TARSKI" nr="3" line="695" col="5"/>
+  <Position name="TIETZE" nr="1" line="713" col="5"/>
+  <Position name="TIETZE" nr="1" line="733" col="5"/>
+  <Position name="TIETZE" nr="1" line="762" col="5"/>
+  <Position name="TARSKI" nr="3" line="788" col="7"/>
+  <Position name="TIETZE" nr="1" line="815" col="7"/>
+  <Position name="TIETZE" nr="1" line="825" col="7"/>
+  <Position name="COMPTS_1" nr="3" line="892" col="5"/>
+  <Position name="TARSKI" nr="3" line="906" col="7"/>
+  <Position name="TARSKI" nr="3" line="917" col="7"/>
+  <Position name="TARSKI" nr="3" line="977" col="9"/>
+  <Position name="TIETZE" nr="1" line="1079" col="5"/>
+  <Position name="TIETZE" nr="1" line="1097" col="5"/>
+  <Position name="TARSKI" nr="3" line="1136" col="9"/>
+  <Position name="TIETZE" nr="1" line="1168" col="9"/>
+  <Position name="TIETZE" nr="1" line="1407" col="9"/>
+  <Position name="TARSKI" nr="3" line="1473" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="1484" col="13"/>
+  <Position name="TARSKI" nr="3" line="1485" col="9"/>
+  <Position name="XBOOLE_0" nr="10" line="1496" col="13"/>
+  <Position name="TARSKI" nr="3" line="1497" col="9"/>
+</Positions>

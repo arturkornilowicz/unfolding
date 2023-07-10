@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="OSALG_1" nr="16" line="121" col="7"/>
+  <Position name="OSALG_4" nr="1" line="195" col="9"/>
+  <Position name="OSALG_4" nr="1" line="265" col="9"/>
+  <Position name="TARSKI" nr="3" line="361" col="9"/>
+  <Position name="OSALG_4" nr="8" line="798" col="5"/>
+  <Position name="TARSKI" nr="3" line="895" col="11"/>
+  <Position name="TARSKI" nr="3" line="1169" col="7"/>
+  <Position name="OSALG_1" nr="16" line="1201" col="9"/>
+  <Position name="MSUALG_3" nr="8" line="2118" col="9"/>
+  <Position name="OSALG_3" nr="1" line="2147" col="7"/>
+  <Position name="OSALG_4" nr="1" line="2177" col="7"/>
+  <Position name="MSUALG_3" nr="9" line="2416" col="10"/>
+  <Position name="OSALG_3" nr="1" line="2461" col="7"/>
+  <Position name="XBOOLE_0" nr="10" line="2512" col="12"/>
+  <Position name="TARSKI" nr="3" line="2513" col="7"/>
+  <Position name="OSALG_4" nr="1" line="2571" col="7"/>
+  <Position name="OSALG_4" nr="26" line="2593" col="5"/>
+  <Position name="OSALG_4" nr="26" line="2658" col="5"/>
+  <Position name="OSALG_1" nr="21" line="2693" col="7"/>
+  <Position name="OSALG_4" nr="26" line="2811" col="5"/>
+  <Position name="OSALG_3" nr="1" line="3067" col="7"/>
+</Positions>

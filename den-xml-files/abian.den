@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="ABIAN" nr="2" line="84" col="8"/>
+  <Position name="ABIAN" nr="2" line="91" col="7"/>
+  <Position name="ABIAN" nr="2" line="97" col="8"/>
+  <Position name="ABIAN" nr="2" line="104" col="7"/>
+  <Position name="ABIAN" nr="2" line="110" col="8"/>
+  <Position name="ABIAN" nr="1" line="158" col="7"/>
+  <Position name="INT_1" nr="3" line="158" col="7"/>
+  <Position name="ABIAN" nr="3" line="390" col="11"/>
+  <Position name="ABIAN" nr="5" line="444" col="7"/>
+  <Position name="RELAT_1" nr="2" line="514" col="7"/>
+  <Position name="FUNCT_1" nr="9" line="582" col="7"/>
+  <Position name="SETFAM_1" nr="10" line="606" col="8"/>
+  <Position name="XBOOLE_0" nr="10" line="671" col="19"/>
+  <Position name="TARSKI" nr="3" line="671" col="19"/>
+  <Position name="TARSKI" nr="3" line="674" col="11"/>
+  <Position name="TARSKI" nr="3" line="732" col="11"/>
+  <Position name="TARSKI" nr="3" line="770" col="11"/>
+  <Position name="TARSKI" nr="3" line="1002" col="11"/>
+  <Position name="XBOOLE_0" nr="10" line="1033" col="19"/>
+  <Position name="TARSKI" nr="3" line="1033" col="19"/>
+  <Position name="TARSKI" nr="3" line="1036" col="11"/>
+  <Position name="TARSKI" nr="3" line="1064" col="11"/>
+  <Position name="XBOOLE_0" nr="10" line="1136" col="15"/>
+  <Position name="TARSKI" nr="3" line="1136" col="15"/>
+  <Position name="TARSKI" nr="3" line="1139" col="7"/>
+</Positions>

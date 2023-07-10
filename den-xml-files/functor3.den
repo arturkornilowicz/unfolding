@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="PBOOLE" nr="15" line="207" col="9"/>
+  <Position name="FUNCTOR0" nr="23" line="430" col="7"/>
+  <Position name="FUNCTOR0" nr="23" line="456" col="7"/>
+  <Position name="FUNCTOR0" nr="24" line="482" col="7"/>
+  <Position name="FUNCTOR0" nr="24" line="508" col="7"/>
+  <Position name="FUNCTOR2" nr="1" line="572" col="8"/>
+  <Position name="FUNCTOR2" nr="1" line="574" col="8"/>
+  <Position name="FUNCTOR2" nr="1" line="576" col="5"/>
+  <Position name="FUNCTOR2" nr="2" line="612" col="12"/>
+  <Position name="FUNCTOR2" nr="2" line="677" col="13"/>
+  <Position name="FUNCTOR2" nr="7" line="1109" col="9"/>
+  <Position name="FUNCTOR2" nr="7" line="1141" col="9"/>
+  <Position name="FUNCTOR2" nr="2" line="1242" col="11"/>
+  <Position name="FUNCTOR3" nr="4" line="1340" col="8"/>
+  <Position name="FUNCTOR3" nr="4" line="1345" col="8"/>
+  <Position name="FUNCTOR3" nr="4" line="1350" col="9"/>
+  <Position name="FUNCTOR3" nr="5" line="1379" col="2"/>
+  <Position name="FUNCTOR3" nr="5" line="1480" col="13"/>
+</Positions>

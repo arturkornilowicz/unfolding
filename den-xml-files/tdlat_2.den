@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Positions>
+  <Position name="TARSKI" nr="3" line="1287" col="7"/>
+  <Position name="TARSKI" nr="3" line="1363" col="7"/>
+  <Position name="TARSKI" nr="3" line="1437" col="7"/>
+  <Position name="TARSKI" nr="3" line="1510" col="7"/>
+  <Position name="TARSKI" nr="3" line="1547" col="11"/>
+  <Position name="TARSKI" nr="3" line="1574" col="7"/>
+  <Position name="TARSKI" nr="3" line="1610" col="11"/>
+  <Position name="LATTICE3" nr="17" line="2603" col="7"/>
+  <Position name="LATTICE3" nr="17" line="2633" col="9"/>
+  <Position name="LATTICE3" nr="17" line="2647" col="9"/>
+  <Position name="LATTICE3" nr="18" line="2664" col="5"/>
+  <Position name="LATTICE3" nr="17" line="2688" col="9"/>
+  <Position name="LATTICE3" nr="16" line="2748" col="9"/>
+  <Position name="LATTICE3" nr="17" line="2964" col="7"/>
+  <Position name="LATTICE3" nr="17" line="2995" col="9"/>
+  <Position name="LATTICE3" nr="17" line="3011" col="9"/>
+  <Position name="LATTICE3" nr="18" line="3028" col="5"/>
+  <Position name="LATTICE3" nr="17" line="3052" col="9"/>
+  <Position name="LATTICE3" nr="16" line="3113" col="9"/>
+  <Position name="LATTICE3" nr="17" line="3356" col="7"/>
+  <Position name="LATTICE3" nr="17" line="3386" col="9"/>
+  <Position name="LATTICE3" nr="17" line="3401" col="9"/>
+  <Position name="LATTICE3" nr="18" line="3418" col="5"/>
+  <Position name="LATTICE3" nr="17" line="3442" col="9"/>
+  <Position name="LATTICE3" nr="16" line="3503" col="9"/>
+</Positions>
